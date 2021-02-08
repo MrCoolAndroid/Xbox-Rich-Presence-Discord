@@ -19,5 +19,6 @@ Open the app and follow instructions
 ## To-Do list
 * Show Xbox Live party
 * Multi-language Rich Presence
+* GUI App
 
 *Note: Not all games haves an image as Discord only can storage up to 150 images, i will be updating the app with more images*
