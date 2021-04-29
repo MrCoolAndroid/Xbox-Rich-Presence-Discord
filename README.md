@@ -11,7 +11,7 @@
 ![logo](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/raw/main/Example.png)
 
 ## Installation
-Download latest release
+Download latest release and extract it
 
 Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
 
