@@ -12,13 +12,18 @@
 
 ## Installation
 Download latest release
-Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on the app root directory (Example C:\Documents\XboxRichPresence\) as a .txt file named api.txt
-Open the app and follow instructions
+
+Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
+
+Open the app and insert your Gamertag and API key
+
+Press Start!
 
 
 ## To-Do list
-* Show Xbox Live party
-* Multi-language Rich Presence
-* GUI App
+- [ ] Show Xbox Live party
+- [ ] Multi-language Rich Presence
+- [x] GUI App
+- [ ] Database for games
 
-*Note: Not all games haves an image as Discord only can storage up to 150 images, i will be updating the app with more images*
+*Note: Not all games haves an image as Discord only can storage up to 350 images, i will be updating the app with more images*
