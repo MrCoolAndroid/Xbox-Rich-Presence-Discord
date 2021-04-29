@@ -15,6 +15,8 @@ Download latest release
 
 Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
 
+*This is a temporal step: Create a folder on C:\ named "temp"*
+
 Open the app and insert your Gamertag and API key
 
 Press Start!
