@@ -28,4 +28,10 @@ Press Start!
 - [x] GUI App
 - [x] Database for games
 
+## Contributors
+People that helped me creating the app!
+- Klaudex17 (Games pictures)
+
+And many people on Discord!
+
 *Note: Not all games haves an image as Discord only can storage up to 350 images, i will be updating the database with more images*
