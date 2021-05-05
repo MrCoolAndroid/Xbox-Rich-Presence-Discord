@@ -26,6 +26,6 @@ Press Start!
 - [ ] Show Xbox Live party
 - [ ] Multi-language Rich Presence
 - [x] GUI App
-- [ ] Database for games
+- [x] Database for games
 
 *Note: Not all games haves an image as Discord only can storage up to 350 images, i will be updating the app with more images*
