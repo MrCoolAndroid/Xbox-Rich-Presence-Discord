@@ -31,6 +31,7 @@ Press Start!
 ## Contributors
 People that helped me creating the app!
 - Klaudex17 (Games pictures)
+- Sebaskiro (Games pictures)
 
 And many people on Discord!
 
