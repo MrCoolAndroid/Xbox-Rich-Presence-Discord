@@ -11,11 +11,9 @@
 ![logo](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/raw/main/Example.png)
 
 ## Installation
-Download latest release and extract it
+Download latest release and install it following instructions on the setup
 
 Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
-
-*This is a temporal step: Create a folder on C:\ named "temp"*
 
 Open the app and insert your Gamertag and API key
 
@@ -38,4 +36,4 @@ And many people on Discord!
 
 If you're not seeing any image while playing your game, please contact me on Discord *MrCoolAndroid#0003* and i will add an image to your game!
 
-*Note: Not all games haves an image as Discord only can storage up to 350 images, i will be updating the database with more images*
+*Note: Not all games haves an image as Discord only can storage up to 300 images, i will be updating the database with more images*
