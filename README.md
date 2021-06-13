@@ -34,6 +34,6 @@ People that helped me creating the app!
 
 And many people on Discord!
 
-If you're not seeing any image while playing your game, please contact me on Discord *MrCoolAndroid#0003* and i will add an image to your game!
+If you're not seeing any image while playing your game, please contact me on Discord *MrCoolAndroid#2118* and i will add an image to your game!
 
 *Note: Not all games haves an image as Discord only can storage up to 300 images, i will be updating the database with more images*
