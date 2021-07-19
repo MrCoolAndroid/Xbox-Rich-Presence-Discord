@@ -1,4 +1,7 @@
-# Xbox Rich Presence for Discord
+# Xbox Rich Presence (Deprecated, working on a remake)
+
+Database got deleted, so if you don't see any image on your status that's why, I'm currently making a remake so stay tuned 
+
 *Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live u can use this*
 ## This Rich Presence contains:
 1. Game/app name
