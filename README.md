@@ -7,20 +7,23 @@ Database got deleted, so if you don't see any image on your status or the app is
 1. Game/app name
 2. Game/app image (not all games/apps haves an image)
 3. Timestamp
-4. Device name (Xbox One, Xbox 360, Android, etc) and image
+4. Device name (Xbox One, Xbox 360, etc) and image
 5. Xbox Live Rich Presence (if game/app supports it)
 
-## Example 
-![logo](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/raw/main/Example.png)
+*Note: Android and iOS has been removed for now because the rich presence "mixes" with the actual rich presence, please avoid playing on multiple devices while i try to make a device selector or something like that*
+
+## Example
+![logo](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/raw/main/Example2.png)
+
 
 ## Installation
-Download latest release and install it following instructions on the setup
+1. Download latest release and install it following instructions on the setup
 
-Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
+2. Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
 
-Open the app and insert your Gamertag and API key
+3. Open the app and insert your Gamertag and API key
 
-Press Start!
+4. Press Start!
 
 
 ## To-Do list
@@ -28,11 +31,11 @@ Press Start!
 - [ ] Multi-language Rich Presence
 - [x] GUI App
 - [x] Database for games
+- [ ] Cool animations and effects
 
 ## Contributors
 People that helped me creating the app!
-- Klaudex17 (Games pictures)
-- Sebaskiro (Games pictures)
+- Klaudex17 (Games pictures and design)
 - J_Felipe (Ideas for the app)
 
 And many people on Discord!
