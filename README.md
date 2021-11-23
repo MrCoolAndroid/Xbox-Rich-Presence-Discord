@@ -32,6 +32,7 @@ Database got deleted, so if you don't see any image on your status or the app is
 - [x] GUI App
 - [x] Database for games
 - [ ] Cool animations and effects
+- [ ] Device selector
 
 ## Contributors
 People that helped me creating the app!
