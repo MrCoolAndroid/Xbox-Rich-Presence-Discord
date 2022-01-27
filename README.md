@@ -29,7 +29,7 @@
 - [ ] Multi-language Rich Presence
 - [x] GUI App
 - [x] Database for games
-- [ ] Cool animations and effects
+- [x] Cool animations and effects
 - [ ] Device selector
 
 ## Contributors
