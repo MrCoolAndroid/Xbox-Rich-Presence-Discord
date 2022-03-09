@@ -3,7 +3,7 @@
 *Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live u can use this*
 ## This Rich Presence contains:
 1. Game/app name
-2. Game/app image (not all games/apps haves an image)
+2. Game/app image (not all games/apps haves an image, you can add images by [contributing](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord#contribute))
 3. Timestamp
 4. Device name (Xbox One, Xbox 360, etc) and image
 5. Xbox Live Rich Presence (if game/app supports it)
