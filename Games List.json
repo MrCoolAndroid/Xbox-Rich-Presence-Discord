@@ -157,6 +157,12 @@
           "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1"
         },
         {
+         "titlename": "Dying Light",
+          "titleimage": "DL",
+          "titleicon": "https://cdn.discordapp.com/attachments/930599143041286166/953067144659210240/Discord_DL_Icon_copy_1024x1024.png",
+          "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png"
+        },
+        {
           "titlename": "Minecraft: Xbox 360 Edition",
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
