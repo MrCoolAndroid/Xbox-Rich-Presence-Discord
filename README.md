@@ -8,8 +8,6 @@
 4. Device name (Xbox One, Xbox 360, etc) and image
 5. Xbox Live Rich Presence (if game/app supports it)
 
-*Note: Android and iOS has been removed for now because the rich presence "mixes" with the actual rich presence, please avoid playing on multiple devices while i try to make a device selector or something like that*
-
 ## Example
 ![logo](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/raw/main/Example2.png)
 
@@ -30,7 +28,7 @@
 - [x] GUI App
 - [x] Database for games
 - [x] Cool animations and effects
-- [ ] Device selector
+- [x] Device selector
 
 ## Contribute
 Wanna contribute on adding games with pictures and backgrounds? Now you can! Just do a pull request editing the [Games List.json](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/blob/main/Games%20List.json) file!
