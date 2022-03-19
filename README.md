@@ -1,4 +1,5 @@
 # Xbox Rich Presence
+*Another note: Please before doing anything read this README, many people tried to clone the repository instead of downloading the release*
 
 *Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live u can use this*
 ## This Rich Presence contains:
@@ -13,7 +14,7 @@
 
 
 ## Installation
-1. Download latest release and install it following instructions on the setup
+1. Download the [latest release](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/releases) and install it following instructions on the setup
 
 2. Go to [OpenXBL](https://xbl.io) and login with your Xbox Live account and you will get an API key, save it on a .txt file
 
