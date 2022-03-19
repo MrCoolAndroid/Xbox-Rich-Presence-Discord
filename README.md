@@ -1,5 +1,5 @@
 # Xbox Rich Presence
-*Another note: Please before doing anything read this README, many people tried to clone the repository instead of downloading the release*
+***Another note: Please before doing anything read this README, many people tried to clone the repository instead of downloading the release***
 
 *Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live u can use this*
 ## This Rich Presence contains:
