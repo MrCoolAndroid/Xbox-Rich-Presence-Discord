@@ -42,6 +42,17 @@ People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
 - J_Felipe (Ideas for the app)
 
+People who contributed adding games!
+
+
+<a href="https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=MrCoolAndroid/Xbox-Rich-Presence-Discord" />
+</a>
+
+
+*Made with [contrib.rocks](https://contrib.rocks).*
+
+
 And many people on Discord!
 
 If you're not seeing any image while playing your game, please contact me on Discord *MrCoolAndroid#2118* and i will add an image to your game!
