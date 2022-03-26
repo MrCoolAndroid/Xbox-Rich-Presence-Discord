@@ -7,3 +7,5 @@ Remember, edit the complete code and add your game array, make sure to add
 any necessary commas and brackets  
 
 I will check the code later, edit it with my titleimage and merge it if everything is ok.
+
+*You can delete this text before doing the pull request if you want*
