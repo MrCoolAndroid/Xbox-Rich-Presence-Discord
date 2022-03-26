@@ -188,10 +188,10 @@
         },
         {
           "titlename": "Assassin's Creed Valhalla",
-          "titleimage": "assassin's_creed_valhalla",
-          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0723/i2ICFMr0Ius6qtYYD9GNrY68.jpg",
-          "titlebackground": "https://i.imgur.com/1kTshCv.png"
-        },
+          "titleimage": "ac_valhalla",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png",
+          "titlebackground": "https://images4.alphacoders.com/107/thumb-1920-1077274.jpg"
+        }
       ]
     }
   ]
