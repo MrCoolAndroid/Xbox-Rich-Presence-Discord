@@ -185,7 +185,13 @@
           "titleimage": "marvel_guardians_galaxy",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png",
           "titlebackground": "https://images-na.ssl-images-amazon.com/images/I/815aqpZqkOS.jpg"
-        }
+        },
+        {
+          "titlename": "Assassin's Creed Valhalla",
+          "titleimage": "assassin's_creed_valhalla",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202008/0723/i2ICFMr0Ius6qtYYD9GNrY68.jpg",
+          "titlebackground": "https://i.imgur.com/1kTshCv.png"
+        },
       ]
     }
   ]
