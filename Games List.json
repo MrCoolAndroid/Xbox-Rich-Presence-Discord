@@ -79,6 +79,11 @@
           "titleimage": "0.5.4"
         },
         {
+          "titlename": "BroadcastObj",
+          "titleimage": "True",
+          "titleicon": "API is not responding, app may not work as intended"
+        },
+        {
           "titlename": "Grand Theft Auto V",
           "titleimage": "gta_v",
           "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
