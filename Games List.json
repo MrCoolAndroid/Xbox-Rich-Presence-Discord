@@ -80,7 +80,7 @@
         },
         {
           "titlename": "BroadcastObj",
-          "titleimage": "True",
+          "titleimage": "False",
           "titleicon": "API is not responding, app may not work as intended"
         },
         {
