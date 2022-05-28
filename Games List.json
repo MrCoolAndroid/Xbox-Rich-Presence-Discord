@@ -208,6 +208,12 @@
           "titleimage": "cod_mw2",
           "titleicon": "https://ellocodesebas.files.wordpress.com/2010/07/cod-mw2.jpg",
           "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/9cpUjddAWgBvJTY4MvmqyyE1.png"
+        },
+        {
+          "titlename": "World War Z",
+          "titleimage": "wwz_client",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=54&thumb=true",
+          "titlebackground": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png?w=1024&thumb=false"
         }
       ]
     }
