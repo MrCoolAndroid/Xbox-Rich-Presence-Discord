@@ -214,6 +214,12 @@
           "titleimage": "wwz",
           "titleicon": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png?w=1024&thumb=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=1024&thumb=true"
+        },
+        {
+          "titlename": "Hellblade: Senua's Sacrifice",
+          "titleimage": "hellblade",
+          "titleicon": "https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg",
+          "titlebackground": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/705285/705285_1140x516.jpg"
         }
       ]
     }
