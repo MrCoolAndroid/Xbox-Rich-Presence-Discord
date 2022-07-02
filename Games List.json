@@ -232,6 +232,12 @@
           "titleimage": "fallguys",
           "titleicon": "https://media.vandal.net/m/74361/fall-guys-ultimate-knockout-20208591578_11.jpg",
           "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg"
+        },
+        {
+          "titlename": "Battlefield: Bad Company",
+          "titleimage": "btf_badcompany",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb1353eab083bf555a21713f4b1f1ec2.jpg"
         }
       ]
     }
