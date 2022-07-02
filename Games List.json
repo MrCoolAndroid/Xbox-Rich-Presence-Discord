@@ -226,6 +226,12 @@
           "titleimage": "fifa22",
           "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png",
           "titlebackground": "https://generacionxbox.com/wp-content/uploads/2021/07/fifa-22.jpeg"
+        },
+        {
+          "titlename": "Fall Guys",
+          "titleimage": "fallguys",
+          "titleicon": "https://media.vandal.net/m/74361/fall-guys-ultimate-knockout-20208591578_11.jpg",
+          "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg"
         }
       ]
     }
