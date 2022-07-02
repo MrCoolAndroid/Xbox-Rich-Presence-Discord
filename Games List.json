@@ -220,6 +220,12 @@
           "titleimage": "hellblade",
           "titleicon": "https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg",
           "titlebackground": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/705285/705285_1140x516.jpg"
+        },
+        {
+          "titlename": "FIFA 22 [XB1]",
+          "titleimage": "fifa22",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png",
+          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2021/07/fifa-22.jpeg"
         }
       ]
     }
