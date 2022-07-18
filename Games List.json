@@ -264,7 +264,14 @@
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png",
           "titlebackground": "",
           "type": 2
-        }
+        },
+        {
+          "titlename": "YouTube",
+          "titleimage": "youtube",
+          "titleicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png",
+          "titlebackground": "",
+          "type": 2
+        },
       ]
     }
   ]
