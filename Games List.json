@@ -6,31 +6,36 @@
           "titlename": "Minecraft",
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
-          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg"
+          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg",
+          "type": 1
         },
         {
           "titlename": "DayZ",
           "titleimage": "dayz",
           "titleicon": "https://media.vandal.net/m/20846/dayz-201953013153533_11.jpg",
-          "titlebackground": "https://i.pinimg.com/originals/27/f7/e4/27f7e41c04c7418e1f40789e5dad22a3.jpg"
+          "titlebackground": "https://i.pinimg.com/originals/27/f7/e4/27f7e41c04c7418e1f40789e5dad22a3.jpg",
+          "type": 1
         },
         {
           "titlename": "eFootball PES 2021 Season Update",
           "titleimage": "efootball2021",
           "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202011/0201/DCT1LwEUb8fXfS2PZfkzXV59.png",
-          "titlebackground": "https://areajugones.sport.es/wp-content/uploads/2020/08/efootball-pes-2021-cover.jpg"
+          "titlebackground": "https://areajugones.sport.es/wp-content/uploads/2020/08/efootball-pes-2021-cover.jpg",
+          "type": 1
         },
         {
           "titlename": "Halo: Reach",
           "titleimage": "halo_reach",
           "titleicon": "http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266_00.jpg",
-          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2019/11/halo-reach-master-chief-collection-generacion-xbox-940x529.jpeg"
+          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2019/11/halo-reach-master-chief-collection-generacion-xbox-940x529.jpeg",
+          "type": 1
         },
         {
           "titlename": "FAR CRY6",
           "titleimage": "far_cry6",
           "titleicon": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/159/532/products/fat-cry-61-35be3b72ba3ad0f0e216233552770910-1024-1024.jpg",
-          "titlebackground": "https://compass-ssl.xbox.com/assets/d5/2b/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg?n=Far-Cry-6_GLP-Page-Hero-1084_1920x1080.jpg"
+          "titlebackground": "https://compass-ssl.xbox.com/assets/d5/2b/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg?n=Far-Cry-6_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
         },
         {
           "titlename": "Call of Duty: Modern Warfare",
@@ -43,41 +48,47 @@
           "titlename": "Fortnite",
           "titleimage": "fortnite",
           "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202109/1303/kaXldqXxbIyvX9Kn8eeFckQJ.png",
-          "titlebackground": "https://i2.wp.com/www.gameoverla.com/wp-content/uploads/2019/10/fortnite-chapter-2-launch-trailer-1191753.jpeg?fit=640%2C320&ssl=1"
+          "titlebackground": "https://i2.wp.com/www.gameoverla.com/wp-content/uploads/2019/10/fortnite-chapter-2-launch-trailer-1191753.jpeg?fit=640%2C320&ssl=1",
+          "type": 1
         },
         {
           "titlename": "Call of Duty: Black Ops Cold War",
           "titleimage": "cod_bo_coldwar",
           "titleicon": "https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg",
-          "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png"
+          "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png",
+          "type": 1
         },
         {
           "titlename": "Battlefield Hardline",
           "titleimage": "battlefield_hardline",
           "titleicon": "https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png",
-          "titlebackground": "https://highdefwallpaper.com/wp-content/uploads/2021/05/Battlefield-Hardline-657d.jpg"
+          "titlebackground": "https://highdefwallpaper.com/wp-content/uploads/2021/05/Battlefield-Hardline-657d.jpg",
+          "type": 1
         },
         {
           "titlename": "Halo: The Master Chief Collection",
           "titleimage": "halo_master_chief_collection",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/29b378b88c3798599f78f774efa6c521.jpg",
-          "titlebackground": "https://compass-ssl.xbox.com/assets/1d/1f/1d1f85dd-754f-453d-8e44-9294d8dfd3d3.jpg?n=Halo-MCC_GLP-Page-Hero-0_1083x609.jpg"
+          "titlebackground": "https://compass-ssl.xbox.com/assets/1d/1f/1d1f85dd-754f-453d-8e44-9294d8dfd3d3.jpg?n=Halo-MCC_GLP-Page-Hero-0_1083x609.jpg",
+          "type": 1
         },
         {
           "titlename": "Back 4 Blood",
           "titleimage": "back_4_blood",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png",
-          "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2021/06/apps.19877.63183727176145146.d84d29ef-df3a-4a5d-96b4-f1a7d9797aec-1-1-1.jpg"
+          "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2021/06/apps.19877.63183727176145146.d84d29ef-df3a-4a5d-96b4-f1a7d9797aec-1-1-1.jpg",
+          "type": 1
         },
         {
           "titlename": "Minecraft: Story Mode - Season Two",
           "titleimage": "mcsm2",
           "titleicon": "https://mspoweruser.com/wp-content/uploads/2017/07/Minecraft-Story-Mode-Season-Two-Season-Pass.jpg",
-          "titlebackground": "https://wallpapercave.com/wp/wp5073723.jpg"
+          "titlebackground": "https://wallpapercave.com/wp/wp5073723.jpg",
+          "type": 1
         },
         {
           "titlename": "UpdateCheck",
-          "titleimage": "0.5.5"
+          "titleimage": "0.5.6"
         },
         {
           "titlename": "BroadcastObj",
@@ -88,43 +99,50 @@
           "titlename": "Grand Theft Auto V",
           "titleimage": "gta_v",
           "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
-          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg"
+          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
+          "type": 1
         },
         {
           "titlename": "GTA V",
           "titleimage": "gta_v",
           "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
-          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg"
+          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
+          "type": 1
         },
         {
           "titlename": "Forza Horizon 5",
           "titleimage": "forza_horizon_5",
           "titleicon": "https://heyure.com/wp-content/uploads/2021/10/forza-horizon-5-button-fin-1629830068379-1024x1024.jpg",
-          "titlebackground": "https://guiltybit.com/wp-content/uploads/2021/11/analisis-de-Forza-Horizon-5.webp"
+          "titlebackground": "https://guiltybit.com/wp-content/uploads/2021/11/analisis-de-Forza-Horizon-5.webp",
+          "type": 1
         },
         {
           "titlename": "Halo Infinite",
           "titleimage": "halo_infinite",
           "titleicon": "https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg",
-          "titlebackground": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/halo-infinite-chief-hero-1.jpg"
+          "titlebackground": "https://www.windowscentral.com/sites/wpcentral.com/files/styles/large/public/field/image/2020/07/halo-infinite-chief-hero-1.jpg",
+          "type": 1
         },
         {
           "titlename": "Borderlands",
           "titleimage": "borderlands",
           "titleicon": "https://media.vandal.net/m/71969/borderlands-edicion-juego-del-ano-201943163663_9.jpg",
-          "titlebackground": "https://cdn.2kgames.com/borderlands/media/virtual+backgrounds/Fingerguns.jpg"
+          "titlebackground": "https://cdn.2kgames.com/borderlands/media/virtual+backgrounds/Fingerguns.jpg",
+          "type": 1
         },
         {
           "titlename": "COD: Advanced Warfare",
           "titleimage": "cod_aw",
           "titleicon": "https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp",
-          "titlebackground": "https://store-images.s-microsoft.com/image/apps.19540.67165690531218804.13d83797-84d4-446f-b916-765bfa2132cf.d7675312-da0c-4046-86ce-d93aaa4bd92c?q=90&w=480&h=270"
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.19540.67165690531218804.13d83797-84d4-446f-b916-765bfa2132cf.d7675312-da0c-4046-86ce-d93aaa4bd92c?q=90&w=480&h=270",
+          "type": 1
         },
         {
           "titlename": "Superliminal",
           "titleimage": "superliminal",
           "titleicon": "https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg",
-          "titlebackground": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/superliminal-switch/screenshot-gallery/superliminal-switch-screenshot01.jpg"
+          "titlebackground": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/superliminal-switch/screenshot-gallery/superliminal-switch-screenshot01.jpg",
+          "type": 1
         },
         {
           "titlename": "YouTube",
@@ -137,127 +155,148 @@
           "titlename": "COD: Black Ops II",
           "titleimage": "cod_bo2",
           "titleicon": "http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg",
-          "titlebackground": "https://wallpaperaccess.com/full/5436438.png"
+          "titlebackground": "https://wallpaperaccess.com/full/5436438.png",
+          "type": 1
         },
         {
           "titlename": "Battlefield 4",
           "titleimage": "battlefield_4",
           "titleicon": "https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png",
-          "titlebackground": "https://wallpaperaccess.com/full/2522176.jpg"
+          "titlebackground": "https://wallpaperaccess.com/full/2522176.jpg",
+          "type": 1
         },
         {
           "titlename": "Portal 2",
           "titleimage": "portal_2",
           "titleicon": "http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg",
-          "titlebackground": "https://i.blogs.es/2a441c/4173317-portal-2-hd/450_1000.jpeg"
+          "titlebackground": "https://i.blogs.es/2a441c/4173317-portal-2-hd/450_1000.jpeg",
+          "type": 1
         },
         {
           "titlename": "Xbox 360 Dashboard",
           "titleimage": "360_dashboard",
           "titleicon": "https://www.fayerwayer.com/resizer/zTlIlcEFgku4iDHUU4GILnzQZ5o=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/ZDBYJNQO4ZDVRJH7GN2G4ZHBDE.jpg",
-          "titlebackground": "https://wallpapercave.com/wp/wp2721308.jpg"
+          "titlebackground": "https://wallpapercave.com/wp/wp2721308.jpg",
+          "type": 1
         },
         {
           "titlename": "COD: Black Ops III",
           "titleimage": "cod_bo3",
           "titleicon": "https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg",
-          "titlebackground": "https://sm.ign.com/ign_es/screenshot/default/call-of-duty_f76q.jpg"
+          "titlebackground": "https://sm.ign.com/ign_es/screenshot/default/call-of-duty_f76q.jpg",
+          "type": 1
         },
         {
           "titlename": "Halo 5: Guardians",
           "titleimage": "halo_5",
           "titleicon": "https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg",
-          "titlebackground": "https://www.10wallpaper.com/wallpaper/1366x768/1509/Halo_5_Guardian_Game_HD_Widescreen_Wallpaper_1366x768.jpg"
+          "titlebackground": "https://www.10wallpaper.com/wallpaper/1366x768/1509/Halo_5_Guardian_Game_HD_Widescreen_Wallpaper_1366x768.jpg",
+          "type": 1
         },
         {
           "titlename": "PUBG: BATTLEGROUNDS",
           "titleimage": "pubg",
           "titleicon": "https://i.3djuegos.com/juegos/14758/playerunknown__039_s_battlegrounds/fotos/maestras/playerunknown__039_s_battlegrounds-5493945.jpg",
-          "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1"
+          "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1",
+          "type": 1
         },
         {
          "titlename": "Dying Light",
           "titleimage": "dying_light",
           "titleicon": "https://cdn.discordapp.com/attachments/930599143041286166/953067144659210240/Discord_DL_Icon_copy_1024x1024.png",
-          "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png"
+          "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png",
+          "type": 1
         },
         {
           "titlename": "Minecraft: Xbox 360 Edition",
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
-          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg"
+          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg",
+          "type": 1
         },
         {
           "titlename": "Marvel's Guardians of the Galaxy",
           "titleimage": "marvel_guardians_galaxy",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png",
-          "titlebackground": "https://images-na.ssl-images-amazon.com/images/I/815aqpZqkOS.jpg"
+          "titlebackground": "https://images-na.ssl-images-amazon.com/images/I/815aqpZqkOS.jpg",
+          "type": 1
         },
         {
           "titlename": "Assassin's Creed Valhalla",
           "titleimage": "ac_valhalla",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png",
-          "titlebackground": "https://images4.alphacoders.com/107/thumb-1920-1077274.jpg"
+          "titlebackground": "https://images4.alphacoders.com/107/thumb-1920-1077274.jpg",
+          "type": 1
         },
         {
           "titlename": "Dante's Inferno",
           "titleimage": "dt_inferno",
           "titleicon": "https://ovallcorners.files.wordpress.com/2011/04/18-dantes-inferno.jpg",
-          "titlebackground": "https://sm.ign.com/t/ign_it/screenshot/default/maxresdefault_ru9u.h720.jpg"
+          "titlebackground": "https://sm.ign.com/t/ign_it/screenshot/default/maxresdefault_ru9u.h720.jpg",
+          "type": 1
         },
         {
           "titlename": "Call Of Duty: Modern Warfare 2",
           "titleimage": "cod_mw2",
           "titleicon": "https://ellocodesebas.files.wordpress.com/2010/07/cod-mw2.jpg",
-          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/9cpUjddAWgBvJTY4MvmqyyE1.png"
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/9cpUjddAWgBvJTY4MvmqyyE1.png",
+          "type": 1
         },
         {
           "titlename": "World War Z",
           "titleimage": "wwz",
           "titleicon": "https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png?w=1024&thumb=false",
-          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=1024&thumb=true"
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202009/2808/9BLGIeD8OgI8cCbOEDbYjdnw.jpg?w=1024&thumb=true",
+          "type": 1
         },
         {
           "titlename": "Hellblade: Senua's Sacrifice",
           "titleimage": "hellblade",
           "titleicon": "https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg",
-          "titlebackground": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/705285/705285_1140x516.jpg"
+          "titlebackground": "https://cl.buscafs.com/www.levelup.com/public/uploads/images/705285/705285_1140x516.jpg",
+          "type": 1
         },
         {
           "titlename": "FIFA 22 [XB1]",
           "titleimage": "fifa22",
           "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png",
-          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2021/07/fifa-22.jpeg"
+          "titlebackground": "https://generacionxbox.com/wp-content/uploads/2021/07/fifa-22.jpeg",
+          "type": 1
         },
         {
           "titlename": "Fall Guys: Ultimate Knockout",
           "titleimage": "fallguys",
           "titleicon": "https://media.vandal.net/m/74361/fall-guys-ultimate-knockout-20208591578_11.jpg",
-          "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg"
+          "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg",
+          "type": 1
         },
         {
           "titlename": "Battlefield: Bad Company",
           "titleimage": "btf_badcompany",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg",
-          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb1353eab083bf555a21713f4b1f1ec2.jpg"
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb1353eab083bf555a21713f4b1f1ec2.jpg",
+          "type": 1
         },
         {
           "titlename": "Skyrim",
           "titleimage": "skyrim",
           "titleicon": "https://img.wallscloud.net/converted/2563471846-the-elder-scrolls-v-skyrim-gQkr-1024x1024-MM-100.jpg",
-          "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d"
+          "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d",
+          "type": 1
         },
         {
           "titlename": "Forza Horizon",
           "titleimage": "forza_horizon",
           "titleicon": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024",
-          "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2016/09/Forza-Horizon-1.jpg?mrf-size=m"
+          "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2016/09/Forza-Horizon-1.jpg?mrf-size=m",
+          "type": 1
         },
         {
           "titlename": "Far Cry 5",
           "titleimage": "far_cry5",
           "titleicon": "https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png",
-          "titlebackground": "https://media.vandal.net/m/48288/far-cry-5-2017526152635_5.jpg"
+          "titlebackground": "https://media.vandal.net/m/48288/far-cry-5-2017526152635_5.jpg",
+          "type": 1
         },
         {
           "titlename": "Netflix",
