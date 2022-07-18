@@ -250,6 +250,12 @@
           "titleimage": "forza_horizon",
           "titleicon": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024",
           "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2016/09/Forza-Horizon-1.jpg?mrf-size=m"
+        },
+        {
+          "titlename": "Far Cry 5",
+          "titleimage": "far_cry5",
+          "titleicon": "https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png",
+          "titlebackground": "https://media.vandal.net/m/48288/far-cry-5-2017526152635_5.jpg"
         }
       ]
     }
