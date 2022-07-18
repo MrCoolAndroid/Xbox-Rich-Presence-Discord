@@ -244,6 +244,12 @@
           "titleimage": "skyrim",
           "titleicon": "https://img.wallscloud.net/converted/2563471846-the-elder-scrolls-v-skyrim-gQkr-1024x1024-MM-100.jpg",
           "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d"
+        },
+        {
+          "titlename": "Forza Horizon",
+          "titleimage": "forza_horizon",
+          "titleicon": "https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024",
+          "titlebackground": "https://www.somosxbox.com/wp-content/uploads/2016/09/Forza-Horizon-1.jpg?mrf-size=m"
         }
       ]
     }
