@@ -36,7 +36,8 @@
           "titlename": "Call of Duty: Modern Warfare",
           "titleimage": "cod_modern_warfare",
           "titleicon": "https://sm.ign.com/t/ign_latam/cover/c/call-of-du/call-of-duty-modern-warfare_6sub.1024.jpg",
-          "titlebackground": "https://wallpaperaccess.com/full/2286525.jpg"
+          "titlebackground": "https://wallpaperaccess.com/full/2286525.jpg",
+          "type": 1
         },
         {
           "titlename": "Fortnite",
@@ -262,7 +263,7 @@
           "titleimage": "netflix",
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png",
           "titlebackground": "",
-          "type": "2"
+          "type": 2
         }
       ]
     }
