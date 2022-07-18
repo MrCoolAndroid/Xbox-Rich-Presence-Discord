@@ -256,6 +256,13 @@
           "titleimage": "far_cry5",
           "titleicon": "https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png",
           "titlebackground": "https://media.vandal.net/m/48288/far-cry-5-2017526152635_5.jpg"
+        },
+        {
+          "titlename": "Netflix",
+          "titleimage": "netflix",
+          "titleicon": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png",
+          "titlebackground": "",
+          "type": "2"
         }
       ]
     }
