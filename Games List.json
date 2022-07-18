@@ -238,6 +238,12 @@
           "titleimage": "btf_badcompany",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/cb1353eab083bf555a21713f4b1f1ec2.jpg"
+        },
+        {
+          "titlename": "Skyrim",
+          "titleimage": "skyrim",
+          "titleicon": "https://img.wallscloud.net/converted/2563471846-the-elder-scrolls-v-skyrim-gQkr-1024x1024-MM-100.jpg",
+          "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d"
         }
       ]
     }
