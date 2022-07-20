@@ -304,7 +304,21 @@
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png",
           "titlebackground": "",
           "type": 2
-        }
+        },
+        {
+          "titlename": "Assassin's Creed Origins",
+          "titleimage": "ac_origins",
+          "titleicon": "https://image.api.playstation.com/cdn/EP0001/CUSA05625_00/6OhEbwPSI4Vy8AtS8PgP1jVxQLVvTmX7.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/0220/mEgt1tDiuDgwqMPCLIzM1gBD.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Watch Dogs: Legion",
+          "titleimage": "wd_legion",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/3002/5yRvEJERrFUHQKoyISq3ezo1.jpg",
+          "type": 1
+        } 
       ]
     }
   ]
