@@ -318,6 +318,13 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png",
           "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/3002/5yRvEJERrFUHQKoyISq3ezo1.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Vanguard",
+          "titleimage": "cod_vanguard",
+          "titleicon": "https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg",
+          "titlebackground": "https://compass-ssl.xbox.com/assets/94/7a/947a2b8d-fcfc-4359-b0c8-a1c5fc278512.jpg?n=504723_GLP-Page-Hero-Cinemagraph-Poster-Image_1084_1920x1080.jpg",
+          "type": 1
         } 
       ]
     }
