@@ -343,52 +343,51 @@
         {
           "titlename": "Gears of War",
           "titleimage": "Gears1.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears1.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears1.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.38206.68631123789499032.6299bbb9-6778-40d5-965f-080b552baa15.7e8e4683-52a1-4fdb-abde-5b6e28bd351e",
           "type": 1
         },
         {
           "titlename": "Gears of War 2",
           "titleimage": "Gears2.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears2.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears2.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.11099.65595136073047161.857e51a5-2b52-4c0e-8ac2-92b6b4609fc2.e234d629-44c0-4325-8518-74f1126aba08",
           "type": 1
         },
         {
           "titlename": "Gears of War 3",
           "titleimage": "Gears3.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears3.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears3.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.41576.68607194681373551.b4c09a44-be36-42d6-96c5-4a33b566becd.bbbcda5d-ebd5-4c6b-9d13-67171a49d833",
           "type": 1
         },
         {
           "titlename": "Gears of War: Judgment",
           "titleimage": "Judgment.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Judgment.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Judgment.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.60850.70323071690757883.aa344172-c923-4b38-a055-9ce9a093bc86.a56f147e-bb8e-4559-a7ee-ec829cab2d79",
           "type": 1
         },
         {
           "titlename": "Gears of War: Ultimate Edition",
           "titleimage": "Ultimate Edition.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Ultimate%20Edition.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Ultimate%20Edition.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.16637.68785176255228170.152a1029-d0c3-4d27-a42d-ecccb32aa4ca.6db2ccf4-2944-45ae-8aa0-c19b00bb1e8b",
           "type": 1
+        },
         {
           "titlename": "Gears of War 4",
           "titleimage": "Gears4.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears4.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears4.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.34315.13510798887356280.41621d11-dd2e-423d-a6ee-651fe809a9ba.12dd5576-8901-44cf-b6e0-fe76aaf50abc",
           "type": 1
         },
         {
           "titlename": "Gears 5",
           "titleimage": "Gears5.png",
-          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears5.png/,
+          "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20o%20War/Gears5.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.21372.65494054591008504.3eb95796-405c-4def-901b-3b53a1c9e001.7ce477d1-54a6-4286-b3e1-f3145baf4ba2",
           "type": 1
-        },
-        {
         }
       ]
     }
