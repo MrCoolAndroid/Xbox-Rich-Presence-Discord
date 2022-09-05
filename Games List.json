@@ -388,6 +388,13 @@
           "titleicon": "http://nazuk.ml/i5/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears5.png/",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.21372.65494054591008504.3eb95796-405c-4def-901b-3b53a1c9e001.7ce477d1-54a6-4286-b3e1-f3145baf4ba2",
           "type": 1
+        },
+        {
+          "titlename": "OMORI",
+          "titleimage": "omori",
+          "titleicon": "https://cdn.discordapp.com/attachments/1007089844624838780/1016436560222240911/logo.png",
+          "titlebackground": "https://cdn.discordapp.com/attachments/1007089844624838780/1016434143942410391/background.png",
+          "type": 1
         }
       ]
     }
