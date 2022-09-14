@@ -395,6 +395,13 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/1agbi2hbB4vbYexXSqWm94jx.png",
           "titlebackground": "https://cdn.discordapp.com/attachments/1007089844624838780/1016434143942410391/background.png",
           "type": 1
+        },
+        {
+          "titlename": "Warframe",
+          "titleimage": "Warframe",
+          "titleicon": "https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg",
+          "titlebackground": "https://cdn.discordapp.com/attachments/1007089844624838780/1016434143942410391/background.png",
+          "type": 1
         }
       ]
     }
