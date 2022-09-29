@@ -138,7 +138,7 @@
           "type": 1
         },
         {
-          "titlename": "Call of Duty: Advanced Warfare",
+          "titlename": "COD: Advanced Warfare",
           "titleimage": "cod_aw",
           "titleicon": "https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.19540.67165690531218804.13d83797-84d4-446f-b916-765bfa2132cf.d7675312-da0c-4046-86ce-d93aaa4bd92c?q=90&w=480&h=270",
@@ -159,7 +159,7 @@
           "type": 2
         },
         {
-          "titlename": "Call of Duty: Black Ops II",
+          "titlename": "COD: Black Ops II",
           "titleimage": "cod_bo2",
           "titleicon": "http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg",
           "titlebackground": "https://wallpaperaccess.com/full/5436438.png",
@@ -187,7 +187,7 @@
           "type": 3
         },
         {
-          "titlename": "Call of Duty: Black Ops III",
+          "titlename": "COD: Black Ops III",
           "titleimage": "cod_bo3",
           "titleicon": "https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg",
           "titlebackground": "https://sm.ign.com/ign_es/screenshot/default/call-of-duty_f76q.jpg",
@@ -404,8 +404,8 @@
           "type": 1
         },
         {
-          "titlename": "Call of Duty 4: Modern Warfare",
-          "titleimage": "cod4_mw",
+          "titlename": "Call of Duty 4",
+          "titleimage": "cod4",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/59b109c700b500daa9ef3a6769bc8c6f.png",
           "titlebackground": "https://cdn-ext.fanatical.com/production/product/1280x720/2745132a-cdde-404a-b773-70f346497778.jpeg",
           "type": 1
