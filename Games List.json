@@ -166,6 +166,13 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty: Black Ops",
+          "titleimage": "cod_bo",
+          "titleicon": "https://tinypic.host/images/2022/09/29/image_2022-09-29_213539082.png",
+          "titlebackground": "https://wallpaperaccess.com/full/5436438.png",
+          "type": 1
+        },
+        {
           "titlename": "Battlefield 4",
           "titleimage": "battlefield_4",
           "titleicon": "https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png",
@@ -217,8 +224,8 @@
         {
           "titlename": "Minecraft: Xbox 360 Edition",
           "titleimage": "minecraft",
-          "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
-          "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg",
+          "titleicon": "https://tinypic.host/images/2022/09/29/mc360.png",
+          "titlebackground": "https://tinypic.host/images/2022/09/29/dims.jpg",
           "type": 1
         },
         {
@@ -404,17 +411,24 @@
           "type": 1
         },
         {
-          "titlename": "Call of Duty 4: Modern Warfare",
-          "titleimage": "cod4",
-          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/59b109c700b500daa9ef3a6769bc8c6f.png",
-          "titlebackground": "https://cdn-ext.fanatical.com/production/product/1280x720/2745132a-cdde-404a-b773-70f346497778.jpeg",
+          "titlename": "Modern Warfare",
+          "titleimage": "cod_mw_360",
+          "titleicon": "https://tinypic.host/images/2022/09/29/59b109c700b500daa9ef3a6769bc8c6f-1.png",
+          "titlebackground": "https://pg-uploads.wpcdn.pl/2007/12/Modern-Warfare.jpg",
           "type": 1
         },
         {
-          "titlename": "Call of Duty: Black Ops",
-          "titleimage": "cod_blackops",
-          "titleicon": "https://assets-prd.ignimgs.com/2021/12/30/call-of-duty-black-ops-1-button-1640898530662.jpg",
-          "titlebackground": "https://areajugones.sport.es/wp-content/uploads/2016/05/BlackOps1XboxOne.jpg",
+          "titlename": "Modern Warfare 2",
+          "titleimage": "cod_mw2_360",
+          "titleicon": "https://tinypic.host/images/2022/09/29/image_2022-09-29_212233996.png",
+          "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Modern Warfare 3",
+          "titleimage": "cod_mw3",
+          "titleicon": "https://tinypic.host/images/2022/09/29/d5nbuk1-53685d75-b164-402c-aeae-1f70689bb30e-1.png",
+          "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
           "type": 1
         }
       ]
