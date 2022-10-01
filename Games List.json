@@ -138,6 +138,20 @@
           "type": 1
         },
         {
+          "titlename": "Borderlands: The Pre-Sequel",
+          "titleimage": "borderlands_presequel",
+          "titleicon": "https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp4198446.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Borderlands 2",
+          "titleimage": "borderlands2",
+          "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_214138626.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp3195607.png",
+          "type": 1
+        },
+        {
           "titlename": "COD: Advanced Warfare",
           "titleimage": "cod_aw",
           "titleicon": "https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp",
@@ -154,8 +168,8 @@
         {
           "titlename": "YouTube",
           "titleimage": "youtube_logo",
-          "titleicon": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/72/YouTube_social_white_square_%282017%29.svg/1024px-YouTube_social_white_square_%282017%29.svg.png",
-          "titlebackground": "",
+          "titleicon": "https://tinypic.host/images/2022/10/01/youtube-logo.png",
+          "titlebackground": "https://images.hdqwalls.com/download/red-inside-grey-design-8k-w2-1920x1080.jpg",
           "type": 2
         },
         {
@@ -306,6 +320,20 @@
           "type": 1
         },
         {
+          "titlename": "Forza Motorsport 3",
+          "titleimage": "forza_motorsport3",
+          "titleicon": "https://tinypic.host/images/2022/10/01/fm4.png",
+          "titlebackground": "https://img4.goodfon.com/original/2560x1440/e/59/audi-r8-forza-motorsport-3-game.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Forza Motorsport 4",
+          "titleimage": "forza_motorsport4",
+          "titleicon": "https://tinypic.host/images/2022/10/01/fm3.png",
+          "titlebackground": "https://r4.wallpaperflare.com/wallpaper/160/827/592/forza-motorsport-4-wallpaper-b950b8dde12a0debf667381f6001863d.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Far Cry 5",
           "titleimage": "far_cry5",
           "titleicon": "https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png",
@@ -429,6 +457,90 @@
           "titleimage": "cod_mw3",
           "titleicon": "https://tinypic.host/images/2022/09/29/d5nbuk1-53685d75-b164-402c-aeae-1f70689bb30e-1.png",
           "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Alan Wake",
+          "titleimage": "alanwake",
+          "titleicon": "https://tinypic.host/images/2022/10/01/alanwake.png",
+          "titlebackground": "https://cutewallpaper.org/21/alan-wake-wallpaper/Alan-Wake-wallpaper-6-WallpapersBQ.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Kinect Adventures!",
+          "titleimage": "kinect_adventures",
+          "titleicon": "https://tinypic.host/images/2022/10/01/kinectadv.png",
+          "titlebackground": "https://media.rawg.io/media/games/d76/d76a211072aed4e50a8d081f234f3b5a.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Kinect Sports",
+          "titleimage": "ks_season1",
+          "titleicon": "https://tinypic.host/images/2022/10/01/kinectsports.png",
+          "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Kinect Sports: Season Two",
+          "titleimage": "ks_season2",
+          "titleicon": "https://tinypic.host/images/2022/10/01/kinectsports.png",
+          "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NEED FOR SPEED MOST WANTED",
+          "titleimage": "nfs_mw2012",
+          "titleicon": "https://tinypic.host/images/2022/10/01/nfsmw2012.png",
+          "titlebackground": "https://cdn.mcr.ea.com/3/images/c8364ab9-9444-4eb4-ba46-158dd67b7594/1587971735-0x0-0-0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NEED FOR SPEED MOST WANTED",
+          "titleimage": "nfs_mw2012",
+          "titleicon": "https://tinypic.host/images/2022/10/01/nfsmw2012.png",
+          "titlebackground": "https://cdn.mcr.ea.com/3/images/c8364ab9-9444-4eb4-ba46-158dd67b7594/1587971735-0x0-0-0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Terraria – Xbox 360 Edition",
+          "titleimage": "terraria_x360",
+          "titleicon": "https://tinypic.host/images/2022/10/01/terrariax360.png",
+          "titlebackground": "https://i.redd.it/ej45mxbs1uq61.png",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Ghosts",
+          "titleimage": "cod_ghosts",
+          "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_233231266.png",
+          "titlebackground": "https://wallpaperaccess.com/full/369911.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space 3",
+          "titleimage": "dead_space3",
+          "titleicon": "https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg",
+          "titlebackground": "https://images5.alphacoders.com/371/371382.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Diablo III",
+          "titleimage": "diablo3",
+          "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_234200850.png",
+          "titlebackground": "https://wallpapercave.com/wp/r8a18WG.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Peggle 2",
+          "titleimage": "peggle2",
+          "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_234627441.png",
+          "titlebackground": "https://images.wallpapersden.com/image/download/peggle-2-game-paint_ZmdsaWeUmZqaraWkpJRmbmdlrWZlbWU.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Trials Fusion",
+          "titleimage": "trials_fusion",
+          "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_234928721.png",
+          "titlebackground": "https://images.alphacoders.com/509/509942.jpg",
           "type": 1
         }
       ]
