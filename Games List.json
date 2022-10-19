@@ -535,6 +535,13 @@
           "titleicon": "https://tinypic.host/images/2022/10/01/image_2022-10-01_234928721.png",
           "titlebackground": "https://images.alphacoders.com/509/509942.jpg",
           "type": 1
+        },
+        {
+          "titlename": "A Plague Tale: Requiem",
+          "titleimage: "plaguetale_requiem",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png",
+          "titlebackground": "https://compass-ssl.xbox.com/assets/6e/47/6e47b95a-1a05-4a47-ad14-7738d132983c.jpg?n=517749_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
         }
       ]
     }
