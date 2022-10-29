@@ -549,6 +549,13 @@
           "titleicon": "https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg",
           "titlebackground": "https://assets.xboxservices.com/assets/b8/2b/b82bf999-f98f-4702-8254-23b79fbcd89f.jpg?n=Persona-5-Royal_GLP-Page-Hero-1084_1920x1080.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Tom Clancy's Rainbow Six: Siege",
+          "titleimage": "rainbow_sixsiege",
+          "titleicon": "https://sm.ign.com/t/ign_es/game/r/rainbow-si/rainbow-six-siege_d2b2.1024.jpg",
+          "titlebackground": "https://images7.alphacoders.com/588/588460.jpg",
+          "type": 1
         }
       ]
     }
