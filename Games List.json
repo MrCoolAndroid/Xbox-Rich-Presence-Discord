@@ -542,6 +542,13 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png",
           "titlebackground": "https://compass-ssl.xbox.com/assets/6e/47/6e47b95a-1a05-4a47-ad14-7738d132983c.jpg?n=517749_GLP-Page-Hero-1084_1920x1080.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Persona 5 Royal",
+          "titleimage": "persona5_royal",
+          "titleicon": "https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg",
+          "titlebackground": "https://assets.xboxservices.com/assets/b8/2b/b82bf999-f98f-4702-8254-23b79fbcd89f.jpg?n=Persona-5-Royal_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
         }
       ]
     }
