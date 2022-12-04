@@ -570,6 +570,13 @@
           "titleicon": "https://store.playstation.com/store/api/chihiro/00_09_000/container/PE/es/999/UP0700-NPUB30899_00-TEKKENTAG2DLGAME/1569937521000/image",
           "titlebackground": "https://cdn.videogamesblogger.com/wp-content/uploads/2012/09/tekken-tag-tournament-2-wallpaper.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Hydro Thunder",
+          "titleimage": "Hydro_Thunder",
+          "titleicon": "https://www.mobygames.com/images/covers/l/303536-hydro-thunder-hurricane-xbox-360-front-cover.png",
+          "titlebackground": "https://store-images.microsoft.com/image/apps.33759.9007199266246737.db988b2a-c6c2-4ad2-b267-8e29a4fd736c.9e36d9b4-6ab8-456a-9802-d33f01d6e92c",
+          "type": 1
         }
       ]
     }
