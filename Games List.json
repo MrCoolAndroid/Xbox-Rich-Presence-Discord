@@ -563,6 +563,13 @@
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/01/roblox-sq-1646155371025.jpg",
           "titlebackground": "https://compass-ssl.xbox.com/assets/cd/14/cd14239c-655d-42bc-bbfd-af506f107f8c.jpg?n=Roblox_Gallery-0_1350x759_04.jpg",
           "type": 1
+        },
+        {
+          "titlename": "TEKKEN TAG 2",
+          "titleimage": "Tekken Tag Tournament 2",
+          "titleicon": "https://www.manualpdf.com.br/viewer/647048/1/bg1.png",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.22541.71407992032086985.ef1e3801-b72d-4324-8994-62b8bf6f7e16.fd660c66-53b2-4942-a31c-0b185d14b57d",
+          "type": 1
         }
       ]
     }
