@@ -577,6 +577,13 @@
           "titleicon": "https://www.mobygames.com/images/covers/l/303536-hydro-thunder-hurricane-xbox-360-front-cover.png",
           "titlebackground": "https://download-ssl.xbox.com/content/images/66acd000-77fe-1000-9115-d8025841096a/1033/screenlg3.jpg",
           "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN II",
+          "titleimage": "ng2",
+          "titleicon": "https://cdn.discordapp.com/attachments/695341720455479428/1054965380994580530/NG2.png",
+          "titlebackground": "https://images2.alphacoders.com/174/174400.jpg",
+          "type": 1
         }
       ]
     }
