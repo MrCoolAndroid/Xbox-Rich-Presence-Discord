@@ -584,6 +584,13 @@
           "titleicon": "https://cdn.discordapp.com/attachments/695341720455479428/1054965380994580530/NG2.png",
           "titlebackground": "https://images2.alphacoders.com/174/174400.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Modern Warfare II",
+          "titleimage": "cod_mwII",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/W5uSEsW7yefCNTHatS03v5q7.png",
+          "titlebackground": "https://assets.xboxservices.com/assets/a0/02/a0029671-98a2-4955-a9e7-ef32cd0eb544.jpg?n=CoD-MW-II_GLP-Page-Hero-Poster-1084_1920x1080.jpg",
+          "type": 1
         }
       ]
     }
