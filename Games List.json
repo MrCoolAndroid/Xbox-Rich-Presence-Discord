@@ -591,6 +591,27 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/W5uSEsW7yefCNTHatS03v5q7.png",
           "titlebackground": "https://assets.xboxservices.com/assets/a0/02/a0029671-98a2-4955-a9e7-ef32cd0eb544.jpg?n=CoD-MW-II_GLP-Page-Hero-Poster-1084_1920x1080.jpg",
           "type": 1
+        },
+        {
+          "titlename": "ZOE HD",
+          "titleimage": "zoehd",
+          "titleicon": "https://tinypic.host/images/2023/01/18/zoehd.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/83cdcec08fbf90370fcf53bdd56604ff.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Lost Odyssey",
+          "titleimage": "lost_odyssey",
+          "titleicon": "https://tinypic.host/images/2023/01/18/lo.jpg",
+          "titlebackground": "https://i0.wp.com/www.badtaste.it/videogiochi/wp-content/uploads/sites/2/2016/12/lost-odyssey_gdfz.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Blue Dragon",
+          "titleimage": "blue_dragon",
+          "titleicon": "https://tinypic.host/images/2023/01/18/bdrgn.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.55545.65457035095819016.56f55216-1bb9-40aa-8796-068cf3075fc1.4c2daefb-fbf6-4b90-b392-bf8ecc39a92e",
+          "type": 1
         }
       ]
     }
