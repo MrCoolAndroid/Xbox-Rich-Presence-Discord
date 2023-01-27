@@ -612,8 +612,43 @@
           "titleicon": "https://tinypic.host/images/2023/01/18/bdrgn.jpg",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.55545.65457035095819016.56f55216-1bb9-40aa-8796-068cf3075fc1.4c2daefb-fbf6-4b90-b392-bf8ecc39a92e",
           "type": 1
+        },
+        {
+          "titlename": "Hi-Fi RUSH",
+          "titleimage": "hifi_rush",
+          "titleicon": "https://tinypic.host/images/2023/01/27/EGS_HiFiRUSH_TangoGameworks_S1_2560x1440-fad2327bc3e1e0cfda81eb21134410b1.jpg",
+          "titlebackground": "https://cdn1.epicgames.com/offer/577c5cbc303a4d168b1a104f3b46e751/EGS_HiFiRUSH_TangoGameworks_S1_2560x1440-fad2327bc3e1e0cfda81eb21134410b1",
+          "type": 1
+        },
+        {
+          "titlename": "Persona 3 Portable",
+          "titleimage": "p3portable",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/f2e84d98d6dc0c7acd56b40509355666/32/256x256.png",
+          "titlebackground": "https://fs-prod-cdn.nintendo-europe.com/media/images/10_share_images/games_15/nintendo_switch_download_software_1/2x1_NSwitchDS_Persona3Portable_image1600w.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Persona 4 Golden",
+          "titleimage": "p4golden",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon_thumb/ecb565cd82de68494c294dc8d4b419a0.png",
+          "titlebackground": "https://cdn.akamai.steamstatic.com/steam/apps/1113000/capsule_616x353.jpg?t=1674487070",
+          "type": 1
+        },
+        {
+          "titlename": "Mortal Shell: Enhanced Edition",
+          "titleimage": "mortal_shell",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/17b65afe58c49edc1bdd812c554ee3bb/32/256x256.png",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.48998.14112185653659482.b5e15e3a-13c2-47bd-9e60-7709b165611f.1a8e8ab6-788c-41d0-8d25-cedfa921075d?q=90&w=480&h=270",
+          "type": 1
+        },
+        {
+          "titlename": "Monster Hunter Rise",
+          "titleimage": "mhrise",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png",
+          "titlebackground": "https://assets.xboxservices.com/assets/e0/94/e094ff7a-f3a2-45bd-9efa-ab14e94e5169.jpg?n=75295231_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
         }
       ]
     }
   ]
-}        
+}
