@@ -647,6 +647,13 @@
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png",
           "titlebackground": "https://assets.xboxservices.com/assets/e0/94/e094ff7a-f3a2-45bd-9efa-ab14e94e5169.jpg?n=75295231_GLP-Page-Hero-1084_1920x1080.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Destiny 2",
+          "titleimage": "destiny2",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.33511.68655995542193491.8ebaffb9-0b52-40b0-9395-b18addc8fafa.7fa0444b-90f1-4731-93a6-18fc03644ba1",
+          "type": 1
         }
       ]
     }
