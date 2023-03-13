@@ -649,6 +649,27 @@
           "type": 1
         },
         {
+          "titlename": "Doom Eternal",
+          "titleimage": "doom_eternal",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png",
+          "titlebackground": "https://images.alphacoders.com/106/1062064.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Atomic Hearth",
+          "titleimage": "atomic_hearth",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/SSru3b0CYWviMXfW6bYgaWlX.png",
+          "titlebackground": "https://img5.goodfon.com/wallpaper/nbig/d/3a/atomic-heart-igra-personazhi.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FIFA 23",
+          "titleimage": "fifa23",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/authenticity/common/f23-auth-featured-16x9.jpg.adapt.crop16x9.1023w.jpg,
+          "type": 1
+        },
+        {
           "titlename": "Destiny 2",
           "titleimage": "destiny2",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg",
