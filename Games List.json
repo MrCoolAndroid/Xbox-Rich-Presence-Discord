@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Hi-Fi RUSH",
+          "titleimage": "hifirush",
+          "titleicon": "https://i.imgur.com/qMMwKup.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/e33af099bd011dfb53c6ab94bea065cb.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Minecraft",
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
