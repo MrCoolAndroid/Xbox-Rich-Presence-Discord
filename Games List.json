@@ -675,7 +675,21 @@
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.33511.68655995542193491.8ebaffb9-0b52-40b0-9395-b18addc8fafa.7fa0444b-90f1-4731-93a6-18fc03644ba1",
           "type": 1
-        }
+        },
+        {
+          "titlename": "Call of Duty: Infinite Warfare",
+          "titleimage": "cod_infinite_warfare",
+          "titleicon": "https://image.api.playstation.com/cdn/EP0002/CUSA05282_00/JhIXa8se54KKNhggEahiO0Oz78IITOGF.png",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.51376.70799132231561062.6e2fe24e-9457-4f92-9497-6fbb8d194c90.8446e8b5-d2df-4162-a50a-9911ad736cc1",
+          "type": 1
+        },
+        {
+          "titlename": "Skate 3",
+          "titleimage": "skate3",
+          "titleicon": "https://store-images.s-microsoft.com/image/apps.18720.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.46888afa-996b-4016-b5b4-c2e0b78171e2?q=90&w=177&h=265",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.10583.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.a86b405a-b519-4836-9b3c-9fed5c0c8b41?q=90&w=320&h=180",
+          "type": 1
+        },
       ]
     }
   ]
