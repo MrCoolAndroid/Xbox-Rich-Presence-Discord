@@ -572,6 +572,27 @@
           "type": 1
         },
         {
+          "titlename": "TEKKEN TAG TOURNAMENT 2",
+          "titleimage": "TTT2_XB1",
+          "titleicon": "https://store.playstation.com/store/api/chihiro/00_09_000/container/PE/es/999/UP0700-NPUB30899_00-TEKKENTAG2DLGAME/1569937521000/image",
+          "titlebackground": "https://cdn.videogamesblogger.com/wp-content/uploads/2012/09/tekken-tag-tournament-2-wallpaper.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "TEKKEN 6",
+          "titleimage": "TEKKEN_6",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cbcc379a81888055b068e7cd194d786.png",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.34940.71725309066492610.4166ad7f-bf33-41ee-9868-6009a80bac53.267805cc-5621-41ec-8b5a-7bf1b2d9de61?mode=scale&q=90&h=1080&w=1920",
+          "type": 1
+        },
+        {
+          "titlename": "TEKKEN 7",
+          "titleimage": "TEKKEN_7",
+          "titleicon": "https://image.api.playstation.com/cdn/UP0700/CUSA05972_00/4yfeeKKfJdD5WzDQsoiM3xrcqPlpDLm7.png",
+          "titlebackground": "https://img.opencritic.com/game/3599/o/uBhYDyaI.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Hydro Thunder",
           "titleimage": "Hydro_Thunder",
           "titleicon": "https://www.mobygames.com/images/covers/l/303536-hydro-thunder-hurricane-xbox-360-front-cover.png",
@@ -681,6 +702,69 @@
           "titleimage": "cod_infinite_warfare",
           "titleicon": "https://image.api.playstation.com/cdn/EP0002/CUSA05282_00/JhIXa8se54KKNhggEahiO0Oz78IITOGF.png",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.51376.70799132231561062.6e2fe24e-9457-4f92-9497-6fbb8d194c90.8446e8b5-d2df-4162-a50a-9911ad736cc1",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 5 Last Round: Core Fighters",
+          "titleimage": "doa5_LR_XB1",
+          "titleicon": "https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png",
+          "titlebackground": "https://img.opencritic.com/game/108/o/spwdcDOs.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 6: Core Fighters",
+          "titleimage": "doa6_CF_XB1",
+          "titleicon": "https://image.api.playstation.com/cdn/UP4108/CUSA12152_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a285ecc7-d657-4509-b58f-912a120e841e/deuc6ux-8cec3034-68e7-4092-8f3f-60dded69e808.jpg/v1/fill/w_1920,h_1080,q_75,strp/dead_or_alive_6_wallpaper_by_panuwath2019_deuc6ux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2EyODVlY2M3LWQ2NTctNDUwOS1iNThmLTkxMmExMjBlODQxZVwvZGV1YzZ1eC04Y2VjMzAzNC02OGU3LTQwOTItOGYzZi02MGRkZWQ2OWU4MDguanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-6_vC-GBn2ezIPctalH-v91gh0jlIL6fwjparV8V5JE",
+          "type": 1
+        },
+        {
+          "titlename": "Left 4 Dead",
+          "titleimage": "L4D1",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png",
+          "titlebackground": "https://gist.plex.tv/wp-content/uploads/2021/03/e3c2d2d0455a3ebc279e841510fdc2a8.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Left 4 Dead 2",
+          "titleimage": "L4D2",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5ec59bc90d6605a2c1c6af6d997ea344.png",
+          "titlebackground": "https://m.media-amazon.com/images/M/MV5BNWI0YzQ2M2ItM2YyOC00MTQ4LWEyOTEtNDE5YjE5YjVjZGI3XkEyXkFqcGdeQXVyNzg3NjQyOQ@@._V1_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "The Orange Box",
+          "titleimage": "The_Orange_Box",
+          "titleicon": "https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718_1/re/1024x1024/qt/60/2525718_1.jpg",
+          "titlebackground": "https://assets.metrocop.net/wp-content/uploads/articles/the-orange-box-15-years/the-orange-box-15-years.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row",
+          "titleimage": "Saints_Row_1",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/e22e151b3e1b1e5693bac710f9ad81b8.png",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.737.69749811983601191.f4b19ba6-85ca-4a42-85b0-94b674b958c3.d239d6d2-89ee-4eef-abbd-9c55cd973dec?mode=scale&q=90&h=1080&w=1920",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row 2",
+          "titleimage": "Saints_Row_2",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/saints-row-2-button-1641597906385.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.4943.71279615402420172.8fc002ed-5b42-4296-aa7a-231d0c73bebc.240b5688-8fd1-4f84-a5ab-a672e7aefcd3?mode=scale&q=90&h=1080&w=1920&format=jpg",
+          "type": 1
+        },
+        {
+          "titlename": "ULTRA STREETFIGHTER IV",
+          "titleimage": "USF4",
+          "titleicon": "https://image.api.playstation.com/cdn/UP9012/CUSA01846_00/bfVn55KvgbaZp7GKHm6VkNoq6EiHqFjF.png",
+          "titlebackground": "https://img.opencritic.com/game/73/o/gA3yDfWE.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Catherine",
+          "titleimage": "Catherine",
+          "titleicon": "https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg",
+          "titlebackground": "https://img.opencritic.com/game/7149/o/SxmiEMOR.jpgg",
           "type": 1
         },
         {
