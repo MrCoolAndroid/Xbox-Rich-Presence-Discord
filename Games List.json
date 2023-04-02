@@ -567,14 +567,14 @@
         {
           "titlename": "TEKKEN TAG 2",
           "titleimage": "Tekken Tag Tournament 2",
-          "titleicon": "https://store.playstation.com/store/api/chihiro/00_09_000/container/PE/es/999/UP0700-NPUB30899_00-TEKKENTAG2DLGAME/1569937521000/image",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg",
           "titlebackground": "https://cdn.videogamesblogger.com/wp-content/uploads/2012/09/tekken-tag-tournament-2-wallpaper.jpg",
           "type": 1
         },
         {
           "titlename": "TEKKEN TAG TOURNAMENT 2",
           "titleimage": "TTT2_XB1",
-          "titleicon": "https://store.playstation.com/store/api/chihiro/00_09_000/container/PE/es/999/UP0700-NPUB30899_00-TEKKENTAG2DLGAME/1569937521000/image",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg",
           "titlebackground": "https://cdn.videogamesblogger.com/wp-content/uploads/2012/09/tekken-tag-tournament-2-wallpaper.jpg",
           "type": 1
         },
@@ -764,7 +764,63 @@
           "titlename": "Catherine",
           "titleimage": "Catherine",
           "titleicon": "https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg",
-          "titlebackground": "https://img.opencritic.com/game/7149/o/SxmiEMOR.jpgg",
+          "titlebackground": "https://img.opencritic.com/game/7149/o/SxmiEMOR.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Modern Warfare Remastered",
+          "titleimage": "CoD_MWR_XB1",
+          "titleicon": "https://image.api.playstation.com/cdn/UP0002/CUSA03522_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/rEeRqRApgzNDhWnkeuT3iCiG.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Cuphead",
+          "titleimage": "Cuphead",
+          "titleicon": "https://miro.medium.com/v2/resize:fit:1400/0*H9w4geSiKvbM3GM2.png",
+          "titlebackground": "https://www.pockettactics.com/wp-content/sites/pockettactics/2022/10/cuphead-characters.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Killer Instinct",
+          "titleimage": "Killer_Instinct_2013",
+          "titleicon": "https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.38739.13510798887625906.1152921504712937077.b3fa1aca-55d0-443a-ac7a-bb76cb8a0917?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+          "type": 1
+        },
+        {
+          "titlename": "Rare Replay",
+          "titleimage": "Rare_Replay",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.49988.65780799141015212.07b74564-f8a6-4ab1-b868-91169ad4faff.860a7f0d-cf32-4866-aff3-367ac843ec3c?mode=scale&q=90&h=1080&w=1920&background=%23FFFFFF",
+          "type": 1
+        },
+        {
+          "titlename": "SONIC UNLEASHED",
+          "titleimage": "Sonic_Unleashed",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/M/MV5BOGJjZGVjMDktYTdlNC00YWUxLTllMzktYzE5N2E5OGU3OWVjXkEyXkFqcGdeQXVyNjcyNzkwMTc@._V1_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Counter-Strike: GO",
+          "titleimage": "CSGO",
+          "titleicon": "https://assets-prd.ignimgs.com/2021/12/30/counter-strike-global-offensive-button-1640896165989.jpg",
+          "titlebackground": "https://steamcdn-a.akamaihd.net/apps/csgo/blog/images/wallpaper_nologo.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Shadows of the Damned",
+          "titleimage": "Shadows_of_the_Damned",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/04/17/sotd51-1650159532451.jpg",
+          "titlebackground": "https://www.trueachievements.com/imgs/106452/shadows-of-the-damned-leaving-xbox-game-pass-ea-play.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "LOLLIPOP CHAINSAW",
+          "titleimage": "Lollipop_Chainsaw",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/lollipopchainsaw-1650671944003.jpg",
+          "titlebackground": "https://www.videogameschronicle.com/files/2022/06/lollipop-chainsaw.jpg",
           "type": 1
         },
         {
