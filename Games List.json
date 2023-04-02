@@ -829,6 +829,34 @@
           "titleicon": "https://store-images.s-microsoft.com/image/apps.18720.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.46888afa-996b-4016-b5b4-c2e0b78171e2?q=90&w=177&h=265",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.10583.68005754082254855.39795a60-73cf-4461-87d9-7f112c30c43c.a86b405a-b519-4836-9b3c-9fed5c0c8b41?q=90&w=320&h=180",
           "type": 1
+        },
+        {
+          "titlename": "Minecraft Dungeons",
+          "titleimage": "Minecraft_Dungeons",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a9f2861cf82efebf18f83d9ce721a576.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero_thumb/a9d671a92095bb4bbd7ff64507e8f1e8.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Minecraft Legends",
+          "titleimage": "Minecraft_Legends",
+          "titleicon": "https://tinfoil.media/ti/01007C6012CC8000/0/0/",
+          "titlebackground": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000033696/be89eb9c1c6a57cf58e8d14b03d26b4c42d988e02c082fd0fe368417c43b959e",
+          "type": 1
+        },
+        {
+          "titlename": "Tetris® Effect: Connected",
+          "titleimage": "Tetris_Effect_Connected",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png",
+          "titlebackground": "https://spoonievr.files.wordpress.com/2020/12/tetris-effect-banner-edited.png?w=1200",
+          "type": 1
+        },
+        {
+          "titlename": "Stardew Valley",
+          "titleimage": "Stardew_Valley",
+          "titleicon": "https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png",
+          "titlebackground": "https://nerdbacon.com/wp-content/uploads/2017/11/Stardew-Valley-Banner.png",
+          "type": 1
         }
       ]
     }
