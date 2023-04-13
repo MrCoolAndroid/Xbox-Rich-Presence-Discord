@@ -558,6 +558,13 @@
           "type": 1
         },
         {
+          "titlename": "Tom Clancy's Rainbow Six Extraction",
+          "titleimage": "rainbow_six_extraction",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/dAX4bUiYtNYZRkK3TcOphTeO.png",
+          "titlebackground": "https://www.denofgeek.com/wp-content/uploads/2022/01/Rainbow-Six-Operators.jpg",
+          "type": 1
+        },
+        {
           "titlename": "ROBLOX",
           "titleimage": "roblox",
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/01/roblox-sq-1646155371025.jpg",
