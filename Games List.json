@@ -885,6 +885,20 @@
           "titleicon": "https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png",
           "titlebackground": "https://nerdbacon.com/wp-content/uploads/2017/11/Stardew-Valley-Banner.png",
           "type": 1
+        },
+        {
+          "titlename": "Rust: Console Edition",
+          "titleimage": "Rust_Console_Edition",
+          "titleicon": "https://cdn.upload.systems/uploads/UWxkgL5s.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202103/1609/wBzFi5s20C1I7o3A5iEFWNuI.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead by Daylight",
+          "titleimage": "Dead_by_Daylight",
+          "titleicon": "https://cdn.upload.systems/uploads/vWG3kANz.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
+          "type": 1
         }
       ]
     }
