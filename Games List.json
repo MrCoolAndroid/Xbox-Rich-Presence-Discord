@@ -894,6 +894,13 @@
           "type": 1
         },
         {
+          "titlename": "Among Us",
+          "titleimage": "Among_Us",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202107/0115/D5IIJwm65MLMPENwWzzO7rjd.png",
+          "titlebackground": "https://www.gamebyte.com/wp-content/uploads/2020/12/EpS1HMIXYAcamyj.jpeg",
+          "type": 1
+        },
+        {
           "titlename": "Dead by Daylight",
           "titleimage": "Dead_by_Daylight",
           "titleicon": "https://cdn.upload.systems/uploads/vWG3kANz.png",
