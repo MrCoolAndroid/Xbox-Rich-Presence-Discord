@@ -895,7 +895,7 @@
         },
         {
           "titlename": "Rust Console Edition - Public Branch",
-          "titleimage": "Dead_by_Daylight",
+          "titleimage": "Rust_Console_Edition_PB",
           "titleicon": "https://cdn.upload.systems/uploads/dKZayVXQ.png",
           "titlebackground": "https://images.squarespace-cdn.com/content/v1/602d246245658135031e4b2a/1616447818146-YFIXRZ2D4BG1RPDSY1P8/RUST_GroupShot_Building.png",
           "type": 1
@@ -933,6 +933,20 @@
           "titleimage": "Sea_of_Thieves",
           "titleicon": "https://cdn.upload.systems/uploads/mLBd0SzN.png",
           "titlebackground": "https://cdn.upload.systems/uploads/B07ZQmAU.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Redfall",
+          "titleimage": "redfall",
+          "titleicon": "https://cdn.upload.systems/uploads/6Ti81qpI.jpg",
+          "titlebackground": "https://twistedvoxel.com/wp-content/uploads/2022/12/Redfall.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Red Dead Redemption 2",
+          "titleimage": "red_dead_redemption_2",
+          "titleicon": "https://cdn.upload.systems/uploads/i4TiilMv.jpeg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202011/1215/WyHa1BM3ISDVqYSEUMB9VZJs.png?w=1920",
           "type": 1
         }
       ]
