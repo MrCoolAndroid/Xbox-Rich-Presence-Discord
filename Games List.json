@@ -971,6 +971,13 @@
           "type": 1
         },
         {
+          "titlename": "Rock Band 4",
+          "titleimage": "Rock_Band_4",
+          "titleicon": "https://image.api.playstation.com/cdn/UP8802/CUSA02084_00/FmVyycG5ukypLJz9iUYdBVtkI9H8axtx.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/6d043f817df5b96f2849fa562bfdb202.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Friday the 13th: The Game",
           "titleimage": "friday_the_13th_the_game",
           "titleicon": "https://cdn.upload.systems/uploads/YDxSjyol.png",
