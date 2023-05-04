@@ -215,6 +215,13 @@
           "type": 3
         },
         {
+          "titlename": "Microsoft Store",
+          "titleimage": "Microsoft_Store",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/3883cd645fd2fd862058839841a60f97.png",
+          "titlebackground": "https://images.idgesg.net/images/article/2020/06/microsoft-store-100850225-large.jpg",
+          "type": 3
+        },
+        {
           "titlename": "COD: Black Ops III",
           "titleimage": "cod_bo3",
           "titleicon": "https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg",
@@ -719,6 +726,34 @@
           "type": 1
         },
         {
+          "titlename": "DEAD OR ALIVE 1 Ultimate",
+          "titleimage": "DOA1_ULTIMATE",
+          "titleicon": "https://i.imgur.com/WA3VPTS.png",
+          "titlebackground": "https://www.destructoid.com/wp-content/uploads/2020/12/515253-lei-fang.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 2 Ultimate",
+          "titleimage": "DOA2_ULTIMATE",
+          "titleicon": "https://i.imgur.com/CJKFobH.png",
+          "titlebackground": "https://www.destructoid.com/wp-content/uploads/2020/12/515253-lei-fang.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead or Alive 3",
+          "titleimage": "DOA3",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/05/04/doa3-1651685752417.jpg",
+          "titlebackground": "https://www.1zoom.me/big/72/65401-aleni.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 4",
+          "titleimage": "DOA4_360",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/11/25/doa4-1669406347926.jpg",
+          "titlebackground": "https://thehande.files.wordpress.com/2019/04/doa4-01.jpg",
+          "type": 1
+        },
+        {
           "titlename": "DEAD OR ALIVE 5 Last Round: Core Fighters",
           "titleimage": "doa5_LR_XB1",
           "titleicon": "https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png",
@@ -985,7 +1020,7 @@
           "type": 1
         },
         {
-          "titlename": "OKAMI HD",
+          "titlename": "ŌKAMI HD",
           "titleimage": "Okami_HD",
           "titleicon": "https://image.api.playstation.com/cdn/UP0102/CUSA08418_00/bKaklXPelfDeAe4ODKN25A63ZqOMMlhi.png",
           "titlebackground": "https://gamingtrend.com/wp-content/uploads/2018/01/okami-header.jpg",
