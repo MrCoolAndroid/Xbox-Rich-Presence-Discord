@@ -803,6 +803,41 @@
           "type": 1
         },
         {
+          "titlename": "Saints Row: The Third",
+          "titleimage": "Saints_Row_The_Third",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png",
+          "titlebackground": "https://www.godisageek.com/wp-content/uploads/Saints-Row-the-Third-PS4.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row: The Third Remastered",
+          "titleimage": "Saints_Row_The_Third_Remastered",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202105/1110/OwxZcWTSQshQNCS8n3M1dm25.png",
+          "titlebackground": "https://www.gamebyte.com/wp-content/uploads/2021/05/saints-row-the-third-remastered.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row IV",
+          "titleimage": "Saints_Row_IV",
+          "titleicon": "https://i.ebayimg.com/images/g/EW4AAOSwj51jNWUe/s-l1600.jpg",
+          "titlebackground": "https://images5.alphacoders.com/395/thumb-1920-395720.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row IV: Re-Elected,
+          "titleimage": "Saints_Row_IV_Re-Elected",
+          "titleicon": "https://image.api.playstation.com/cdn/UP2047/CUSA01164_00/nhM6vndQ0hzEwA6FKh99Kjq9ILNaQ8tm.png",
+          "titlebackground": "https://cdn-ext.fanatical.com/production/product/1280x720/ef7a1626-58d8-4e4c-b6cf-b796e0d8da3b.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row: Gat out of Hell",
+          "titleimage": "Saints_Row_Gat_Out_Of_Hell",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/saints-row-iv-gat-out-of-hell-button-1641598025730.jpg",
+          "titlebackground": "https://cdn.akamai.steamstatic.com/steam/apps/301910/ss_8a18fe0b549b5ef7763d62af69251507a4cdcdff.1920x1080.jpg",
+          "type": 1
+        },
+        {
           "titlename": "ULTRA STREETFIGHTER IV",
           "titleimage": "USF4",
           "titleicon": "https://image.api.playstation.com/cdn/UP9012/CUSA01846_00/bfVn55KvgbaZp7GKHm6VkNoq6EiHqFjF.png",
