@@ -1,7 +1,9 @@
 # Xbox Rich Presence
+
+*Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live you can use this*
+
 ***Another note: Please before doing anything read this README, many people tried to clone the repository instead of downloading the release***
 
-*Note: Discord already haves an integrated presence for Xbox Live, but if you want to show more information about what you are playing on Xbox Live u can use this*
 ## This Rich Presence contains:
 1. Game/app name
 2. Game/app image (not all games/apps haves an image, you can add images by [contributing](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord#contribute))
@@ -30,6 +32,7 @@
 - [x] Database for games
 - [x] Cool animations and effects
 - [x] Device selector
+- [ ] SteamGridDB support
 
 ## Contribute
 Wanna contribute on adding games with pictures and backgrounds? Now you can! Just do a pull request editing the [Games List.json](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/blob/main/Games%20List.json) file!
