@@ -1081,6 +1081,13 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png",
           "titlebackground": "https://i.blogs.es/95cf07/fifa-23-ps4-ps5-xbox-pc-nintendo-switch/1366_2000.jpeg",
           "type": 1
+        },
+        {
+          "titlename": "XDefiant Open Session",
+          "titleimage": "xdef_os",
+          "titleicon": "https://cdn.upload.systems/uploads/lJbk026w.jpg",
+          "titlebackground": "https://cdn.upload.systems/uploads/w1Bts1IC.jpg",
+          "type": 1
         }
       ]
     }
