@@ -1083,10 +1083,24 @@
           "type": 1
         },
         {
-          "titlename": "XDefiant Open Session",
-          "titleimage": "xdef_os",
-          "titleicon": "https://cdn.upload.systems/uploads/SBuKabgD.jpg",
-          "titlebackground": "https://cdn.upload.systems/uploads/4UxhpwRF.jpg",
+          "titlename": "Pure",
+          "titleimage": "Pure",
+          "titleicon": "http://store-images.s-microsoft.com/image/apps.56982.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.0d650d85-7dd6-4f17-8b23-3a68b57ecce3",
+          "titlebackground": "http://store-images.s-microsoft.com/image/apps.37612.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.b32a79d1-1af7-491e-9386-e418db4bbd6b",
+          "type": 1
+        },
+        {
+          "titlename": "Saints Row: The Third",
+          "titleimage": "srtt",
+          "titleicon": "https://m.media-amazon.com/images/M/MV5BOTc1NzQ0NDA5OV5BMl5BanBnXkFtZTgwMzYwMzc1MDE@._V1_.jpg",
+          "titlebackground": "http://store-images.s-microsoft.com/image/apps.20467.64418464038488926.c1623336-fa96-48d7-8252-c1a92382f48a.b888d7a6-f053-405b-89fd-701b257e3354",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield 3",
+          "titleimage": "bf3",
+          "titleicon": "https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg",
+          "titlebackground": "http://store-images.s-microsoft.com/image/apps.62184.69271430660548627.c90235de-725c-43d6-b777-19f7f75295cc.465ea345-cd29-4a19-8c1c-4d175dc20b49",
           "type": 1
         }
       ]
