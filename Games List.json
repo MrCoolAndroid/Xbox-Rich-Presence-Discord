@@ -1086,7 +1086,8 @@
           "titlename": "XDefiant Open Session",
           "titleimage": "xdef_os",
           "titleicon": "https://cdn.upload.systems/uploads/SBuKabgD.jpg",
-          "titlebackground": "https://cdn.upload.systems/uploads/4UxhpwRF.jpg"
+          "titlebackground": "https://cdn.upload.systems/uploads/4UxhpwRF.jpg",
+          "type": 1
         },  
         {
           "titlename": "Pure",
