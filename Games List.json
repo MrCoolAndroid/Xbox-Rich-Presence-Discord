@@ -845,6 +845,27 @@
           "type": 1
         },
         {
+          "titlename": "SUPER STREETFIGHTER IV ARCADE EDITION",
+          "titleimage": "SSFIVAE",
+          "titleicon": "https://images.stopgame.ru/games/logos/12365/super_street_fighter_4_arcade_edition-square.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.43457.69348165562119927.08cc694a-5f8d-47e5-b7fb-204c8faff4af.d5963a3a-af7c-4166-8c33-8c8baf520113?mode=scale&q=90&h=1080&w=1920",
+          "type": 1
+        },
+        {
+          "titlename": "STREET FIGHTER IV",
+          "titleimage": "SFIV",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/dd32d86c8120238307307260fe0d81bd.png",
+          "titlebackground": "https://wallpaperaccess.com/full/1543142.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Street Fighter 6",
+          "titleimage": "SF6",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1408/l3bg7nmfPpPzam5jOVlaUFww.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Catherine",
           "titleimage": "Catherine",
           "titleicon": "https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg",
