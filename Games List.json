@@ -166,6 +166,27 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty: WaW",
+          "titleimage": "cod_waw",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg",
+          "titlebackground": "https://cdn.akamai.steamstatic.com/steam/apps/10090/capsule_616x353.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: World at War",
+          "titleimage": "cod_waw_xb1",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg",
+          "titlebackground": "https://cdn.akamai.steamstatic.com/steam/apps/10090/capsule_616x353.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Black Ops 4",
+          "titleimage": "cod_BO4",
+          "titleicon": "https://assets1.ignimgs.com/2018/10/10/call-of-duty-black-ops-4---button-fin-1539211957163.jpg",
+          "titlebackground": "https://bnetproduct-a.akamaihd.net//2/f0237bcc69a719e4da6c10580f9088e9-CODBO4-Bnet_Game-Cart_Feature_3A_Standard-960x540-20190930.jpg?imwidth=&imdensity=2",
+          "type": 1
+        },
+        {
           "titlename": "Superliminal",
           "titleimage": "superliminal",
           "titleicon": "https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg",
