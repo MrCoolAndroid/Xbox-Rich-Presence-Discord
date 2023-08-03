@@ -1158,6 +1158,20 @@
           "titleicon": "https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg",
           "titlebackground": "http://store-images.s-microsoft.com/image/apps.62184.69271430660548627.c90235de-725c-43d6-b777-19f7f75295cc.465ea345-cd29-4a19-8c1c-4d175dc20b49",
           "type": 1
+        },
+        {
+          "titlename": "LEGO Indiana Jones",
+          "titleimage": "legoij",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38358bac3cc2848d2dfb10d268e7e252.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/6459257ddab7b85bf4b57845e875e4d4.png",
+          "type": 1
+        },
+        {
+          "titlename": "LEGO Batman",
+          "titleimage": "legobatman",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/017d234dccfcf4da102cd2293c248457.png",
+          "type": 1
         }
       ]
     }
