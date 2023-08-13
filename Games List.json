@@ -1172,6 +1172,13 @@
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png",
           "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/017d234dccfcf4da102cd2293c248457.png",
           "type": 1
+        },
+        {
+          "titlename": "Daytona USA",
+          "titleimage": "Daytona USA",
+          "titleicon": "https://media.vgm.io/releases/44/11744/11744-1596288334.jpg",
+          "titlebackground": "https://www.sega-portal.de/blog/wp-content/uploads/2011/10/daytona-usa-logo.jpg",
+          "type": 1
         }
       ]
     }
