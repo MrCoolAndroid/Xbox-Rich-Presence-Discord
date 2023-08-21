@@ -1179,6 +1179,13 @@
           "titleicon": "https://media.vgm.io/releases/44/11744/11744-1596288334.jpg",
           "titlebackground": "https://www.sega-portal.de/blog/wp-content/uploads/2011/10/daytona-usa-logo.jpg",
           "type": 1
+        },
+        {
+          "titlename": "The Texas Chain Saw Massacre",
+          "titleimage": "The Texas Chain Saw Massacre",
+          "titleicon": "https://cdn.upload.systems/uploads/Du7SLapc.png",
+          "titlebackground": "https://cdn.upload.systems/uploads/rHA4JYxG.png",
+          "type": 1
         }
       ]
     }
