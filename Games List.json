@@ -1186,6 +1186,13 @@
           "titleicon": "https://cdn.upload.systems/uploads/JBoPjZvi.png",
           "titlebackground": "https://cdn.upload.systems/uploads/rHA4JYxG.png",
           "type": 1
+        },
+        {
+          "titlename": "Crackdown 2",
+          "titleimage": "crackdown2",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg",
+          "titlebackground": "https://i.blogs.es/72c7cc/crackdown-2/840_560.jpg",
+          "type": 1
         }
       ]
     }
