@@ -1193,6 +1193,13 @@
           "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg",
           "titlebackground": "https://i.blogs.es/72c7cc/crackdown-2/840_560.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Home",
+          "titleimage": "one_dashboard",
+          "titleicon": "one_dashboard",
+          "titlebackground": "one_dashboard",
+          "type": 1
         }
       ]
     }
