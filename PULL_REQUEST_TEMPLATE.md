@@ -1,6 +1,6 @@
-Wanna contribute on adding games with pictures and backgrounds? Now you can! Just do a pull request editing the [Games List.json](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/blob/main/Games%20List.json) file!
+Before making your pull request make sure that:
 - "titlename" should have the original name of the game that shows on Xbox, remove any Copyright or Trademark symbols
-- Images on "titleicon" should be 1024x1024, and "titlebackground" can be any size but choose one that fits on the app correctly
+- Images on "titleicon" should be 1024x1024 and the link to it should be 256 characters maximum and "titlebackground" can be any size but choose one that fits on the app correctly
 - "titleimage" is a Discord parameter, give it any name or the game name, i will edit it after the pull request
 - "type" (number) is the kind of game or app, Use the following numbers depending of the type of app or game:
   - (1) For games, it will show "Playing (game)"
