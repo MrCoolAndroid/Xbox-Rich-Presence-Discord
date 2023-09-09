@@ -32,7 +32,7 @@
 - [x] Database for games
 - [x] Cool animations and effects
 - [x] Device selector
-- [ ] SteamGridDB support
+- [x] SteamGridDB support
 
 ## Contribute
 Wanna contribute on adding games with pictures and backgrounds? Now you can! Just do a pull request editing the [Games List.json](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/blob/main/Games%20List.json) file!
