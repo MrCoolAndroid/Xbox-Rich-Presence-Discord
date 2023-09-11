@@ -1207,6 +1207,13 @@
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png",
           "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/fifa/fifa-23/authenticity/common/f23-auth-featured-16x9.jpg.adapt.crop16x9.1023w.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Red Dead Redemption",
+          "titleimage": "rdr",
+          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38c0cbe22bf9f9a5627b511f107d0300.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/file/sgdb-cdn/hero/7f2b2f3993942d8fffe0959b532816ea.png",
+          "type": 1
         }
       ]
     }
