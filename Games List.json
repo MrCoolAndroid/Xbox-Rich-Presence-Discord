@@ -1235,6 +1235,13 @@
           "titleicon": "https://upload.anarchyisland.gg/r/Payday3%20Icon.jpg?compress=false",
           "titlebackground": "https://upload.anarchyisland.gg/r/Payday3%20Background.jpg?compress=false",
           "type": 1
+        },
+        {
+          "titlename": "Plants vs. Zombies Garden Warfare",
+          "titleimage": "pvz_gw1",
+          "titleicon": "https://i.ibb.co/9Y8ZQsv/icon.png",
+          "titlebackground": "https://i.ibb.co/ScDk09g/background.png",
+          "type": 1
         }
       ]
     }
