@@ -1242,6 +1242,62 @@
           "titleicon": "https://i.ibb.co/9Y8ZQsv/icon.png",
           "titlebackground": "https://i.ibb.co/ScDk09g/background.png",
           "type": 1
+        },
+        {
+          "titlename": "Need for Speed Hot Pursuit Remastered",
+          "titleimage": "nfs_hpr",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png",
+          "titlebackground": "https://xxboxnews.blob.core.windows.net/prod/sites/2/2020/11/NFSHPR_XB1_Titled_Hero_Art_1920x1080_JPG.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Batman: Arkham Knight",
+          "titleimage": "batman_arkham_night",
+          "titleicon": "https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/due3Vp0T2VSGfBtGsWjVnrL4o882iYVk.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/aTTCBCKvNrQ2SYgTDwnSJS.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM",
+          "titleimage": "doom",
+          "titleicon": "https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg",
+          "titlebackground": "https://i.pinimg.com/originals/28/a5/b0/28a5b0a9436536a8945416a5ad503b36.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Devil May Cry 5",
+          "titleimage": "dmc5",
+          "titleicon": "https://assets1.ignimgs.com/2019/03/04/devil-may-cry-5---button-fin-1551739966394.jpg",
+          "titlebackground": "https://www.guidingtech.com/wp-content/uploads/1_devil-may-cry-5-wallpapers-4k-full-hd-lead-image_4d470f76dc99e18ad75087b1b8410ea9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DRAGON BALL XENOVERSE",
+          "titleimage": "dbx",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ed645df163c420c0f2ae8b51a29dab6b.png",
+          "titlebackground": "https://gaming-cdn.com/images/products/6870/orig/dragon-ball-xenoverse-xbox-one-xbox-series-x-s-xbox-one-xbox-series-x-s-juego-microsoft-store-europe-cover.jpg?v=1687966007",
+          "type": 1
+        },
+        {
+          "titlename": "Mirror's Edge Catalyst",
+          "titleimage": "mirror_edge_catalyst",
+          "titleicon": "https://image.api.playstation.com/cdn/EP0006/CUSA01499_00/BlmZA1q0foctr8IIDE6LcSXiuYnWtSGS.png",
+          "titlebackground": "https://images8.alphacoders.com/708/708538.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "eFootball 2024",
+          "titleimage": "efootball_24",
+          "titleicon": "https://image.api.playstation.com/cdn/EP0006/CUSA01499_00/BlmZA1q0foctr8IIDE6LcSXiuYnWtSGS.png",
+          "titlebackground": "https://m.media-amazon.com/images/M/MV5BZTlhNzk1NDEtMjk1YS00MTU1LTg2OWYtOGVlMmJjYTJlOTQ3XkEyXkFqcGdeQXVyNDIwOTkyNjM@._V1_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "WATCH_DOGS",
+          "titleimage": "WATCH_DOGS",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg",
+          "titlebackground": "https://images7.alphacoders.com/415/415518.jpg",
+          "type": 1
         }
       ]
     }
