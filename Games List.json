@@ -17,6 +17,13 @@
           "type": 1
         },
         {
+          "titlename": "Minecraft: Xbox 360 Edition",
+          "titleimage": "minecraft_xbox_360_edition",
+          "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
+          "titlebackground": "https://images.igdb.com/igdb/image/upload/t_cover_big/co3h12.png",
+          "type": 1
+        },
+        {
           "titlename": "DayZ",
           "titleimage": "dayz",
           "titleicon": "https://media.vandal.net/m/20846/dayz-201953013153533_11.jpg",
