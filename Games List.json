@@ -54,8 +54,8 @@
         {
           "titlename": "Fortnite",
           "titleimage": "fortnite",
-          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202109/1303/kaXldqXxbIyvX9Kn8eeFckQJ.png",
-          "titlebackground": "https://i2.wp.com/www.gameoverla.com/wp-content/uploads/2019/10/fortnite-chapter-2-launch-trailer-1191753.jpeg?fit=640%2C320&ssl=1",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2801/803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.png",
+          "titlebackground": "https://cdn2.unrealengine.com/keyart-overscan-nologo-2-2276x1280-aa06338f9aae.jpg",
           "type": 1
         },
         {
@@ -266,7 +266,7 @@
         {
           "titlename": "PUBG: BATTLEGROUNDS",
           "titleimage": "pubg",
-          "titleicon": "https://i.3djuegos.com/juegos/14758/playerunknown__039_s_battlegrounds/fotos/maestras/playerunknown__039_s_battlegrounds-5493945.jpg",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png",
           "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1",
           "type": 1
         },
@@ -1122,6 +1122,13 @@
           "titleimage": "cod_modern_ii",
           "titleicon": "https://cdn.kulturegeek.fr/wp-content/uploads/2022/05/Call-of-Duty-Modern-Warfare-2-2022-1-1024x1024.jpg",
           "titlebackground": "https://assets.xboxservices.com/assets/a0/02/a0029671-98a2-4955-a9e7-ef32cd0eb544.jpg?n=CoD-MW-II_GLP-Page-Hero-Poster-1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty",
+          "titleimage": "Call_of_Duty_MWIII",
+          "titleicon": "https://pbs.twimg.com/media/F3abcdwWUAAJu7c.jpg",
+          "titlebackground": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw3/home/hero/jpt-hero-desktop.jpg",
           "type": 1
         },
         {
