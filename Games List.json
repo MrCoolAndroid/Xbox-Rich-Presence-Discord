@@ -10,6 +10,34 @@
           "type": 1
         },
         {
+          "titlename": "ぷよぷよテトリス2",
+          "titleimage": "Puyo_Puyo_Tetris_2_JP",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1618/XcKOOX81M3QTIN7CBV7QldDg.png",
+          "type": 1
+        },
+        {
+          "titlename": "Puyo Puyo Tetris 2",
+          "titleimage": "Puyo_Puyo_Tetris_2",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/0718/AUtNlbgma7fjJwmet5jwwv6R.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1618/XcKOOX81M3QTIN7CBV7QldDg.png",
+          "type": 1
+        },
+        {
+          "titlename": "ぷよぷよテトリス",
+          "titleimage": "Puyo_Puyo_Tetris_1_JP",
+          "titleicon": "https://image.api.playstation.com/cdn/JP0177/CUSA01005_00/DsB0VEi0mMS2H1mHJskPnALUGzq9RAeb.png",
+          "titlebackground": "https://images4.alphacoders.com/989/989500.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Puyo Puyo Champions",
+          "titleimage": "Puyo_Puyo_Champions",
+          "titleicon": "https://assets1.ignimgs.com/2019/05/08/puyo-puyo-champions---button-fin-1557346889660.jpg",
+          "titlebackground": "https://xxboxnews.blob.core.windows.net/prod/sites/2/PuyoPuyo_KeyArt-small.jpeg",
+          "type": 1
+        },
+        {
           "titlename": "Minecraft",
           "titleimage": "minecraft",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
