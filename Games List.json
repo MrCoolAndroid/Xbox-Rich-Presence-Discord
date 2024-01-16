@@ -229,6 +229,62 @@
           "type": 2
         },
         {
+          "titlename": "Max",
+          "titleimage": "HBO_Max",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg",
+          "titlebackground": "https://variety.com/wp-content/uploads/2021/06/HBO-MAX-logo.jpg",
+          "type": 2
+        },
+        {
+          "titlename": "Blu-ray Player",
+          "titleimage": "Blu_ray_Player",
+          "titleicon": "https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg",
+          "titlebackground": "https://media.wired.com/photos/5c1064d06b57cd18ab64c632/master/pass/blu-ray-183322915.jpg",
+          "type": 3
+        },
+        {
+          "titlename": "Spectrum TV",
+          "titleimage": "Spectrum_TV",
+          "titleicon": "https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg",
+          "titlebackground": "https://www.cnet.com/a/img/resize/c9e52e43c722f24f093161397898ee450fbdb30b/hub/2023/09/14/714759c0-5138-4f35-ab03-4de1fded4dc7/spectrum-cnetbb-logo-c.jpg?auto=webp&fit=crop&height=126",
+          "type": 2
+        },
+        {
+          "titlename": "Crunchyroll",
+          "titleimage": "Crunchyroll_Xbox",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/09/22/service-crunchyroll-1663819467267.jpg",
+          "titlebackground": "https://img1.ak.crunchyroll.com/i/spire3/b22476b0a1c4b17aeff8e80ad123878e1588710651_main.png",
+          "type": 2
+        },
+        {
+          "titlename": "Twitch",
+          "titleimage": "Twitch_for_Xbox",
+          "titleicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/bd/0b/bcbd0b7f-393a-e861-1540-c69794ad981a/TwitchAppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024.jpg",
+          "titlebackground": "https://duet-cdn.vox-cdn.com/thumbor/0x0:2040x1360/1440x960/filters:focal(1020x680:1021x681):format(webp)/cdn.vox-cdn.com/uploads/chorus_asset/file/22238847/acastro_210115_1777_twitch_0003.jpg",
+          "type": 2
+        },
+        {
+          "titlename": "Hulu",
+          "titleimage": "Hulu_for_Xbox",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/09/22/service-hulu-1663828348772.jpg",
+          "titlebackground": "https://helplama.com/wp-content/uploads/2022/09/hulu_stats.jpg",
+          "type": 2
+        },
+        {
+          "titlename": "Spotify Xbox - Music and Podcasts",
+          "titleimage": "Spotify_for_Xbox",
+          "titleicon": "https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/85/04/1f85048c-e420-06fb-ec42-a1048fd3506b/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1024x1024.jpg",
+          "titlebackground": "https://storage.googleapis.com/pr-newsroom-wp/1/2023/12/Generic-FTR-headers_V10-1920x733.jpg",
+          "type": 3
+        },
+        {
+          "titlename": "Microsoft Edge",
+          "titleimage": "Microsoft_Edge",
+          "titleicon": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png",
+          "titlebackground": "https://www.lifewire.com/thmb/NSE8G8rmX6Yxf3sxckcXhW7puVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001-what-is-microsoft-edge-4151828-b50ba4a178d54bb287c62419dd80c6d7.jpg",
+          "type": 3
+        },
+        {
           "titlename": "COD: Black Ops II",
           "titleimage": "cod_bo2",
           "titleicon": "http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg",
@@ -273,7 +329,7 @@
         {
           "titlename": "Microsoft Store",
           "titleimage": "Microsoft_Store",
-          "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/3883cd645fd2fd862058839841a60f97.png",
+          "titleicon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png",
           "titlebackground": "https://images.idgesg.net/images/article/2020/06/microsoft-store-100850225-large.jpg",
           "type": 3
         },
