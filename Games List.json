@@ -1209,10 +1209,17 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty: Modern Warfare III",
+          "titleimage": "cod_modern_iii",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f4d00a10a3b2a52d7ea6610567f1f1b8.png",
+          "titlebackground": "https://images2.alphacoders.com/132/1327407.png",
+          "type": 1
+        },
+        {
           "titlename": "Call of Duty",
-          "titleimage": "Call_of_Duty_MWIII",
-          "titleicon": "https://pbs.twimg.com/media/F3abcdwWUAAJu7c.jpg",
-          "titlebackground": "https://www.callofduty.com/content/dam/atvi/callofduty/cod-touchui/mw3/home/hero/jpt-hero-desktop.jpg",
+          "titleimage": "Call_of_Duty_HQ",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7f318a41b62c77673f7993fefc2d8d57.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/e44c485e1ccb1b2064694b7346e63764.png",
           "type": 1
         },
         {
