@@ -1396,6 +1396,13 @@
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg",
           "titlebackground": "https://images7.alphacoders.com/415/415518.jpg",
           "type": 1
+        },
+        {
+          "titlename": "War Thunder",
+          "titleimage": "war_thunder",
+          "titleicon": "https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/r/War%20Thunder%20Background.jpg?compress=false",
+          "type": 1
         }
       ]
     }
