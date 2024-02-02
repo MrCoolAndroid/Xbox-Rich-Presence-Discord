@@ -355,7 +355,7 @@
           "type": 1
         },
         {
-         "titlename": "Dying Light",
+          "titlename": "Dying Light",
           "titleimage": "dying_light",
           "titleicon": "https://cdn.discordapp.com/attachments/930599143041286166/953067144659210240/Discord_DL_Icon_copy_1024x1024.png",
           "titlebackground": "https://cdn.discordapp.com/attachments/930599143041286166/953061421212655646/zyro-image_3.png",
@@ -1235,7 +1235,7 @@
           "titleicon": "https://upload.anarchyisland.gg/r/XDefiant%20Icon.jpg?compress=false",
           "titlebackground": "https://upload.anarchyisland.gg/r/XDefiant%20Background.jpg?compress=false",
           "type": 1
-        },  
+        },
         {
           "titlename": "Pure",
           "titleimage": "Pure",
@@ -1402,6 +1402,13 @@
           "titleimage": "war_thunder",
           "titleicon": "https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false",
           "titlebackground": "https://upload.anarchyisland.gg/r/War%20Thunder%20Background.jpg?compress=false",
+          "type": 1
+        },
+        {
+          "titlename": "Persona 3 Reload",
+          "titleimage": "p3reload",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png",
+          "titlebackground": "https://gaming-cdn.com/images/products/14279/orig/persona-3-reload-pc-game-steam-europe-cover.jpg?v=1706779618",
           "type": 1
         }
       ]
