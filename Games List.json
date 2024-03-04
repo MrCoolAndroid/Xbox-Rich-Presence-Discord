@@ -1410,6 +1410,20 @@
           "titleicon": "https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png",
           "titlebackground": "https://gaming-cdn.com/images/products/14279/orig/persona-3-reload-pc-game-steam-europe-cover.jpg?v=1706779618",
           "type": 1
+        },
+        {
+          "titlename": "Train Sim World 4",
+          "titleimage": "TSW4",
+          "titleicon": "https://upload.anarchyisland.gg/r/TSW4%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/r/TSW4%20Banner.jpg?compress=false",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Island 2",
+          "titleimage": "deadisland2",
+          "titleicon": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Background.jpg?compress=false",
+          "type": 1
         }
       ]
     }
