@@ -18,6 +18,12 @@
         "para Xbox One",
         "EA SPORTS "
       ]
+    },
+    {
+      "titlename": "Palworld (Game Preview)",
+      "ignore": [
+        "(Game Preview)",
+      ]
     }
   ]
 }
