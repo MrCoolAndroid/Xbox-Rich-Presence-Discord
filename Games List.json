@@ -1424,6 +1424,13 @@
           "titleicon": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false",
           "titlebackground": "https://upload.anarchyisland.gg/r/Dead%20Island%202%20Background.jpg?compress=false",
           "type": 1
+        },
+        {
+          "titlename": "Palworld (Game Preview)",
+          "titleimage": "Palworld",
+          "titleicon": "https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false",
+          "titlebackground": "https://upload.anarchyisland.gg/r/Palworld%20Background.png?compress=false",
+          "type": 1
         }
       ]
     }
