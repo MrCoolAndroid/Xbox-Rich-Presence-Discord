@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Castlevania: SOTN",
+          "titleimage": "Castlevania_SOTN",
+          "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/logo_thumb/e946209592563be0f01c844ab2170f0c.png"
+          "type": 1
+        },
+        {
           "titlename": "Sonic Generations",
           "titleimage": "sonic_generations",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/7d822b455dfe04415f0798e0d2105a13/32/256x256.png",
