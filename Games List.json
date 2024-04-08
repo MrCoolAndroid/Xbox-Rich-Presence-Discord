@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "FINAL FANTASY XIII",
+          "titleimage": "Final_Fantasy_XIII",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/9c509b71f28ed054340ab236be2f83bd/32/512x512.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/b60c5ab647a27045b462934977ccad9a.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Castlevania: SOTN",
           "titleimage": "Castlevania_SOTN",
           "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png",
