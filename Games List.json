@@ -3,6 +3,41 @@
     {
       "Games": [
         {
+          "titlename": "Assassin's Creed",
+          "titleimage": "Assassins_Creed",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/ef56dd28c084d86aeb28f3b391e94548/32/256x256.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/e65da2392672bfaa382312263caceb9d.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Assassin's Creed Brotherhood",
+          "titleimage": "Assassins_Creed_Brotherhood",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/56535b943d33605c7231405ac564d698/32/256x256.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/7a25ce3a3049c1ee6641f34a98ed44e0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Assassin's Creed II",
+          "titleimage": "Assassins_Creed_II",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/b67fb3360ae5597d85a005153451dd4e/32/256x256.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/97275a23ca44226c9964043c8462be96.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Assassin's Creed Revelations",
+          "titleimage": "Assassins_Creed_Revelations",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f/32/256x256.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/ba1b3eba322eab5d895aa3023fe78b9c.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Assassin's Creed Rogue",
+          "titleimage": "Assassins_Creed_Rogue",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/77ec6f21c85b637cc42bb997841e11a6/32/256x256.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/393e4529c6e160b9ddc1aab3845fc35f.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Assassin's Creed III",
           "titleimage": "Assassins_Creed_III",
           "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/53b79303779db833f34a053df5a6c111.png",
