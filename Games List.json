@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Assassin's Creed III",
+          "titleimage": "Assassins_Creed_III",
+          "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/53b79303779db833f34a053df5a6c111.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/e8a642ed6a9ad20fb159472950db3d65.jpg",
+          "type": 1
+        },
+        {
           "titlename": "FINAL FANTASY XIII",
           "titleimage": "Final_Fantasy_XIII",
           "titleicon": "https://cdn2.steamgriddb.com/icon/9c509b71f28ed054340ab236be2f83bd/32/512x512.png",
