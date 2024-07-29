@@ -1487,6 +1487,13 @@
           "titleicon": "https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false",
           "titlebackground": "https://upload.anarchyisland.gg/r/Palworld%20Background.png?compress=false",
           "type": 1
+        },
+        {
+          "titlename": "Dead by Daylight",
+          "titleimage": "Dead_by_Daylight",
+          "titleicon": "https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
+          "type": 1
         }
       ]
     }
