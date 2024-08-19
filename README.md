@@ -44,6 +44,10 @@ Wanna contribute on adding games with pictures and backgrounds? Now you can! Jus
   - (2) For video apps, it will show "Watching (app)"
   - (3) For another kind of apps, it will show "Using (app)"
 
+You can also contribute to the source code of the app, which is stored on the master branch!
+
+_I'm relatively new to GitHub and open-source, so if I'm doing something wrong don't hesitate to tell me_
+
 ## Contributors
 People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
