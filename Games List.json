@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Street Fighter III Third Strike: Online Edition",
+          "titleimage": "Street_Fighter_III",
+          "titleicon": "https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/314954362f31609663dc4765ab4c7030.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Assassin's Creed",
           "titleimage": "Assassins_Creed",
           "titleicon": "https://cdn2.steamgriddb.com/icon/ef56dd28c084d86aeb28f3b391e94548/32/256x256.png",
