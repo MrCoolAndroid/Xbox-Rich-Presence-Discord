@@ -3,7 +3,63 @@
     {
       "Games": [
         {
-          "titlename": "Street Fighter III Third Strike: Online Edition",
+          "titlename" : "Fire Pro Wrestling",
+          "titleimage" : "Fire Pro Wrestling",
+          "titleicon" : "https://assets-prd.ignimgs.com/2023/06/27/fireprox-1687895281955.jpg?width=1024",
+          "titlebackround": 
+          "type": 1
+        },
+        {
+          "titlename" : "Alien Isolation",
+          "titleimage" : "Alien Isolation",
+          "titleicon" : "https://assets-prd.ignimgs.com/2021/12/15/alien-isolation-button-fin-1639607046894.jpg?width=1024",
+          "titlebackround": 
+          "type": 1
+        },
+        {
+          "titlename": "Carcassonne",
+          "titleimage" : "Carcassone",
+          "titleicon" : "https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp",
+          "titlebackround": 
+          "type": 1
+        },
+        {
+         "titlename" : "Midnight Club L.A",
+          "titleimage" : "Midnight Club L.A",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
+          "titlebackround": 
+          "type": 1 
+        },
+        {
+          "titlename" : "BlazBlue Continuum Shift",
+          "titleimage" : "BlazBlue Continuum Shift",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
+          "titlebackround": "
+          "type": 1
+        },
+        {
+          "titlename" : "Rock Of Ages",
+          "titleimage" : "Rock Of Ages",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/19/rock-of-ages-1-button-1642582677635.jpg?width=1024",
+          "titlebackround": 
+          "type": 1
+        },
+        {
+          "titlename": "Persona 4 Arena" 
+          "titleimage": "Perona 4 Arena"
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg" 
+          "titlebackground":
+          "type": 1
+        },
+        {
+          "titlename": "Raskulls"
+          "titleimage": "Raskulls"
+          "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg"
+          "titlebackround":
+          "type": 1
+        },
+        {
+         "titlename": "Street Fighter III Third Strike: Online Edition",
           "titleimage": "Street_Fighter_III",
           "titleicon": "https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/314954362f31609663dc4765ab4c7030.jpg",
