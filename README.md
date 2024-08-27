@@ -35,6 +35,10 @@
 - [x] SteamGridDB support
 
 ## Contribute
+You can contribute to the source code of the app, which is stored on the `master` branch! So when making a pull request into the source code make sure to use the `master` branch instead of the `main` branch
+
+_I'm relatively new to GitHub and open-source, so if I'm doing something wrong don't hesitate to tell me_
+
 Wanna contribute on adding games with pictures and backgrounds? Now you can! Just do a pull request editing the [Games List.json](https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/blob/main/Games%20List.json) file!
 - "titlename" should have the original name of the game that shows on Xbox, remove any Copyright or Trademark symbols
 - Images on "titleicon" should be 1024x1024 and the link to it should be 256 characters maximum and "titlebackground" can be any size but choose one that fits on the app correctly
@@ -44,14 +48,9 @@ Wanna contribute on adding games with pictures and backgrounds? Now you can! Jus
   - (2) For video apps, it will show "Watching (app)"
   - (3) For another kind of apps, it will show "Using (app)"
 
-You can also contribute to the source code of the app, which is stored on the master branch!
-
-_I'm relatively new to GitHub and open-source, so if I'm doing something wrong don't hesitate to tell me_
-
 ## Contributors
 People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
-- J_Felipe (Ideas for the app)
 
 People who contributed adding games!
 
