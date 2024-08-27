@@ -34,7 +34,7 @@
           "titlename" : "BlazBlue Continuum Shift",
           "titleimage" : "BlazBlue Continuum Shift",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
-          "titlebackround": "
+          "titlebackround": 1
           "type": 1
         },
         {
@@ -45,16 +45,16 @@
           "type": 1
         },
         {
-          "titlename": "Persona 4 Arena" 
-          "titleimage": "Perona 4 Arena"
-          "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg" 
+          "titlename": "Persona 4 Arena", 
+          "titleimage": "Perona 4 Arena",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg",
           "titlebackground":
           "type": 1
         },
         {
-          "titlename": "Raskulls"
-          "titleimage": "Raskulls"
-          "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg"
+          "titlename": "Raskulls",
+          "titleimage": "Raskulls",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg",
           "titlebackround":
           "type": 1
         },
