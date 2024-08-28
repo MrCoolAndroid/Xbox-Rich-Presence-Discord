@@ -3,108 +3,108 @@
     {
       "Games": [
         {
-          "titlename" : "Transformers Devastaion"
-          "titleimage" : "Transformers Devastaion"
-          "titleicon" : "file:///C:/Users/Promise%20(jp)/Downloads/transformers-devastation-button-vjpg-3379a8.webp"
-          "titlebackround": "file:///C:/Users/Promise%20(jp)/Downloads/transformers-devastation-button-vjpg-3379a8.webp"
+          "titlename": "Transformers Devastation",
+          "titleimage": "Transformers Devastation",
+          "titleicon": "",
+          "titlebackround": "",
           "type": 1
         },
         {
-        "titlename" : "Eternal Sonata"
-          "titleimage" : "Eternal Sonata"
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/03/07/eternalsonata-1646675939005.jpg" 
-          "titlebackround": "https://assets-prd.ignimgs.com/2022/03/07/eternalsonata-1646675939005.jpg"
+          "titlename": "Eternal Sonata",
+          "titleimage": "Eternal Sonata",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/07/eternalsonata-1646675939005.jpg",
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "Tom Clancy's Ghost Recon Future"
-          "titleimage" : "Tom CLancy's Ghost Recon Future"
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/04/tom-clancys-ghost-recon-future-soldier-button-1641281459594.jpg"
-          "titlebackround": "https://assets-prd.ignimgs.com/2022/01/04/tom-clancys-ghost-recon-future-soldier-button-1641281459594.jpg"
+          "titlename": "Tom Clancy's Ghost Recon Future",
+          "titleimage": "Tom CLancy's Ghost Recon Future",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/04/tom-clancys-ghost-recon-future-soldier-button-1641281459594.jpg",
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "RezHD"
-          "titleimage" : "RezHD"
-          "titleicon" : "file:///C:/Users/Promise%20(jp)/Downloads/03ada2cf-be48-474a-8ea9-71a575eb3493.webp"
-          "titlebackround": "file:///C:/Users/Promise%20(jp)/Downloads/03ada2cf-be48-474a-8ea9-71a575eb3493.webp"
+          "titlename": "RezHD",
+          "titleimage": "RezHD",
+          "titleicon": "",
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "Harmy Way"
-          "titleimage" : "Harms Way"
-          "titleicon" : "file:///C:/Users/Promise%20(jp)/Downloads/harmsway-1647904582252.webp"
-          "titlebackround": "file:///C:/Users/Promise%20(jp)/Downloads/harmsway-1647904582252.webp"
+          "titlename": "Harms Way",
+          "titleimage": "Harms Way",
+          "titleicon": "",
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "Persona 4 Arena Ultimax"
-          "titleimage" : "Persona 4 Arena Ultimax" 
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg"
-          "titlebackround": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg"
+          "titlename": "Persona 4 Arena Ultimax",
+          "titleimage": "Persona 4 Arena Ultimax",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg",
+          "titlebackround": "",
           "type": 1 
         },
         {
-          "titlename" : "Comic Jumper" 
-          "titleimage : "Comic Jumper"
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp"
-          "titlebackround" : "https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp"
+          "titlename": "Comic Jumper",
+          "titleimage": "Comic Jumper",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp",
+          "titlebackround" : "",
           "type": 1
         },
         {
-          "titlename" : "Fire Pro Wrestling",
-          "titleimage" : "Fire Pro Wrestling",
-          "titleicon" : "https://assets-prd.ignimgs.com/2023/06/27/fireprox-1687895281955.jpg?width=1024",
-          "titlebackround": 
+          "titlename": "Fire Pro Wrestling",
+          "titleimage": "Fire Pro Wrestling",
+          "titleicon": "https://assets-prd.ignimgs.com/2023/06/27/fireprox-1687895281955.jpg?width=1024",
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "Alien Isolation",
-          "titleimage" : "Alien Isolation",
-          "titleicon" : "https://assets-prd.ignimgs.com/2021/12/15/alien-isolation-button-fin-1639607046894.jpg?width=1024",
-          "titlebackround": 
+          "titlename": "Alien Isolation",
+          "titleimage": "Alien Isolation",
+          "titleicon": "https://assets-prd.ignimgs.com/2021/12/15/alien-isolation-button-fin-1639607046894.jpg?width=1024",
+          "titlebackround": "",
           "type": 1
         },
         {
           "titlename": "Carcassonne",
-          "titleimage" : "Carcassone",
-          "titleicon" : "https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp",
-          "titlebackround": 
+          "titleimage": "Carcassone",
+          "titleicon": "https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp",
+          "titlebackround": "",
           "type": 1
         },
         {
-         "titlename" : "Midnight Club L.A",
-          "titleimage" : "Midnight Club L.A",
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
-          "titlebackround": 
+          "titlename": "Midnight Club L.A",
+          "titleimage": "Midnight Club L.A",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
+          "titlebackround": "",
           "type": 1 
         },
         {
           "titlename" : "BlazBlue Continuum Shift",
           "titleimage" : "BlazBlue Continuum Shift",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
-          "titlebackround": 1
+          "titlebackround": "",
           "type": 1
         },
         {
-          "titlename" : "Rock Of Ages",
-          "titleimage" : "Rock Of Ages",
-          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/19/rock-of-ages-1-button-1642582677635.jpg?width=1024",
-          "titlebackround": 
+          "titlename": "Rock Of Ages",
+          "titleimage": "Rock Of Ages",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/19/rock-of-ages-1-button-1642582677635.jpg?width=1024",
+          "titlebackround": "",
           "type": 1
         },
         {
           "titlename": "Persona 4 Arena", 
           "titleimage": "Perona 4 Arena",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg",
-          "titlebackground":
+          "titlebackground": "",
           "type": 1
         },
         {
           "titlename": "Raskulls",
           "titleimage": "Raskulls",
           "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg",
-          "titlebackround":
+          "titlebackround": "",
           "type": 1
         },
         {
