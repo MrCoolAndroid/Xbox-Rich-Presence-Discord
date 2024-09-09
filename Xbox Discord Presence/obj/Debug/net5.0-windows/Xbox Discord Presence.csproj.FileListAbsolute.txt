@@ -1,0 +1,78 @@
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.exe
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\log4netconfig.config
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\logo.ico
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.deps.json
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.runtimeconfig.json
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.runtimeconfig.dev.json
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Xbox Discord Presence.pdb
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\CommunityToolkit.Mvvm.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\ControlzEx.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\craftersmine.SteamGridDB.Net.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\DiscordRPC.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\log4net.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.BootstrapIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.BoxIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Codicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Coolicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Core.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Entypo.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.EvaIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FeatherIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FileIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.FontAwesome.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Fontaudio.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Fontisto.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.ForkAwesome.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Ionicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.JamIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Material.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.MaterialDesign.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.MaterialLight.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Microns.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Modern.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Octicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.PicolIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.PixelartIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.RPGAwesome.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.RadixIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.RemixIcon.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.SimpleIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Typicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Unicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.VaadinIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.WeatherIcons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.Zondicons.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\MahApps.Metro.IconPacks.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Microsoft.Xaml.Behaviors.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\Newtonsoft.Json.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\bin\Debug\net5.0-windows\de\MahApps.Metro.resources.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.csproj.AssemblyReference.cache
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Dialogs\RequestDeviceDialog.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\MainWindow.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Views\MainScreen.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Views\PresenceView.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\App.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence_Content.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\GeneratedInternalTypeHelper.g.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence_MarkupCompile.cache
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence_MarkupCompile.lref
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\App.baml
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Dialogs\RequestDeviceDialog.baml
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\MainWindow.baml
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Views\MainScreen.baml
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Views\PresenceView.baml
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.g.resources
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.AssemblyInfoInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.AssemblyInfo.cs
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.csproj.CoreCompileInputs.cache
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.sourcelink.json
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Dis.0429D932.Up2Date
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\refint\Xbox Discord Presence.dll
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.pdb
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\Xbox Discord Presence.genruntimeconfig.cache
+C:\Users\pablo\OneDrive\Escritorio\XboxRichPresence\Xbox-Rich-Presence-Discord\Xbox Discord Presence\obj\Debug\net5.0-windows\ref\Xbox Discord Presence.dll

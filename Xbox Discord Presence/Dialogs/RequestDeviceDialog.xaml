@@ -1,0 +1,15 @@
+﻿<UserControl x:Class="Xbox_Discord_Presence.Dialogs.RequestDeviceDialog"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" 
+             xmlns:d="http://schemas.microsoft.com/expression/blend/2008" 
+             xmlns:local="clr-namespace:Xbox_Discord_Presence.Dialogs"
+             xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
+             xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks" 
+             xmlns:viewmodels="clr-namespace:Xbox_Discord_Presence.ViewModels" 
+             xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro">
+    <StackPanel>
+        <ComboBox SelectedItem="{Binding SelectedDevice}" ItemsSource="{Binding DevicesList}" SelectedIndex="1" MaxWidth="250" Margin="0, 5, 0, 20"/>
+        <Button Command="{Binding SelectDevice}" MaxWidth="100" Style="{StaticResource MahApps.Styles.Button.Square}" Content="Select" Margin="0, 0, 0, 5"/>
+    </StackPanel>
+</UserControl>

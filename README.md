@@ -35,7 +35,7 @@
 - [x] SteamGridDB support
 
 ## Contribute
-You can contribute to the source code of the app, which is stored on the `master` branch! So when making a pull request into the source code make sure to use the `master` branch instead of the `main` branch
+You can contribute to the source code of the app, I've added it on the Xbox Discord Presence folder as well with its solution, feel free to make pull requests!
 
 _I'm relatively new to GitHub and open-source, so if I'm doing something wrong don't hesitate to tell me_
 

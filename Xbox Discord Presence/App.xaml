@@ -1,0 +1,28 @@
+﻿<Application x:Class="Xbox_Discord_Presence.App"
+             xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+             xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+             xmlns:local="clr-namespace:Xbox_Discord_Presence"
+             xmlns:viewmodels="clr-namespace:Xbox_Discord_Presence.ViewModels"
+             xmlns:views="clr-namespace:Xbox_Discord_Presence.Views"
+             xmlns:dialogs="clr-namespace:Xbox_Discord_Presence.Dialogs">
+    <Application.Resources>
+        <ResourceDictionary>
+            <DataTemplate DataType="{x:Type viewmodels:MainScreenViewModel}">
+                <views:MainScreen/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:PresenceViewModel}">
+                <views:PresenceView/>
+            </DataTemplate>
+            <DataTemplate DataType="{x:Type viewmodels:RequestDeviceDialogViewModel}">
+                <dialogs:RequestDeviceDialog/>
+            </DataTemplate>
+            <ResourceDictionary.MergedDictionaries>
+                <!-- MahApps.Metro resource dictionaries. Make sure that all file names are Case Sensitive! -->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Controls.xaml" />
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Fonts.xaml" />
+                <!-- Theme setting -->
+                <ResourceDictionary Source="pack://application:,,,/MahApps.Metro;component/Styles/Themes/Dark.Blue.xaml" />
+            </ResourceDictionary.MergedDictionaries>
+        </ResourceDictionary>
+    </Application.Resources>
+</Application>
