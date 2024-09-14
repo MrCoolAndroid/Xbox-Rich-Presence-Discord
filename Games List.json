@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Black Myth: Wukong",
+          "titleimage": "blackmyth",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png",
+          "titlebackround": "https://images8.alphacoders.com/112/1129254.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Transformers Devastation",
           "titleimage": "Transformers Devastation",
           "titleicon": "https://cdn2.steamgriddb.com/grid/119f6e15c52017fe153a4350ba3413ce.jpg",
