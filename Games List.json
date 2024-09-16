@@ -3,6 +3,89 @@
     {
       "Games": [
         {
+          "titlename" : "Test Drive Unlimited",
+          "titleimage" : "Test Drive Unlimited",
+          "titleicon" : "https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/35fcfa9e4c022b77e94c0c09a10690c8.jpg",
+          "type": 1
+        },
+        {
+         "titlename" : "Test Drive Unlimited 2",
+          "titleimage" : "Test Drive Unlimited 2",
+          "titleicon" : "https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/9767eb6137bb1e88380c96bbf5ad99bb.png",
+          "type": 1 
+        },
+        {
+          "titlename" : "Aliens vs Predator",
+          "titleimage" : "Aliens vs Predator",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/20/aliens-vs-predator-2010-button-1642656901312.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/11f2a87167e3ff5263d9b7a807f59524.jpg",
+          "type": 1
+        },
+        {
+           "titlename" : "Tekken 6",
+          "titleimage" : "Tekken 6",
+          "titleicon" : "https://cdn2.steamgriddb.com/grid/0cbcc379a81888055b068e7cd194d786.png",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/019f8b946a256d9357eadc5ace2c8678.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Blazblue: Calamity Trigger",
+          "titleimage" : "Blazblue: Calamity Trigger",
+          "titleicon" : "https://cdn2.steamgriddb.com/thumb/b0302bb8590ad20a617b8d7ceb4caf9f.png",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/2cfd4560539f887a5e420412b370b361.jpg",
+          "type": 1
+          
+          "titlename" : "Age Of Booty",
+          "titleimage" : "Age Of Booty",
+          "titleicon" : "https://cdn2.steamgriddb.com/thumb/ebe6eaa8d941d230e93496709db638b9.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/5fb37d5bbdbbae16dea2f3104d7f9439.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Street Fighter X Tekken",
+          "titleimage" : "Street Fighter X Tekken",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/01/07/street-fighter-x-tekken-button-1641591107711.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/3d8e28caf901313a554cebc7d32e67e5.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "HALF-MINUTE HERO -Super Mega Neo Climax-",
+          "titleimage" : "HALF-MINUTE HERO -Super Mega Neo Climax-",
+          "titleicon" : "https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/6d19c113404cee55b4036fce1a37c058.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Marvel Ultimate Alliance 2",
+          "titleimage" : "Marvel Ultimate Alliance 2",
+          "titleicon" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-ultimate-alliance-2/7/72/Marvel_Ultimate_Alliance_2_-_BUTTON.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/9a2e8514e94644ccfdd458ab892635e0.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Marvel Ultimate Alliance",
+          "titleimage" : "Marvel Ultimate Alliance",
+          "titleicon" : "https://assets2.ignimgs.com/2016/07/25/marvel-ultimate-alliance-1-buttonjpg-a2d4d0.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/b90010f47ac493fc027e5727059032d4.jpg",
+          "type": 1
+        },
+        {
+          "titlename" : "Crackdown",
+          "titleimage" : "Crackdown",
+          "titleicon" : "https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/c8858a99f91ba5a272d1322d818bd44f.jpg",
+          "type": 1 
+        },
+        {
+          "titlename" : "Project Gotham Racing 4"
+          "titleimage" : "Project Gotham Racing 4",
+          "titleicon" : "https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Black Myth: Wukong",
           "titleimage": "blackmyth",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png",
@@ -83,7 +166,7 @@
           "titlename": "Midnight Club L.A",
           "titleimage": "Midnight Club L.A",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
-          "titlebackround": "https://images4.alphacoders.com/100/1005688.jpg",
+          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
           "type": 1 
         },
         {
