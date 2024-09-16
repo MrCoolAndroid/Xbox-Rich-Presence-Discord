@@ -6,181 +6,175 @@
           "titlename" : "Test Drive Unlimited",
           "titleimage" : "Test Drive Unlimited",
           "titleicon" : "https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/35fcfa9e4c022b77e94c0c09a10690c8.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/35fcfa9e4c022b77e94c0c09a10690c8.jpg",
           "type": 1
         },
         {
-         "titlename" : "Test Drive Unlimited 2",
+          "titlename" : "Test Drive Unlimited 2",
           "titleimage" : "Test Drive Unlimited 2",
           "titleicon" : "https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/9767eb6137bb1e88380c96bbf5ad99bb.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/9767eb6137bb1e88380c96bbf5ad99bb.png",
           "type": 1 
         },
         {
           "titlename" : "Aliens vs Predator",
           "titleimage" : "Aliens vs Predator",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/01/20/aliens-vs-predator-2010-button-1642656901312.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/11f2a87167e3ff5263d9b7a807f59524.jpg",
-          "type": 1
-        },
-        {
-           "titlename" : "Tekken 6",
-          "titleimage" : "Tekken 6",
-          "titleicon" : "https://cdn2.steamgriddb.com/grid/0cbcc379a81888055b068e7cd194d786.png",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/019f8b946a256d9357eadc5ace2c8678.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/11f2a87167e3ff5263d9b7a807f59524.jpg",
           "type": 1
         },
         {
           "titlename" : "Blazblue: Calamity Trigger",
           "titleimage" : "Blazblue: Calamity Trigger",
           "titleicon" : "https://cdn2.steamgriddb.com/thumb/b0302bb8590ad20a617b8d7ceb4caf9f.png",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/2cfd4560539f887a5e420412b370b361.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/2cfd4560539f887a5e420412b370b361.jpg",
           "type": 1
-          
+        },
+        {
           "titlename" : "Age Of Booty",
           "titleimage" : "Age Of Booty",
           "titleicon" : "https://cdn2.steamgriddb.com/thumb/ebe6eaa8d941d230e93496709db638b9.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/5fb37d5bbdbbae16dea2f3104d7f9439.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/5fb37d5bbdbbae16dea2f3104d7f9439.jpg",
           "type": 1
         },
         {
           "titlename" : "Street Fighter X Tekken",
           "titleimage" : "Street Fighter X Tekken",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/01/07/street-fighter-x-tekken-button-1641591107711.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/3d8e28caf901313a554cebc7d32e67e5.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/3d8e28caf901313a554cebc7d32e67e5.jpg",
           "type": 1
         },
         {
           "titlename" : "HALF-MINUTE HERO -Super Mega Neo Climax-",
           "titleimage" : "HALF-MINUTE HERO -Super Mega Neo Climax-",
           "titleicon" : "https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/6d19c113404cee55b4036fce1a37c058.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/6d19c113404cee55b4036fce1a37c058.jpg",
           "type": 1
         },
         {
           "titlename" : "Marvel Ultimate Alliance 2",
           "titleimage" : "Marvel Ultimate Alliance 2",
           "titleicon" : "https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-ultimate-alliance-2/7/72/Marvel_Ultimate_Alliance_2_-_BUTTON.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/9a2e8514e94644ccfdd458ab892635e0.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/9a2e8514e94644ccfdd458ab892635e0.jpg",
           "type": 1
         },
         {
           "titlename" : "Marvel Ultimate Alliance",
           "titleimage" : "Marvel Ultimate Alliance",
           "titleicon" : "https://assets2.ignimgs.com/2016/07/25/marvel-ultimate-alliance-1-buttonjpg-a2d4d0.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/b90010f47ac493fc027e5727059032d4.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/b90010f47ac493fc027e5727059032d4.jpg",
           "type": 1
         },
         {
           "titlename" : "Crackdown",
           "titleimage" : "Crackdown",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/c8858a99f91ba5a272d1322d818bd44f.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/c8858a99f91ba5a272d1322d818bd44f.jpg",
           "type": 1 
         },
         {
           "titlename" : "Project Gotham Racing 4"
           "titleimage" : "Project Gotham Racing 4",
           "titleicon" : "https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/0dbb3fb9a5cd1d5f8a9075b5bb8070aa.jpg",
           "type": 1
         },
         {
           "titlename": "Black Myth: Wukong",
           "titleimage": "blackmyth",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png",
-          "titlebackround": "https://images8.alphacoders.com/112/1129254.jpg",
+          "titlebackground": "https://images8.alphacoders.com/112/1129254.jpg",
           "type": 1
         },
         {
           "titlename": "Transformers Devastation",
           "titleimage": "Transformers Devastation",
           "titleicon": "https://cdn2.steamgriddb.com/grid/119f6e15c52017fe153a4350ba3413ce.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/a3e8b5e0becdbfb1b1c706b452b6c388.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/a3e8b5e0becdbfb1b1c706b452b6c388.jpg",
           "type": 1
         },
         {
           "titlename": "Eternal Sonata",
           "titleimage": "Eternal Sonata",
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/07/eternalsonata-1646675939005.jpg",
-          "titlebackround": "https://miro.medium.com/v2/resize:fit:1400/1*2s40RS-TVO1Xv08C2vxEAQ.jpeg",
+          "titlebackground": "https://miro.medium.com/v2/resize:fit:1400/1*2s40RS-TVO1Xv08C2vxEAQ.jpeg",
           "type": 1
         },
         {
           "titlename": "Tom Clancy's Ghost Recon Future Soldier",
           "titleimage": "Tom CLancy's Ghost Recon Future Soldier",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/04/tom-clancys-ghost-recon-future-soldier-button-1641281459594.jpg",
-          "titlebackround": "https://images4.alphacoders.com/285/285296.jpg",
+          "titlebackground": "https://images4.alphacoders.com/285/285296.jpg",
           "type": 1
         },
         {
           "titlename": "RezHD",
           "titleimage": "RezHD",
           "titleicon": "https://cdn2.steamgriddb.com/thumb/453166dfc023f0fbaca96f103a21ed26.jpg",
-          "titlebackround": "https://cdn2.steamgriddb.com/thumb/fdd05cf341fa84952d10d287fae0402d.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/thumb/fdd05cf341fa84952d10d287fae0402d.jpg",
           "type": 1
         },
         {
           "titlename": "Harms Way",
           "titleimage": "Harms Way",
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/21/harmsway-1647904582252.jpg",
-          "titlebackround": "https://store-images.s-microsoft.com/image/apps.13006.71654092830813350.c1d546b2-c99d-4fef-a724-a7434504086e.ac1cf554-1f1c-478d-8514-65cb1e72197c?q=90&w=480&h=270",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.13006.71654092830813350.c1d546b2-c99d-4fef-a724-a7434504086e.ac1cf554-1f1c-478d-8514-65cb1e72197c?q=90&w=480&h=270",
           "type": 1
         },
         {
           "titlename": "Persona 4 Arena Ultimax",
           "titleimage": "Persona 4 Arena Ultimax",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg",
-          "titlebackround": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/persona-4-arena-ultimax-system-requirements.jpg",
+          "titlebackground": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/03/persona-4-arena-ultimax-system-requirements.jpg",
           "type": 1 
         },
         {
           "titlename": "Comic Jumper",
           "titleimage": "Comic Jumper",
           "titleicon": "https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp",
-          "titlebackround" : "https://store-images.s-microsoft.com/image/apps.64989.66413203585280713.4b2a30eb-9814-447f-b71a-b0f96db2fbc0.5f9afb45-179a-4545-9be1-c426653bb33d?q=90&w=480&h=270",
+          "titlebackground" : "https://store-images.s-microsoft.com/image/apps.64989.66413203585280713.4b2a30eb-9814-447f-b71a-b0f96db2fbc0.5f9afb45-179a-4545-9be1-c426653bb33d?q=90&w=480&h=270",
           "type": 1
         },
         {
           "titlename": "Fire Pro Wrestling",
           "titleimage": "Fire Pro Wrestling",
           "titleicon": "https://assets-prd.ignimgs.com/2023/06/27/fireprox-1687895281955.jpg?width=1024",
-          "titlebackround": "https://www.trueachievements.com/customimages/011215.jpg",
+          "titlebackground": "https://www.trueachievements.com/customimages/011215.jpg",
           "type": 1
         },
         {
           "titlename": "Alien Isolation",
           "titleimage": "Alien Isolation",
           "titleicon": "https://assets-prd.ignimgs.com/2021/12/15/alien-isolation-button-fin-1639607046894.jpg?width=1024",
-          "titlebackround": "https://images8.alphacoders.com/677/677926.jpg",
+          "titlebackground": "https://images8.alphacoders.com/677/677926.jpg",
           "type": 1
         },
         {
           "titlename": "Carcassonne",
           "titleimage": "Carcassone",
           "titleicon": "https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp",
-          "titlebackround": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ncom/en_US/games/switch/c/carcassonne-switch/hero",
+          "titlebackground": "https://assets.nintendo.com/image/upload/f_auto/q_auto/dpr_1.5/ncom/en_US/games/switch/c/carcassonne-switch/hero",
           "type": 1
         },
         {
           "titlename": "Midnight Club L.A",
           "titleimage": "Midnight Club L.A",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/10/midnightclubla-sq-1641839670810.jpg?width=1024",
-          "titlebackround": "https://cdn2.steamgriddb.com/hero_thumb/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/a9b94e2e91ee1dae4106f72c3e48880e.jpg",
           "type": 1 
         },
         {
           "titlename" : "BlazBlue Continuum Shift",
           "titleimage" : "BlazBlue Continuum Shift",
           "titleicon" : "https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024",
-          "titlebackround": "https://i.pinimg.com/originals/3c/6b/c0/3c6bc07cb80dc24ac940a56c264e428a.jpg",
+          "titlebackground": "https://i.pinimg.com/originals/3c/6b/c0/3c6bc07cb80dc24ac940a56c264e428a.jpg",
           "type": 1
         },
         {
           "titlename": "Rock Of Ages",
           "titleimage": "Rock Of Ages",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/19/rock-of-ages-1-button-1642582677635.jpg?width=1024",
-          "titlebackround": "https://static.wikia.nocookie.net/rod/images/b/b4/Roa_keyart.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200609075246",
+          "titlebackground": "https://static.wikia.nocookie.net/rod/images/b/b4/Roa_keyart.jpg/revision/latest/thumbnail/width/360/height/360?cb=20200609075246",
           "type": 1
         },
         {
@@ -194,7 +188,7 @@
           "titlename": "Raskulls",
           "titleimage": "Raskulls",
           "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg",
-          "titlebackround": "https://ip.trueachievements.com/remote/www.trueachievements.com/customimages/106408.jpg?width=900",
+          "titlebackground": "https://ip.trueachievements.com/remote/www.trueachievements.com/customimages/106408.jpg?width=900",
           "type": 1
         },
         {
