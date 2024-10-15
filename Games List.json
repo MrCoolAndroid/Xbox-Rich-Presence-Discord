@@ -1491,7 +1491,7 @@
         {
           "titlename": "XDefiant",
           "titleimage": "XDefiant_Season2",
-          "titleicon": https://image.api.playstation.com/vulcan/ap/rnd/202409/2314/39efe76491a3e1a104080dffcd3d1e7ef46d7fc4265415d8.png",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202409/2314/39efe76491a3e1a104080dffcd3d1e7ef46d7fc4265415d8.png",
           "titlebackground": "https://images.squarespace-cdn.com/content/v1/56d5457d8259b57a20245e80/cb7bdb93-0c1a-40c8-9b8c-8808adf6c13f/XDEFIANT_S02_FACTION_KEYART.jpg",
           "type": 1
         },
