@@ -1307,6 +1307,20 @@
           "type": 2
         },
         {
+          "titlename": "Ubisoft Club",
+          "titleimage": "Ubisoft_Club",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png",
+          "titlebackground": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/ubisoft-connect-logo.jpg",
+          "type": 3
+        },
+        {
+          "titlename": "Ubisoft Connect",
+          "titleimage": "Ubisoft_Connect",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png",
+          "titlebackground": "https://static1.makeuseofimages.com/wordpress/wp-content/uploads/2021/04/ubisoft-connect-logo.jpg",
+          "type": 3
+        },
+        {
           "titlename": "Rocket League",
           "titleimage": "rocket_league",
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg",
