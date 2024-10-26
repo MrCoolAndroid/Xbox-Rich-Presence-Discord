@@ -269,6 +269,13 @@
           "type": 1
         },
         {
+          "titlename": "SONIC X SHADOW GENERATIONS",
+          "titleimage": "SONIC_X_SHADOW_GENERATIONS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/6eede4414a0260679581728a4d982714.png",
+          "type": 1
+        },
+        {
           "titlename": "ぷよぷよテトリス2",
           "titleimage": "Puyo_Puyo_Tetris_2_JP",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png",
