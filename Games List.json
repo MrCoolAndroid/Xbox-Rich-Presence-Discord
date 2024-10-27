@@ -269,13 +269,6 @@
           "type": 1
         },
         {
-          "titlename": "SONIC X SHADOW GENERATIONS",
-          "titleimage": "SONIC_X_SHADOW_GENERATIONS",
-          "titleicon": "https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png",
-          "titlebackground": "https://cdn2.steamgriddb.com/hero/6eede4414a0260679581728a4d982714.png",
-          "type": 1
-        },
-        {
           "titlename": "ぷよぷよテトリス2",
           "titleimage": "Puyo_Puyo_Tetris_2_JP",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png",
@@ -336,6 +329,27 @@
           "titleimage": "far_cry6",
           "titleicon": "https://d3ugyf2ht6aenh.cloudfront.net/stores/001/159/532/products/fat-cry-61-35be3b72ba3ad0f0e216233552770910-1024-1024.jpg",
           "titlebackground": "https://compass-ssl.xbox.com/assets/d5/2b/d52b9b34-fd1c-42af-95ec-e42438a9bdba.jpg?n=Far-Cry-6_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Far Cry 4",
+          "titleimage": "far_cry_4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/5ct6etxGg4mhwtSD5o8N94/9d64139154bb23ec5d8700638c4e9b9e/far-cry-4-heroBanner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Far Cry 3",
+          "titleimage": "far_cry_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/MnLnHV7TKYLvynbypV9Fu/03950e51dca0f7f6ad1ff738ddf48159/farcry3_cover_desktop_137015.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Severed Steel",
+          "titleimage": "Severed_Steel",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg",
+          "titlebackground": "https://images.gog-statics.com/3a118f17c94b812bccc04752009f836944ed60903a486af25966eeb55a4e91b9.jpg",
           "type": 1
         },
         {
@@ -544,11 +558,32 @@
           "type": 3
         },
         {
+          "titlename": "VLC UWP",
+          "titleimage": "VLC_UWP",
+          "titleicon": "https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxiJK_HEPrjdesdyeQIKBd8CoiFrgY4r.ZkWqv.BA5Ada9hOspX.JXdTZc317jZzDuPJwizLoQfyhPuJ4J9LdU9k-&format=source",
+          "titlebackground": "https://www.prajwaldesai.com/wp-content/uploads/2017/06/vlc_img.png",
+          "type": 3
+        },
+        {
           "titlename": "Microsoft Edge",
           "titleimage": "Microsoft_Edge",
           "titleicon": "https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft_Edge_logo_%282019%29.png",
           "titlebackground": "https://www.lifewire.com/thmb/NSE8G8rmX6Yxf3sxckcXhW7puVw=/1500x0/filters:no_upscale():max_bytes(150000):strip_icc()/001-what-is-microsoft-edge-4151828-b50ba4a178d54bb287c62419dd80c6d7.jpg",
           "type": 3
+        },
+        {
+          "titlename": "VALORANT",
+          "titleimage": "VALORANT",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/YHdtAs36hSJUL56Lq2nxFi-1200-80.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Genshin Impact",
+          "titleimage": "Genshin_Impact",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/1a458abb1c2b417a17546fc2561b5a6fdb4ca61a8fba1695.jpg",
+          "type": 1
         },
         {
           "titlename": "COD: Black Ops II",
@@ -597,6 +632,13 @@
           "titleimage": "Microsoft_Store",
           "titleicon": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png",
           "titlebackground": "https://images.idgesg.net/images/article/2020/06/microsoft-store-100850225-large.jpg",
+          "type": 3
+        },
+        {
+          "titlename": "PDP Control Hub",
+          "titleimage": "PDP_Control_Hub",
+          "titleicon": "https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.21661.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.4361a4a1-ec55-4b07-98f8-c9640954808d",
           "type": 3
         },
         {
@@ -684,10 +726,17 @@
           "type": 1
         },
         {
-          "titlename": "Fall Guys: Ultimate Knockout",
-          "titleimage": "fallguys",
+          "titlename": "Fall Guys",
+          "titleimage": "Fall_Guys",
           "titleicon": "https://cdn2.unrealengine.com/s10-logo-cropped-769x740-527f1dff6d3b.png?resize=1&w=920&quality=high[18:18]",
           "titlebackground": "https://sm.ign.com/ign_es/gallery/f/fall-guys-/fall-guys-season-1-free-for-all-update_qyh9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Stumble Guys",
+          "titleimage": "Stumble_Guys",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eae7e6b10447faa61ded3859297594d5.png",
+          "titlebackground": "https://live-assets.web.stumbleguys.com/cms/website_309b26b7bc.webp",
           "type": 1
         },
         {
@@ -698,10 +747,24 @@
           "type": 1
         },
         {
+          "titlename": "Battlefield Bad Company 2",
+          "titleimage": "btf_badcompany_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/535930dfb6b351001869d2cf9ee07833.jpg",
+          "titlebackground": "https://cdn.myportfolio.com/7fda6eec3ddc616d5a8da0e23728fb49/36930112461d4e89dc0d2d6a_rw_1920.jpg?h=09b0bb24852f6494e6fa12d00cd0dd1d",
+          "type": 1
+        },
+        {
           "titlename": "Skyrim",
           "titleimage": "skyrim",
           "titleicon": "https://img.wallscloud.net/converted/2563471846-the-elder-scrolls-v-skyrim-gQkr-1024x1024-MM-100.jpg",
           "titlebackground": "https://c.wallhere.com/photos/f9/be/1366x768_px_The_Elder_Scrolls_V_Skyrim_video_games-715618.jpg!d",
+          "type": 1
+        },
+        {
+          "titlename": "Conker: Live and Reloaded",
+          "titleimage": "Conker_Live_and_Reloaded",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png",
+          "titlebackground": "https://retroages.com/wp-content/uploads/2021/06/conker-live-reloaded.jpg",
           "type": 1
         },
         {
