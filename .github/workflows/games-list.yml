@@ -1,0 +1,21 @@
+name: Validate JSON
+
+on:
+  pull_request:
+    paths:
+      - 'Games List.json'
+
+jobs:
+  Validate:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v2
+
+      - name: Validate JSON
+        run: |
+          if ! jq empty 'Games List.json'; then
+            echo "JSON is not valid"
+            exit 1
+          fi
