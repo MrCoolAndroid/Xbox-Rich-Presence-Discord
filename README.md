@@ -152,7 +152,7 @@ If you're not seeing any image while playing your game or you need help with any
 | COD: Black Ops II | [Image link](http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg) | ✔ |
 | Call of Duty: Black Ops | [Image link](https://assets-prd.ignimgs.com/2021/12/30/call-of-duty-black-ops-1-button-1640898530662.jpg) | ✔ |
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110\_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
-| Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436\_1/re/1024x1024/qt/60/664436\_1.jpg) | ❌ |
+| Portal: Still Alive\* | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436\_1/re/1024x1024/qt/60/664436\_1.jpg) | ❌ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
 | Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
@@ -176,7 +176,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Skyrim | [Image link](https://freesvg.org/img/skyrim.png) | ✔ |
 | Conker: Live and Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png) | ✔ |
 | Forza Horizon | [Image link](https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1\_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024) | ✔ |
-| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
+| Forza Motorsport 3\* | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
 | Forza Motorsport 4 | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png) | ✔ |
 | Far Cry 5 | [Image link](https://image.api.playstation.com/cdn/UP0001/CUSA05904\_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png) | ✔ |
 | Netflix | [Image link](https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png) | ✔ |
@@ -232,15 +232,15 @@ If you're not seeing any image while playing your game or you need help with any
 | FIFA 23 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
 | Destiny 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg) | ❓ |
 | Call of Duty: Infinite Warfare | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA05282\_00/JhIXa8se54KKNhggEahiO0Oz78IITOGF.png) | ✔ |
-| DEAD OR ALIVE 1 Ultimate | [Image link](https://i.imgur.com/WA3VPTS.png) | ❌ |
-| DEAD OR ALIVE 2 Ultimate | [Image link](https://i.imgur.com/CJKFobH.png) | ❌ |
+| DEAD OR ALIVE 1 Ultimate\* | [Image link](https://i.imgur.com/WA3VPTS.png) | ❌ |
+| DEAD OR ALIVE 2 Ultimate\* | [Image link](https://i.imgur.com/CJKFobH.png) | ❌ |
 | Dead or Alive 3 | [Image link](https://assets-prd.ignimgs.com/2022/05/04/doa3-1651685752417.jpg) | ✔ |
 | DEAD OR ALIVE 4 | [Image link](https://assets-prd.ignimgs.com/2022/11/25/doa4-1669406347926.jpg) | ✔ |
 | DEAD OR ALIVE 5 Last Round: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA01627\_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png) | ✔ |
 | DEAD OR ALIVE 6: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA12152\_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png) | ✔ |
 | Left 4 Dead | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png) | ✔ |
 | Left 4 Dead 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5ec59bc90d6605a2c1c6af6d997ea344.png) | ✔ |
-| The Orange Box | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718\_1/re/1024x1024/qt/60/2525718\_1.jpg) | ❌ |
+| The Orange Box\* | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718\_1/re/1024x1024/qt/60/2525718\_1.jpg) | ❌ |
 | Saints Row | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/e22e151b3e1b1e5693bac710f9ad81b8.png) | ✔ |
 | Saints Row 2 | [Image link](https://assets-prd.ignimgs.com/2022/01/07/saints-row-2-button-1641597906385.jpg) | ✔ |
 | Saints Row: The Third | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png) | ✔ |
@@ -255,7 +255,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Catherine | [Image link](https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg) | ✔ |
 | Call of Duty: Modern Warfare Remastered | [Image link](https://image.api.playstation.com/cdn/UP0002/CUSA03522\_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png) | ✔ |
 | Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0\*H9w4geSiKvbM3GM2.png) | ✔ |
-| Killer Instinct | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ❌ |
+| Killer Instinct\* | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ❌ |
 | Rare Replay | [Image link](https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg) | ✔ |
 | SONIC UNLEASHED | [Image link](https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg) | ✔ |
 | Counter-Strike: GO | [Image link](https://assets-prd.ignimgs.com/2021/12/30/counter-strike-global-offensive-button-1640896165989.jpg) | ✔ |
@@ -327,4 +327,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 ❓: Icon is either low-res or not a square.
 
-❌: Icon is not working.
+❌: Icon is not working. 
+
+*: Icon may still work regardless of errors.
