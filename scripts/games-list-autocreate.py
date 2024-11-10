@@ -4,7 +4,7 @@ from io import BytesIO
 import sys
 
 fileToWrite = sys.argv[1]
-
+problemChildren = ['Portal: Still Alive', 'Forza Motorsport 3', 'DEAD OR ALIVE 1 Ultimate', 'DEAD OR ALIVE 2 Ultimate', 'The Orange Box', 'Killer Instinct']
 
 def findLowQualityIcons():
   missing_icons = []
