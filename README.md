@@ -48,6 +48,16 @@ Wanna contribute on adding games with pictures and backgrounds? Now you can! Jus
   - (2) For video apps, it will show "Watching (app)"
   - (3) For another kind of apps, it will show "Using (app)"
 
+## Games List.json Status
+
+
+### Symbols:
+✔: Icon is working.
+
+❓: Icon is either low-res or not a square.
+
+❌: Icon is not working.
+
 ## Contributors
 People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
