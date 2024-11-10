@@ -51,7 +51,10 @@ Wanna contribute on adding games with pictures and backgrounds? Now you can! Jus
 ## Contributors
 People that helped me creating the app!
 - Klaudex17 (Games pictures and design)
-People who contributed adding games!
+
+
+People who contributed adding games!:
+
 <a href="https://github.com/MrCoolAndroid/Xbox-Rich-Presence-Discord/graphs/contributors">
   <img src="https://contrib.rocks/image?repo=MrCoolAndroid/Xbox-Rich-Presence-Discord" />
 </a>
