@@ -2,8 +2,8 @@ name: Check Games List.json
 
 on:
   schedule:
-    - cron: '0 0 * * 0'  # Ejecuta a las 00:00 UTC cada domingo
-  workflow_dispatch:      # Permite ejecución manual si lo deseas
+    - cron: '0 0 * * 0'  
+  workflow_dispatch:
 
 jobs:
   check-links:
