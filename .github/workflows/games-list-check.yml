@@ -31,6 +31,7 @@ jobs:
         run: |
           sed -i '/## Games List.json Status/,/|.*|.*|.*|/d' README.md
           echo -e "## Games List.json Status\n\n$(cat link_status.md)" >> README.md
+          echo -e "\n### Symbols:\n✔: Icon is working.\n\n❓: Icon is either low-res or not a square.\n\n❌: Icon is not working." >> README.md
 
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
