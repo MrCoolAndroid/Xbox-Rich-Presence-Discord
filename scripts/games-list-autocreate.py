@@ -82,7 +82,7 @@ def findLowQualityIcons():
       game["titlename"] in low_quality_icons or
       game["titlename"] in non_square_icons      
     ) else "✔"
-    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')} | [Image link]({game['titleicon'].replace(' ', '%20').replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')}) | {status} |\n"
+    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#') if game['titlename'] not in problemChildren else game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#') + '\\*'} | [Image link]({game['titleicon'].replace(' ', '%20').replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')}) | {status} |\n"
   
   results=f"| Game Title | Link | Status |\n{games}"
   
