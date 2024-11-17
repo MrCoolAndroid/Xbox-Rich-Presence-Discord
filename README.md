@@ -149,7 +149,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Hulu | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hulu-1663828348772.jpg) | ✔ |
 | Spotify Xbox - Music and Podcasts | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/85/04/1f85048c-e420-06fb-ec42-a1048fd3506b/AppIcon-0-0-1x\_U007emarketing-0-6-0-0-85-220.png/1024x1024.jpg) | ✔ |
 | VLC UWP | [Image link](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H\_93laV1\_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxiJK\_HEPrjdesdyeQIKBd8CoiFrgY4r.ZkWqv.BA5Ada9hOspX.JXdTZc317jZzDuPJwizLoQfyhPuJ4J9LdU9k-&format=source) | ✔ |
-| Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft\_Edge\_logo\_%282019%29.png) | ✔ |
+| Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft\_Edge\_logo\_%282019%29.png) | ❌ |
 | VALORANT | [Image link](https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png) | ✔ |
 | Genshin Impact | [Image link](https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png) | ✔ |
 | COD: Black Ops II | [Image link](http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg) | ✔ |
