@@ -4,7 +4,7 @@ from io import BytesIO
 import sys
 
 fileToWrite = sys.argv[1]
-problemChildren = ['Portal: Still Alive', 'Forza Motorsport 3', 'DEAD OR ALIVE 1 Ultimate', 'DEAD OR ALIVE 2 Ultimate', 'The Orange Box', 'Killer Instinct']
+
 
 def findLowQualityIcons():
   missing_icons = []
@@ -30,7 +30,7 @@ def findLowQualityIcons():
       char_limit_icons.append(game["titlename"])
     if icon.startswith("http"):
       try:
-        response = requests.get(icon)
+        response = requests.get(icon, headers={"User-Agent": "Mozilla/5.0 (compatible; Discordbot/2.0; +https://discordapp.com)"})
       except requests.exceptions.ConnectTimeout:
         print(f"Timeout getting icon for game: {game['titlename']}")
         timeout_icons.append(game["titlename"])
@@ -60,7 +60,7 @@ def findLowQualityIcons():
       print(f"\nError opening image for game: {game['titlename']} with url: {icon}")
       other_errors.append(game["titlename"])
     width, height = image.size
-    if width < 512 and height < 512:
+    if width < 256 and height < 256:
       print(f"Low quality icon found for game: {game['titlename']}: {width}x{height}")
       low_quality_icons.append(game["titlename"])
     if width != height:
@@ -82,7 +82,7 @@ def findLowQualityIcons():
       game["titlename"] in low_quality_icons or
       game["titlename"] in non_square_icons      
     ) else "✔"
-    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#') if game['titlename'] not in problemChildren else game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#') + '\\*'} | [Image link]({game['titleicon'].replace(' ', '%20').replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')}) | {status} |\n"
+    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')} | [Image link]({game['titleicon'].replace(' ', '%20').replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')}) | {status} |\n"
   
   results=f"| Game Title | Link | Status |\n{games}"
   
