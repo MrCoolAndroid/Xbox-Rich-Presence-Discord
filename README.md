@@ -73,19 +73,19 @@ If you're not seeing any image while playing your game or you need help with any
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
 | Aliens vs Predator | [Image link](https://assets-prd.ignimgs.com/2022/01/20/aliens-vs-predator-2010-button-1642656901312.jpg) | ✔ |
-| Blazblue: Calamity Trigger | [Image link](https://cdn2.steamgriddb.com/thumb/b0302bb8590ad20a617b8d7ceb4caf9f.png) | ❓ |
-| Age Of Booty | [Image link](https://cdn2.steamgriddb.com/thumb/ebe6eaa8d941d230e93496709db638b9.jpg) | ❓ |
+| Blazblue: Calamity Trigger | [Image link](https://cdn2.steamgriddb.com/thumb/b0302bb8590ad20a617b8d7ceb4caf9f.png) | ✔ |
+| Age Of Booty | [Image link](https://cdn2.steamgriddb.com/thumb/ebe6eaa8d941d230e93496709db638b9.jpg) | ✔ |
 | Street Fighter X Tekken | [Image link](https://assets-prd.ignimgs.com/2022/01/07/street-fighter-x-tekken-button-1641591107711.jpg) | ✔ |
-| HALF-MINUTE HERO -Super Mega Neo Climax- | [Image link](https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg) | ❓ |
+| HALF-MINUTE HERO -Super Mega Neo Climax- | [Image link](https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg) | ✔ |
 | Marvel Ultimate Alliance 2 | [Image link](https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-ultimate-alliance-2/7/72/Marvel\_Ultimate\_Alliance\_2\_-\_BUTTON.jpg) | ✔ |
 | Marvel Ultimate Alliance | [Image link](https://assets2.ignimgs.com/2016/07/25/marvel-ultimate-alliance-1-buttonjpg-a2d4d0.jpg) | ✔ |
 | Crackdown | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg) | ✔ |
-| Project Gotham Racing 4 | [Image link](https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg) | ❓ |
+| Project Gotham Racing 4 | [Image link](https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg) | ✔ |
 | Black Myth: Wukong | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png) | ✔ |
 | Transformers Devastation | [Image link](https://cdn2.steamgriddb.com/grid/119f6e15c52017fe153a4350ba3413ce.jpg) | ✔ |
 | Eternal Sonata | [Image link](https://assets-prd.ignimgs.com/2022/03/07/eternalsonata-1646675939005.jpg) | ✔ |
 | Tom Clancy's Ghost Recon Future Soldier | [Image link](https://assets-prd.ignimgs.com/2022/01/04/tom-clancys-ghost-recon-future-soldier-button-1641281459594.jpg) | ✔ |
-| RezHD | [Image link](https://cdn2.steamgriddb.com/thumb/453166dfc023f0fbaca96f103a21ed26.jpg) | ❓ |
+| RezHD | [Image link](https://cdn2.steamgriddb.com/thumb/453166dfc023f0fbaca96f103a21ed26.jpg) | ✔ |
 | Harms Way | [Image link](https://assets-prd.ignimgs.com/2022/03/21/harmsway-1647904582252.jpg) | ✔ |
 | Persona 4 Arena Ultimax | [Image link](https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-ultimax-button-1642751292503.jpg) | ✔ |
 | Comic Jumper | [Image link](https://assets-prd.ignimgs.com/2022/03/21/comicjumper-1647878725513.jpg?width=1024&crop=1%3A1%2Csmart&auto=webp) | ✔ |
@@ -98,15 +98,15 @@ If you're not seeing any image while playing your game or you need help with any
 | Persona 4 Arena | [Image link](https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg) | ✔ |
 | Raskulls | [Image link](https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg) | ✔ |
 | Street Fighter III Third Strike: Online Edition | [Image link](https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg) | ✔ |
-| Assassin's Creed | [Image link](https://cdn2.steamgriddb.com/icon/ef56dd28c084d86aeb28f3b391e94548/32/256x256.png) | ❓ |
-| Assassin's Creed Brotherhood | [Image link](https://cdn2.steamgriddb.com/icon/56535b943d33605c7231405ac564d698/32/256x256.png) | ❓ |
-| Assassin's Creed II | [Image link](https://cdn2.steamgriddb.com/icon/b67fb3360ae5597d85a005153451dd4e/32/256x256.png) | ❓ |
-| Assassin's Creed Revelations | [Image link](https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f/32/256x256.png) | ❓ |
-| Assassin's Creed Rogue | [Image link](https://cdn2.steamgriddb.com/icon/77ec6f21c85b637cc42bb997841e11a6/32/256x256.png) | ❓ |
-| Assassin's Creed III | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/53b79303779db833f34a053df5a6c111.png) | ❓ |
+| Assassin's Creed | [Image link](https://cdn2.steamgriddb.com/icon/ef56dd28c084d86aeb28f3b391e94548/32/256x256.png) | ✔ |
+| Assassin's Creed Brotherhood | [Image link](https://cdn2.steamgriddb.com/icon/56535b943d33605c7231405ac564d698/32/256x256.png) | ✔ |
+| Assassin's Creed II | [Image link](https://cdn2.steamgriddb.com/icon/b67fb3360ae5597d85a005153451dd4e/32/256x256.png) | ✔ |
+| Assassin's Creed Revelations | [Image link](https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f/32/256x256.png) | ✔ |
+| Assassin's Creed Rogue | [Image link](https://cdn2.steamgriddb.com/icon/77ec6f21c85b637cc42bb997841e11a6/32/256x256.png) | ✔ |
+| Assassin's Creed III | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/53b79303779db833f34a053df5a6c111.png) | ✔ |
 | FINAL FANTASY XIII | [Image link](https://cdn2.steamgriddb.com/icon/9c509b71f28ed054340ab236be2f83bd/32/512x512.png) | ✔ |
 | Castlevania: SOTN | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png) | ✔ |
-| Sonic Generations | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/7d822b455dfe04415f0798e0d2105a13/32/256x256.png) | ❓ |
+| Sonic Generations | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/7d822b455dfe04415f0798e0d2105a13/32/256x256.png) | ✔ |
 | SONIC X SHADOW GENERATIONS | [Image link](https://cdn2.steamgriddb.com/grid/5cf3903f2f82b49fc603774ce43d6f57.png) | ✔ |
 | ぷよぷよテトリス2 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png) | ✔ |
 | Puyo Puyo Tetris 2 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202010/0718/AUtNlbgma7fjJwmet5jwwv6R.png) | ✔ |
@@ -116,7 +116,7 @@ If you're not seeing any image while playing your game or you need help with any
 | DayZ | [Image link](https://media.vandal.net/m/20846/dayz-201953013153533\_11.jpg) | ✔ |
 | eFootball PES 2021 Season Update | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202011/0201/DCT1LwEUb8fXfS2PZfkzXV59.png) | ✔ |
 | Halo: Reach | [Image link](http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266\_00.jpg) | ✔ |
-| FAR CRY6 | [Image link](https://cdn2.steamgriddb.com/icon/712775bacd00b61567ca8eeb605853c8/32/256x256.png) | ❓ |
+| FAR CRY6 | [Image link](https://cdn2.steamgriddb.com/icon/712775bacd00b61567ca8eeb605853c8/32/256x256.png) | ✔ |
 | Far Cry 4 | [Image link](https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg) | ✔ |
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
 | Severed Steel | [Image link](https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg) | ✔ |
@@ -131,7 +131,7 @@ If you're not seeing any image while playing your game or you need help with any
 | GTA V | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA00419\_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png) | ✔ |
 | GTA IV | [Image link](https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg) | ✔ |
 | Forza Horizon 5 | [Image link](https://cdn2.steamgriddb.com/icon/981ee11c08e460dc540242ee105b5ced/32/512x512.png) | ✔ |
-| Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ✔ |
+| Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Borderlands | [Image link](https://media.vandal.net/m/71969/borderlands-edicion-juego-del-ano-201943163663\_9.jpg) | ✔ |
 | Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ✔ |
 | Borderlands 2 | [Image link](https://s01.riotpixels.net/data/60/5c/605c09ad-01eb-4324-a2c9-82013d1f90c9.jpg/cover.borderlands-2.1024x1024.2014-04-24.24.jpg) | ✔ |
@@ -142,20 +142,20 @@ If you're not seeing any image while playing your game or you need help with any
 | Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ✔ |
 | YouTube | [Image link](https://upload.anarchyisland.gg/r/Youtube%20Icon.png?compress=false) | ✔ |
 | Max | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg) | ✔ |
-| Blu-ray Player | [Image link](https://seeklogo.com/images/B/Blu-ray\_Disc-logo-7617B9FC8E-seeklogo.com.png) | ❓ |
+| Blu-ray Player | [Image link](https://seeklogo.com/images/B/Blu-ray\_Disc-logo-7617B9FC8E-seeklogo.com.png) | ✔ |
 | Spectrum TV | [Image link](https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg) | ✔ |
 | Crunchyroll | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-crunchyroll-1663819467267.jpg) | ✔ |
 | Twitch | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/bd/0b/bcbd0b7f-393a-e861-1540-c69794ad981a/TwitchAppIcon-0-1x\_U007emarketing-0-7-0-0-85-220-0.png/1024x1024.jpg) | ✔ |
 | Hulu | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hulu-1663828348772.jpg) | ✔ |
 | Spotify Xbox - Music and Podcasts | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/85/04/1f85048c-e420-06fb-ec42-a1048fd3506b/AppIcon-0-0-1x\_U007emarketing-0-6-0-0-85-220.png/1024x1024.jpg) | ✔ |
 | VLC UWP | [Image link](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H\_93laV1\_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxiJK\_HEPrjdesdyeQIKBd8CoiFrgY4r.ZkWqv.BA5Ada9hOspX.JXdTZc317jZzDuPJwizLoQfyhPuJ4J9LdU9k-&format=source) | ✔ |
-| Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/7/7e/Microsoft\_Edge\_logo\_%282019%29.png) | ❌ |
+| Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft\_Edge\_logo\_%282019%29.svg) | ❌ |
 | VALORANT | [Image link](https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png) | ✔ |
 | Genshin Impact | [Image link](https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png) | ✔ |
 | COD: Black Ops II | [Image link](http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg) | ✔ |
 | Call of Duty: Black Ops | [Image link](https://assets-prd.ignimgs.com/2021/12/30/call-of-duty-black-ops-1-button-1640898530662.jpg) | ✔ |
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110\_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
-| Portal: Still Alive\* | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436\_1/re/1024x1024/qt/60/664436\_1.jpg) | ❌ |
+| Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436\_1/re/1024x1024/qt/60/664436\_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
 | Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
@@ -163,7 +163,7 @@ If you're not seeing any image while playing your game or you need help with any
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5\_keyart\_vert\_final/240\_240.jpg) | ❓ |
 | PUBG: BATTLEGROUNDS | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png) | ✔ |
-| Dying Light | [Image link](https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png) | ❓ |
+| Dying Light | [Image link](https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png) | ✔ |
 | Minecraft: Xbox 360 Edition | [Image link](https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2\_hq.jpg) | ✔ |
 | Marvel's Guardians of the Galaxy | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png) | ✔ |
 | Assassin's Creed Valhalla | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png) | ✔ |
@@ -174,12 +174,12 @@ If you're not seeing any image while playing your game or you need help with any
 | FIFA 22 [XB1] | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png) | ✔ |
 | Fall Guys | [Image link](https://cdn2.unrealengine.com/s10-logo-cropped-769x740-527f1dff6d3b.png?resize=1&w=920&quality=high[18:18]) | ❓ |
 | Stumble Guys | [Image link](https://cdn2.steamgriddb.com/grid/eae7e6b10447faa61ded3859297594d5.png) | ✔ |
-| Battlefield: Bad Company | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg) | ❓ |
+| Battlefield: Bad Company | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg) | ✔ |
 | Battlefield Bad Company 2 | [Image link](https://cdn2.steamgriddb.com/grid/535930dfb6b351001869d2cf9ee07833.jpg) | ✔ |
 | Skyrim | [Image link](https://freesvg.org/img/skyrim.png) | ✔ |
 | Conker: Live and Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png) | ✔ |
 | Forza Horizon | [Image link](https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1\_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024) | ✔ |
-| Forza Motorsport 3\* | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
+| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
 | Forza Motorsport 4 | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png) | ✔ |
 | Far Cry 5 | [Image link](https://image.api.playstation.com/cdn/UP0001/CUSA05904\_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png) | ✔ |
 | Netflix | [Image link](https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png) | ✔ |
@@ -222,28 +222,28 @@ If you're not seeing any image while playing your game or you need help with any
 | Hydro Thunder | [Image link](https://www.mobygames.com/images/covers/l/303536-hydro-thunder-hurricane-xbox-360-front-cover.png) | ❓ |
 | NINJA GAIDEN 2 | [Image link](https://i.ibb.co/n7ZYM5H/NG2.png) | ✔ |
 | Call of Duty: Modern Warfare II | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/W5uSEsW7yefCNTHatS03v5q7.png) | ✔ |
-| ZOE HD | [Image link](https://cdn2.steamgriddb.com/icon/8d297a658bd8918ca2428789005950df/32/256x256.png) | ❓ |
+| ZOE HD | [Image link](https://cdn2.steamgriddb.com/icon/8d297a658bd8918ca2428789005950df/32/256x256.png) | ✔ |
 | Lost Odyssey | [Image link](https://assets-prd.ignimgs.com/2022/01/07/lost-odyssey-button-crop-1641596251636.jpg) | ✔ |
 | Blue Dragon | [Image link](https://cdn2.steamgriddb.com/icon/96ecbfadac55a39b8909822f91399f00/32/64x64.png) | ❓ |
 | Hi-Fi RUSH | [Image link](https://sm.ign.com/ign\_latam/cover/h/hi-fi-rush/hi-fi-rush\_43et.jpg) | ✔ |
-| Persona 3 Portable | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/f2e84d98d6dc0c7acd56b40509355666/32/256x256.png) | ❓ |
+| Persona 3 Portable | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/f2e84d98d6dc0c7acd56b40509355666/32/256x256.png) | ✔ |
 | Persona 4 Golden | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon\_thumb/ecb565cd82de68494c294dc8d4b419a0.png) | ✔ |
-| Mortal Shell: Enhanced Edition | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/17b65afe58c49edc1bdd812c554ee3bb/32/256x256.png) | ❓ |
-| Monster Hunter Rise | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png) | ❓ |
+| Mortal Shell: Enhanced Edition | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/17b65afe58c49edc1bdd812c554ee3bb/32/256x256.png) | ✔ |
+| Monster Hunter Rise | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png) | ✔ |
 | Doom Eternal | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202010/0114/ERNPc4gFqeRDG1tYQIfOKQtM.png) | ✔ |
 | Atomic Hearth | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202209/2815/SSru3b0CYWviMXfW6bYgaWlX.png) | ✔ |
 | FIFA 23 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
-| Destiny 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg) | ❓ |
+| Destiny 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/dbd70841dd7997b1af1fa9ac1f4cf969.jpg) | ✔ |
 | Call of Duty: Infinite Warfare | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA05282\_00/JhIXa8se54KKNhggEahiO0Oz78IITOGF.png) | ✔ |
-| DEAD OR ALIVE 1 Ultimate\* | [Image link](https://i.imgur.com/WA3VPTS.png) | ❌ |
-| DEAD OR ALIVE 2 Ultimate\* | [Image link](https://i.imgur.com/CJKFobH.png) | ❌ |
+| DEAD OR ALIVE 1 Ultimate | [Image link](https://i.imgur.com/WA3VPTS.png) | ✔ |
+| DEAD OR ALIVE 2 Ultimate | [Image link](https://i.imgur.com/CJKFobH.png) | ✔ |
 | Dead or Alive 3 | [Image link](https://assets-prd.ignimgs.com/2022/05/04/doa3-1651685752417.jpg) | ✔ |
 | DEAD OR ALIVE 4 | [Image link](https://assets-prd.ignimgs.com/2022/11/25/doa4-1669406347926.jpg) | ✔ |
 | DEAD OR ALIVE 5 Last Round: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA01627\_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png) | ✔ |
 | DEAD OR ALIVE 6: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA12152\_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png) | ✔ |
 | Left 4 Dead | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png) | ✔ |
 | Left 4 Dead 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5ec59bc90d6605a2c1c6af6d997ea344.png) | ✔ |
-| The Orange Box\* | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718\_1/re/1024x1024/qt/60/2525718\_1.jpg) | ❌ |
+| The Orange Box | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718\_1/re/1024x1024/qt/60/2525718\_1.jpg) | ✔ |
 | Saints Row | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/e22e151b3e1b1e5693bac710f9ad81b8.png) | ✔ |
 | Saints Row 2 | [Image link](https://assets-prd.ignimgs.com/2022/01/07/saints-row-2-button-1641597906385.jpg) | ✔ |
 | Saints Row: The Third | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png) | ✔ |
@@ -257,8 +257,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Street Fighter 6 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png) | ✔ |
 | Catherine | [Image link](https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg) | ✔ |
 | Call of Duty: Modern Warfare Remastered | [Image link](https://image.api.playstation.com/cdn/UP0002/CUSA03522\_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png) | ✔ |
-| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0\*H9w4geSiKvbM3GM2.png) | ✔ |
-| Killer Instinct\* | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ❌ |
+| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0\*H9w4geSiKvbM3GM2.png) | ❌ |
+| Killer Instinct | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ✔ |
 | Rare Replay | [Image link](https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg) | ✔ |
 | SONIC UNLEASHED | [Image link](https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg) | ✔ |
 | Counter-Strike: GO | [Image link](https://assets-prd.ignimgs.com/2021/12/30/counter-strike-global-offensive-button-1640896165989.jpg) | ✔ |
@@ -319,7 +319,7 @@ If you're not seeing any image while playing your game or you need help with any
 | eFootball 2024 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202311/0206/64c52a51a6c017c6d8600d1cc5e52d6780dedc905b1ee5ab.png) | ✔ |
 | WATCH\_DOGS | [Image link](https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg) | ✔ |
 | War Thunder | [Image link](https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false) | ✔ |
-| Persona 3 Reload | [Image link](https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png) | ❓ |
+| Persona 3 Reload | [Image link](https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png) | ✔ |
 | Train Sim World 4 | [Image link](https://upload.anarchyisland.gg/r/TSW4%20Icon.jpg?compress=false) | ✔ |
 | Dead Island 2 | [Image link](https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false) | ✔ |
 | Palworld (Game Preview) | [Image link](https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false) | ✔ |
@@ -330,6 +330,4 @@ If you're not seeing any image while playing your game or you need help with any
 
 ❓: Icon is either low-res or not a square.
 
-❌: Icon is not working. 
-
-*: Icon may still work regardless of errors.
+❌: Icon is not working.
