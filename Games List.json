@@ -305,7 +305,7 @@
         },
         {
           "titlename": "Minecraft",
-          "titleimage": "minecraft",
+          "titleimage": "minecraft_bedrock",
           "titleicon": "https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png",
           "titlebackground": "https://i.blogs.es/0eb073/minecraft-generacionxbox-1/1366_2000.jpeg",
           "type": 1
@@ -667,6 +667,62 @@
           "titleimage": "pubg",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png",
           "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1",
+          "type": 1
+        },
+        {
+          "titlename": "Mass Effect",
+          "titleimage": "Mass_Effect_1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d5c237592a187a55a62436db1e1b1e61.png",
+          "titlebackground": "https://static1.srcdn.com/wordpress/wp-content/uploads/2021/08/Mass-Effect-1-Companion-Crewmate-Age-Liara-Wrex-Old.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Mass Effect 2",
+          "titleimage": "Mass_Effect_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/08c795b843a9fdcadb684139ad586622.jpg",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/5WnJSkxWLscNNVrYDdvFxA-1200-80.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Mass Effect 3",
+          "titleimage": "Mass_Effect_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0d6d2c18339affad5ff919de35734236.png",
+          "titlebackground": "https://oyster.ignimgs.com/mediawiki/apis.ign.com/mass-effect-3/4/48/Citadel3.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Mass Effect: Andromeda",
+          "titleimage": "Mass_Effect_Andromeda",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5b2d40deb3f6e982cd1f5d53790ea7ec.jpg",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/3UCqmEsqu9BM2SL93BkueW.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Mass Effect Legendary Edition",
+          "titleimage": "Mass_Effect_Legendary_Edition",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2ace71f2144ce59faec739e08603d4d3.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.32577.14254372351363255.ac3906d1-13b6-4af0-a00a-e10c8a92007b.f74e6e13-69bd-49f0-a873-2f8346a30ead",
+          "type": 1
+        },
+        {
+          "titlename": "LIMBO",
+          "titleimage": "LIMBO",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/91ae50d539e53a0c72eccd6ec1a55b66.jpg",
+          "titlebackground": "https://wizarddojo.com/wp-content/uploads/2015/12/limbo.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "INSIDE",
+          "titleimage": "INSIDE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg",
+          "titlebackground": "data:image/jpeg;base64,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",
+          "type": 1
+        },
+        {
+          "titlename": "Firewatch",
+          "titleimage": "Firewatch",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg",
+          "titlebackground": "https://assets1.ignimgs.com/2016/02/05/firewatch0122161600jpg-0d7b87.jpg",
           "type": 1
         },
         {
@@ -1389,6 +1445,27 @@
           "titleicon": "https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk_Koi",
           "titlebackground": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
           "type": 2
+        },
+        {
+          "titlename": "Amazon Instant Video",
+          "titleimage": "Amazon_Instant_Video",
+          "titleicon": "https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk_Koi",
+          "titlebackground": "https://m.media-amazon.com/images/G/01/primevideo/seo/primevideo-seo-logo.png",
+          "type": 2
+        },
+        {
+          "titlename": "Xbox Avatar Editor",
+          "titleimage": "XB1_Avatar_Editor",
+          "titleicon": "https://store-images.s-microsoft.com/image/apps.16141.13510798887611042.610ae026-cc3d-4b4e-9044-1b8721988d93.c281cd26-66dc-4ed3-a811-c0fe1217ed11",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.20040.13510798887611042.610ae026-cc3d-4b4e-9044-1b8721988d93.9413a2ab-0b32-4ebb-a531-4f86bd7bdd4a",
+          "type": 3
+        },
+        {
+          "titlename": "Xbox Original Avatars",
+          "titleimage": "360_Avatar_Editor",
+          "titleicon": "https://static.wikia.nocookie.net/xbox/images/e/e4/Xbox_Original_Avatars_App_Icon.png/revision/latest?cb=20220603100736",
+          "titlebackground": "https://wink.messengergeek.com/uploads/default/optimized/3X/7/6/76706790793b149c1955055b2979ad7565620568_2_1024x629.jpeg",
+          "type": 3
         },
         {
           "titlename": "Ubisoft Club",
