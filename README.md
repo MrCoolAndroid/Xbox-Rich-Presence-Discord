@@ -163,6 +163,14 @@ If you're not seeing any image while playing your game or you need help with any
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5\_keyart\_vert\_final/240\_240.jpg) | ❓ |
 | PUBG: BATTLEGROUNDS | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png) | ✔ |
+| Mass Effect | [Image link](https://cdn2.steamgriddb.com/grid/d5c237592a187a55a62436db1e1b1e61.png) | ✔ |
+| Mass Effect 2 | [Image link](https://cdn2.steamgriddb.com/grid/08c795b843a9fdcadb684139ad586622.jpg) | ✔ |
+| Mass Effect 3 | [Image link](https://cdn2.steamgriddb.com/grid/0d6d2c18339affad5ff919de35734236.png) | ✔ |
+| Mass Effect: Andromeda | [Image link](https://cdn2.steamgriddb.com/grid/5b2d40deb3f6e982cd1f5d53790ea7ec.jpg) | ✔ |
+| Mass Effect Legendary Edition | [Image link](https://cdn2.steamgriddb.com/grid/2ace71f2144ce59faec739e08603d4d3.jpg) | ✔ |
+| LIMBO | [Image link](https://cdn2.steamgriddb.com/grid/91ae50d539e53a0c72eccd6ec1a55b66.jpg) | ✔ |
+| INSIDE | [Image link](https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg) | ✔ |
+| Firewatch | [Image link](https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg) | ✔ |
 | Dying Light | [Image link](https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png) | ✔ |
 | Minecraft: Xbox 360 Edition | [Image link](https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2\_hq.jpg) | ✔ |
 | Marvel's Guardians of the Galaxy | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png) | ✔ |
@@ -179,7 +187,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Skyrim | [Image link](https://freesvg.org/img/skyrim.png) | ✔ |
 | Conker: Live and Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png) | ✔ |
 | Forza Horizon | [Image link](https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1\_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024) | ✔ |
-| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
+| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ✔ |
 | Forza Motorsport 4 | [Image link](https://cdn2.steamgriddb.com/icon\_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png) | ✔ |
 | Far Cry 5 | [Image link](https://image.api.playstation.com/cdn/UP0001/CUSA05904\_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png) | ✔ |
 | Netflix | [Image link](https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png) | ✔ |
@@ -257,7 +265,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Street Fighter 6 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png) | ✔ |
 | Catherine | [Image link](https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg) | ✔ |
 | Call of Duty: Modern Warfare Remastered | [Image link](https://image.api.playstation.com/cdn/UP0002/CUSA03522\_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png) | ✔ |
-| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0\*H9w4geSiKvbM3GM2.png) | ❌ |
+| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0\*H9w4geSiKvbM3GM2.png) | ✔ |
 | Killer Instinct | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ✔ |
 | Rare Replay | [Image link](https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg) | ✔ |
 | SONIC UNLEASHED | [Image link](https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg) | ✔ |
@@ -266,6 +274,9 @@ If you're not seeing any image while playing your game or you need help with any
 | LOLLIPOP CHAINSAW | [Image link](https://assets-prd.ignimgs.com/2022/04/22/lollipopchainsaw-1650671944003.jpg) | ✔ |
 | Disney+ | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-disney-plus-1663831239344.jpg) | ✔ |
 | Prime Video | [Image link](https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk\_Koi) | ✔ |
+| Amazon Instant Video | [Image link](https://play-lh.googleusercontent.com/VojafVZNddI6JvdDGWFrRmxc-prrcInL2AuBymsqGoeXjT4f9sv7KnetB-v3iLxk\_Koi) | ✔ |
+| Xbox Avatar Editor | [Image link](https://store-images.s-microsoft.com/image/apps.16141.13510798887611042.610ae026-cc3d-4b4e-9044-1b8721988d93.c281cd26-66dc-4ed3-a811-c0fe1217ed11) | ✔ |
+| Xbox Original Avatars | [Image link](https://static.wikia.nocookie.net/xbox/images/e/e4/Xbox\_Original\_Avatars\_App\_Icon.png/revision/latest?cb=20220603100736) | ✔ |
 | Ubisoft Club | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Ubisoft Connect | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Rocket League | [Image link](https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket\_League\_coverart.jpg) | ✔ |
