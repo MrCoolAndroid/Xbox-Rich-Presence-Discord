@@ -67,7 +67,7 @@ def findLowQualityIcons():
       print(f"non-square icon found for game: {game['titlename']}: {width}x{height}")
       non_square_icons.append(game["titlename"])
 
-  games = "| --- | --- | --- |\n"
+  games = ""
   for game in games_list["Games List"][0]["Games"]:
     if game["titlename"] in ["UpdateCheck", "BroadcastObj"]:
       continue
@@ -82,9 +82,20 @@ def findLowQualityIcons():
       game["titlename"] in low_quality_icons or
       game["titlename"] in non_square_icons      
     ) else "✔"
-    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')} | [Image link]({game['titleicon'].replace(' ', '%20').replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')}) | {status} |\n"
+    games = games + f"| {game['titlename'].replace('\\', '\\\\').replace('|', '\\|').replace('*', '\\*').replace('_', '\\_').replace('~', '\\~').replace('`', '\\`').replace('#', '\\#')} | [Image link]({game['titleicon'].replace(' ', '%20')}) | {status} |\n"
   
-  results=f"| Game Title | Link | Status |\n{games}"
+  def key(line):
+    if '❌' in line:
+      return 0
+    elif '❓' in line:
+      return 1
+    else:
+      return 2
+  
+  sorted_lines = "\n".join(sorted(games.split("\n"), key=key))
+
+
+  results=f"| Game Title | Link | Status |\n| --- | --- | --- |\n{sorted_lines}"
   
   with open(fileToWrite, "w", encoding="utf-8", newline="\n") as file:
     file.write(results)
