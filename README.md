@@ -71,7 +71,6 @@ If you're not seeing any image while playing your game or you need help with any
 | --- | --- | --- |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
-| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0*H9w4geSiKvbM3GM2.png) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -268,6 +267,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Street Fighter 6 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png) | ✔ |
 | Catherine | [Image link](https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg) | ✔ |
 | Call of Duty: Modern Warfare Remastered | [Image link](https://image.api.playstation.com/cdn/UP0002/CUSA03522_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png) | ✔ |
+| Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0*H9w4geSiKvbM3GM2.png) | ✔ |
 | Killer Instinct | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ✔ |
 | Rare Replay | [Image link](https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg) | ✔ |
 | SONIC UNLEASHED | [Image link](https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg) | ✔ |
