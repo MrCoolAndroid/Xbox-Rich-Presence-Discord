@@ -369,8 +369,8 @@
         {
           "titlename": "Fortnite",
           "titleimage": "fortnite",
-          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202311/2801/803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.png",
-          "titlebackground": "https://cdn2.unrealengine.com/keyart-overscan-nologo-2-2276x1280-aa06338f9aae.jpg",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202411/2922/2188596d0a2a86542ffb0939c8080f5efbbc6f5b2249e534.png",
+          "titlebackground": "https://cdn2.unrealengine.com/fortnite-chapter-6-season-1-hunters-battle-pass-1920x1080-5e441efeb2f2.jpg",
           "type": 1
         },
         {
@@ -1843,6 +1843,20 @@
           "titleimage": "p3reload",
           "titleicon": "https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png",
           "titlebackground": "https://gaming-cdn.com/images/products/14279/orig/persona-3-reload-pc-game-steam-europe-cover.jpg?v=1706779618",
+          "type": 1
+        },
+        {
+          "titlename": "Metaphor: ReFantazio",
+          "titleimage": "Metaphor_ReFantazio",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/48c69b6699d6ab73c14cbfb3b695d427.png",
+          "titlebackground": "https://www.godisageek.com/wp-content/uploads/Metaphor-ReFantazio-6.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Shin Megami Tensei V: Vengeance",
+          "titleimage": "SMTV_V",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e31fe8378af2be87b38a723ab3555988.png",
+          "titlebackground": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000064607/c57507f97fd6ab3371cab8bbb36bb88f4359e9ef75b93e70404db2e4825bb2a4",
           "type": 1
         },
         {
