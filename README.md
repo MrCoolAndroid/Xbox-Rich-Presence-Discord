@@ -134,7 +134,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
 | Severed Steel | [Image link](https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg) | ✔ |
 | Call of Duty: Modern Warfare | [Image link](https://sm.ign.com/t/ign_latam/cover/c/call-of-du/call-of-duty-modern-warfare_6sub.1024.jpg) | ✔ |
-| Fortnite | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202311/2801/803e41fee0edf8f8ed1de518e6eac60ddf30ac485b9a16a2.png) | ✔ |
+| Fortnite | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202411/2922/2188596d0a2a86542ffb0939c8080f5efbbc6f5b2249e534.png) | ✔ |
 | Call of Duty: Black Ops Cold War | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
 | Battlefield Hardline | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png) | ✔ |
 | Halo: The Master Chief Collection | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/29b378b88c3798599f78f774efa6c521.jpg) | ✔ |
@@ -331,6 +331,8 @@ If you're not seeing any image while playing your game or you need help with any
 | WATCH\_DOGS | [Image link](https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg) | ✔ |
 | War Thunder | [Image link](https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false) | ✔ |
 | Persona 3 Reload | [Image link](https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png) | ✔ |
+| Metaphor: ReFantazio | [Image link](https://cdn2.steamgriddb.com/grid/48c69b6699d6ab73c14cbfb3b695d427.png) | ✔ |
+| Shin Megami Tensei V: Vengeance | [Image link](https://cdn2.steamgriddb.com/grid/e31fe8378af2be87b38a723ab3555988.png) | ✔ |
 | Train Sim World 4 | [Image link](https://upload.anarchyisland.gg/r/TSW4%20Icon.jpg?compress=false) | ✔ |
 | Dead Island 2 | [Image link](https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false) | ✔ |
 | Palworld (Game Preview) | [Image link](https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false) | ✔ |
