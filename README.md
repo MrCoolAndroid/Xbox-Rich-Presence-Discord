@@ -71,6 +71,8 @@ If you're not seeing any image while playing your game or you need help with any
 | --- | --- | --- |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
+| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
+| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -211,7 +213,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://assets-prd.ignimgs.com/2022/09/24/codforcerecon-1664045338431.jpg) | ✔ |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
@@ -283,7 +284,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Ubisoft Connect | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Rocket League | [Image link](https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg) | ✔ |
 | Minecraft Dungeons | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a9f2861cf82efebf18f83d9ce721a576.png) | ✔ |
-| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ✔ |
 | Tetris Effect: Connected | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png) | ✔ |
 | Stardew Valley | [Image link](https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png) | ✔ |
 | Rust | [Image link](https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false) | ✔ |
