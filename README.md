@@ -71,8 +71,7 @@ If you're not seeing any image while playing your game or you need help with any
 | --- | --- | --- |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
-| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ❌ |
+| XDefiant | [Image link](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/471171957_611813691190150_7597065328386025585_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VUlFfAHQTOgQ7kNvgHdD2y0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=AtDia5LMXPMxoEUtOHC1Ijt&oh=00_AYCCN3ZwFKqVAf8MjTBEZ8NFNnzFPURfCS1TwkOlankuuA&oe=676C009D) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -95,6 +94,7 @@ If you're not seeing any image while playing your game or you need help with any
 | HALF-MINUTE HERO -Super Mega Neo Climax- | [Image link](https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg) | ✔ |
 | Marvel Ultimate Alliance 2 | [Image link](https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-ultimate-alliance-2/7/72/Marvel_Ultimate_Alliance_2_-_BUTTON.jpg) | ✔ |
 | Marvel Ultimate Alliance | [Image link](https://assets2.ignimgs.com/2016/07/25/marvel-ultimate-alliance-1-buttonjpg-a2d4d0.jpg) | ✔ |
+| Marvel Rivals | [Image link](https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg) | ✔ |
 | Crackdown | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg) | ✔ |
 | Project Gotham Racing 4 | [Image link](https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg) | ✔ |
 | Black Myth: Wukong | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png) | ✔ |
@@ -213,6 +213,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://assets-prd.ignimgs.com/2022/09/24/codforcerecon-1664045338431.jpg) | ✔ |
+| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
@@ -284,6 +285,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Ubisoft Connect | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Rocket League | [Image link](https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg) | ✔ |
 | Minecraft Dungeons | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a9f2861cf82efebf18f83d9ce721a576.png) | ✔ |
+| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ✔ |
 | Tetris Effect: Connected | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png) | ✔ |
 | Stardew Valley | [Image link](https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png) | ✔ |
 | Rust | [Image link](https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false) | ✔ |
@@ -305,7 +307,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: Modern Warfare III | [Image link](https://cdn2.steamgriddb.com/grid/f4d00a10a3b2a52d7ea6610567f1f1b8.png) | ✔ |
 | Call of Duty | [Image link](https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png) | ✔ |
 | EA SPORTS FIFA 23 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
-| XDefiant | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202409/2314/39efe76491a3e1a104080dffcd3d1e7ef46d7fc4265415d8.png) | ✔ |
 | Pure | [Image link](http://store-images.s-microsoft.com/image/apps.56982.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.0d650d85-7dd6-4f17-8b23-3a68b57ecce3) | ✔ |
 | Saints Row: The Third | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png) | ✔ |
 | Battlefield 3 | [Image link](https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg) | ✔ |
