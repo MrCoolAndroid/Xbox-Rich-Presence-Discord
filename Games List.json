@@ -1893,6 +1893,20 @@
           "titleicon": "https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202203/1520/GxoUQHbrinQCjkNmBqwgr7Ij.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Sonic Adventure",
+          "titleimage": "Sonic_Adventure_1",
+          "titleicon": "https://cdn2.steamgriddb.com/thumb/b1e8b65a8309ebb007855ebae88284d4.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/2eb5657d37f474e4c4cf01e4882b8962.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Sonic Adventure 2",
+          "titleimage": "Sonic_Adventure_2",
+          "titleicon": "https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/5aa3405a3f865c10f420a4a7b55cbff3.jpg",
+          "type": 1
         }
       ]
     }
