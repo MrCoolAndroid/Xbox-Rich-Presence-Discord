@@ -71,13 +71,10 @@ If you're not seeing any image while playing your game or you need help with any
 | --- | --- | --- |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
-| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ❌ |
-| XDefiant | [Image link](https://scontent-dfw5-2.xx.fbcdn.net/v/t39.30808-6/471171957_611813691190150_7597065328386025585_n.jpg?_nc_cat=108&ccb=1-7&_nc_sid=6ee11a&_nc_ohc=VUlFfAHQTOgQ7kNvgHdD2y0&_nc_zt=23&_nc_ht=scontent-dfw5-2.xx&_nc_gid=AtDia5LMXPMxoEUtOHC1Ijt&oh=00_AYCCN3ZwFKqVAf8MjTBEZ8NFNnzFPURfCS1TwkOlankuuA&oe=676C009D) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
 | Call Of Duty: Modern Warfare 2 | [Image link](https://ellocodesebas.files.wordpress.com/2010/07/cod-mw2.jpg) | ❓ |
-| Fall Guys | [Image link](https://cdn2.unrealengine.com/s10-logo-cropped-769x740-527f1dff6d3b.png?resize=1&w=920&quality=high[18:18]) | ❓ |
 | Gears of War 3 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears3.png) | ❓ |
 | Gears 5 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears5.png) | ❓ |
 | Kinect Sports: Season Two | [Image link](https://m.media-amazon.com/images/I/71ZleHj2UKL.jpg) | ❓ |
@@ -137,7 +134,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
 | Severed Steel | [Image link](https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg) | ✔ |
 | Call of Duty: Modern Warfare | [Image link](https://sm.ign.com/t/ign_latam/cover/c/call-of-du/call-of-duty-modern-warfare_6sub.1024.jpg) | ✔ |
-| Fortnite | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202411/2922/2188596d0a2a86542ffb0939c8080f5efbbc6f5b2249e534.png) | ✔ |
+| Fortnite | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202412/2017/2bb1f425090006f8c5c3c3cab094809ccce8fa6f2531a8d6.png) | ✔ |
 | Call of Duty: Black Ops Cold War | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
 | Battlefield Hardline | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png) | ✔ |
 | Halo: The Master Chief Collection | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/29b378b88c3798599f78f774efa6c521.jpg) | ✔ |
@@ -191,6 +188,7 @@ If you're not seeing any image while playing your game or you need help with any
 | World War Z | [Image link](https://image.api.playstation.com/cdn/EP2609/CUSA13930_00/J9XHymEJeB00qNdIsGHO4PgizJJ7Gabi8VsmlJSYaUT3srBYDyH88Hulr7NkX4Vt.png?w=1024&thumb=false) | ✔ |
 | Hellblade: Senua's Sacrifice | [Image link](https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg) | ✔ |
 | FIFA 22 [XB1] | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png) | ✔ |
+| Fall Guys | [Image link](https://cdn2.steamgriddb.com/grid/1d6c749ed54c336af7ffc21659122d6a.png) | ✔ |
 | Stumble Guys | [Image link](https://cdn2.steamgriddb.com/grid/eae7e6b10447faa61ded3859297594d5.png) | ✔ |
 | Battlefield: Bad Company | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg) | ✔ |
 | Battlefield Bad Company 2 | [Image link](https://cdn2.steamgriddb.com/grid/535930dfb6b351001869d2cf9ee07833.jpg) | ✔ |
@@ -286,6 +284,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Ubisoft Connect | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Rocket League | [Image link](https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg) | ✔ |
 | Minecraft Dungeons | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a9f2861cf82efebf18f83d9ce721a576.png) | ✔ |
+| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ✔ |
 | Tetris Effect: Connected | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png) | ✔ |
 | Stardew Valley | [Image link](https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png) | ✔ |
 | Rust | [Image link](https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false) | ✔ |
@@ -307,6 +306,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: Modern Warfare III | [Image link](https://cdn2.steamgriddb.com/grid/f4d00a10a3b2a52d7ea6610567f1f1b8.png) | ✔ |
 | Call of Duty | [Image link](https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png) | ✔ |
 | EA SPORTS FIFA 23 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
+| XDefiant | [Image link](https://cdn2.steamgriddb.com/grid/e4747bdca65a1d649eaa39d52ed201ba.png) | ✔ |
 | Pure | [Image link](http://store-images.s-microsoft.com/image/apps.56982.71138214337886029.cf245fbf-37ba-4659-949b-e9f708980113.0d650d85-7dd6-4f17-8b23-3a68b57ecce3) | ✔ |
 | Saints Row: The Third | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/3ff73960b627328f420342541cf4fa68.png) | ✔ |
 | Battlefield 3 | [Image link](https://assets-prd.ignimgs.com/2021/12/21/battlefield-3-button-fin-1640126554216.jpg) | ✔ |
@@ -338,6 +338,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Dead Island 2 | [Image link](https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false) | ✔ |
 | Palworld (Game Preview) | [Image link](https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false) | ✔ |
 | Dead by Daylight | [Image link](https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false) | ✔ |
+| Sonic Adventure | [Image link](https://cdn2.steamgriddb.com/thumb/b1e8b65a8309ebb007855ebae88284d4.jpg) | ✔ |
+| Sonic Adventure 2 | [Image link](https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
