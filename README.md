@@ -69,8 +69,11 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Minecraft | [Image link](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png) | ❌ |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
+| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ❌ |
+| NINJA GAIDEN 2 | [Image link](https://i.ibb.co/n7ZYM5H/NG2.png) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -125,7 +128,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Puyo Puyo Tetris 2 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202010/0718/AUtNlbgma7fjJwmet5jwwv6R.png) | ✔ |
 | ぷよぷよテトリス | [Image link](https://image.api.playstation.com/cdn/JP0177/CUSA01005_00/DsB0VEi0mMS2H1mHJskPnALUGzq9RAeb.png) | ✔ |
 | Puyo Puyo Champions | [Image link](https://assets1.ignimgs.com/2019/05/08/puyo-puyo-champions---button-fin-1557346889660.jpg) | ✔ |
-| Minecraft | [Image link](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png) | ✔ |
 | DayZ | [Image link](https://media.vandal.net/m/20846/dayz-201953013153533_11.jpg) | ✔ |
 | eFootball PES 2021 Season Update | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202011/0201/DCT1LwEUb8fXfS2PZfkzXV59.png) | ✔ |
 | Halo: Reach | [Image link](http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266_00.jpg) | ✔ |
@@ -168,7 +170,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
 | Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436_1/re/1024x1024/qt/60/664436_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
-| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
 | PUBG: BATTLEGROUNDS | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png) | ✔ |
@@ -232,7 +233,6 @@ If you're not seeing any image while playing your game or you need help with any
 | TEKKEN TAG TOURNAMENT 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg) | ✔ |
 | TEKKEN 6 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cbcc379a81888055b068e7cd194d786.png) | ✔ |
 | Tekken 7 | [Image link](https://image.api.playstation.com/cdn/UP0700/CUSA05972_00/4yfeeKKfJdD5WzDQsoiM3xrcqPlpDLm7.png) | ✔ |
-| NINJA GAIDEN 2 | [Image link](https://i.ibb.co/n7ZYM5H/NG2.png) | ✔ |
 | Call of Duty: Modern Warfare II | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/W5uSEsW7yefCNTHatS03v5q7.png) | ✔ |
 | ZOE HD | [Image link](https://cdn2.steamgriddb.com/icon/8d297a658bd8918ca2428789005950df/32/256x256.png) | ✔ |
 | Lost Odyssey | [Image link](https://assets-prd.ignimgs.com/2022/01/07/lost-odyssey-button-crop-1641596251636.jpg) | ✔ |
