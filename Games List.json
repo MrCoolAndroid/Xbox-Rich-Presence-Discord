@@ -1132,10 +1132,80 @@
           "type": 1
         },
         {
-          "titlename": "NINJA GAIDEN 2",
-          "titleimage": "ng2",
-          "titleicon": "https://i.ibb.co/n7ZYM5H/NG2.png",
-          "titlebackground": "https://images2.alphacoders.com/174/174400.jpg",
+          "titlename": "NINJA GAIDEN",
+          "titleimage": "NG1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/15647da261a82b53d8e4919d9b4b110b.png",
+          "titlebackground": "https://static0.gamerantimages.com/wordpress/wp-content/uploads/2024/03/ninjagaiden.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Ninja Gaiden Black",
+          "titleimage": "NG1_Black",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1cc7ea47a20322422b32cd3194eccd2e.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp2783695.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN Σ",
+          "titleimage": "NG1_Sigma",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5b0f6f593bc178ecd4dca2367909ce6d.jpg",
+          "titlebackground": "https://www.nookgaming.com/wp-content/uploads/2021/06/Ninja_Gaiden_-_Featured_Image-1210x642.png",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN II",
+          "titleimage": "NG2_VANILLA",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png",
+          "titlebackground": "https://images7.alphacoders.com/684/684049.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN 2 Black",
+          "titleimage": "NG2_Black",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d3b366f8e76c756ca5272549fd19ab01.png",
+          "titlebackground": "https://assets-prd.ignimgs.com/2025/01/29/ninja-gaiden-2-black-blogroll-1738176208763.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN Σ2",
+          "titleimage": "NG2_Sigma",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5b1dba012d4bd95c54a07fa63445eceb.jpg",
+          "titlebackground": "https://oyster.ignimgs.com/wordpress/stg.ign.com/2013/03/NGS2_030513_1600.jpg?width=1920",
+          "type": 1
+        },
+        {
+          "titlename": "Ninja Gaiden III",
+          "titleimage": "NG3_Vanilla",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b64bae5500d62e73b669cd3ad863ee2d.png",
+          "titlebackground": "https://images2.alphacoders.com/236/236660.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NINA GAIDEN 3: RE",
+          "titleimage": "NG3_RE_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/63ff8c6cbeef23aa9927ca4c08f63f56.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.57988.13957002730398149.0cea4e4d-b211-438d-b3fc-78fd52485184.fc986eb9-ad62-426f-ad0b-81b66ca9bf53",
+          "type": 1
+        },
+        {
+          "titlename": "NINA GAIDEN 3: Razor's Edge",
+          "titleimage": "NG3_RE_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f396731d83040949f8033cd9c40d56ea.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.57988.13957002730398149.0cea4e4d-b211-438d-b3fc-78fd52485184.fc986eb9-ad62-426f-ad0b-81b66ca9bf53",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN 4",
+          "titleimage": "NG4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8b0cb989487fb88dea63d7697b4f9d28.jpg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202501/2115/55009bd0bb54d4603335f5ff69140f6607f5a00201fa8606.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NINJA GAIDEN: Raebound",
+          "titleimage": "NG_Ragebound",
+          "titleicon": "https://assets-prd.ignimgs.com/2024/12/13/ragebound-1734068080498.jpg",
+          "titlebackground": "https://assets-prd.ignimgs.com/2024/12/13/ninjagaidenragebound-blogroll-1734050457614.jpg",
           "type": 1
         },
         {
