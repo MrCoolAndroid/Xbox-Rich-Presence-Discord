@@ -73,7 +73,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
 | Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ❌ |
-| NINJA GAIDEN 2 | [Image link](https://i.ibb.co/n7ZYM5H/NG2.png) | ❌ |
+| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ❌ |
+| Plants vs. Zombies Garden Warfare | [Image link](https://i.ibb.co/9Y8ZQsv/icon.png) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -233,6 +234,17 @@ If you're not seeing any image while playing your game or you need help with any
 | TEKKEN TAG TOURNAMENT 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg) | ✔ |
 | TEKKEN 6 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cbcc379a81888055b068e7cd194d786.png) | ✔ |
 | Tekken 7 | [Image link](https://image.api.playstation.com/cdn/UP0700/CUSA05972_00/4yfeeKKfJdD5WzDQsoiM3xrcqPlpDLm7.png) | ✔ |
+| NINJA GAIDEN | [Image link](https://cdn2.steamgriddb.com/grid/15647da261a82b53d8e4919d9b4b110b.png) | ✔ |
+| Ninja Gaiden Black | [Image link](https://cdn2.steamgriddb.com/grid/1cc7ea47a20322422b32cd3194eccd2e.png) | ✔ |
+| NINJA GAIDEN Σ | [Image link](https://cdn2.steamgriddb.com/grid/5b0f6f593bc178ecd4dca2367909ce6d.jpg) | ✔ |
+| NINJA GAIDEN II | [Image link](https://cdn2.steamgriddb.com/grid/9a1b7d042a1476ae65145a7e9536b350.png) | ✔ |
+| NINJA GAIDEN 2 Black | [Image link](https://cdn2.steamgriddb.com/grid/d3b366f8e76c756ca5272549fd19ab01.png) | ✔ |
+| NINJA GAIDEN Σ2 | [Image link](https://cdn2.steamgriddb.com/grid/5b1dba012d4bd95c54a07fa63445eceb.jpg) | ✔ |
+| Ninja Gaiden III | [Image link](https://cdn2.steamgriddb.com/grid/b64bae5500d62e73b669cd3ad863ee2d.png) | ✔ |
+| NINA GAIDEN 3: RE | [Image link](https://cdn2.steamgriddb.com/grid/63ff8c6cbeef23aa9927ca4c08f63f56.jpg) | ✔ |
+| NINA GAIDEN 3: Razor's Edge | [Image link](https://cdn2.steamgriddb.com/grid/f396731d83040949f8033cd9c40d56ea.jpg) | ✔ |
+| NINJA GAIDEN 4 | [Image link](https://cdn2.steamgriddb.com/grid/8b0cb989487fb88dea63d7697b4f9d28.jpg) | ✔ |
+| NINJA GAIDEN: Raebound | [Image link](https://assets-prd.ignimgs.com/2024/12/13/ragebound-1734068080498.jpg) | ✔ |
 | Call of Duty: Modern Warfare II | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202205/2800/W5uSEsW7yefCNTHatS03v5q7.png) | ✔ |
 | ZOE HD | [Image link](https://cdn2.steamgriddb.com/icon/8d297a658bd8918ca2428789005950df/32/256x256.png) | ✔ |
 | Lost Odyssey | [Image link](https://assets-prd.ignimgs.com/2022/01/07/lost-odyssey-button-crop-1641596251636.jpg) | ✔ |
@@ -284,7 +296,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Ubisoft Connect | [Image link](https://cdn2.steamgriddb.com/icon/bf31cf91a25a954107b264332a7ca548/32/512x512.png) | ✔ |
 | Rocket League | [Image link](https://upload.wikimedia.org/wikipedia/commons/e/e0/Rocket_League_coverart.jpg) | ✔ |
 | Minecraft Dungeons | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/a9f2861cf82efebf18f83d9ce721a576.png) | ✔ |
-| Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ✔ |
 | Tetris Effect: Connected | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png) | ✔ |
 | Stardew Valley | [Image link](https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png) | ✔ |
 | Rust | [Image link](https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false) | ✔ |
@@ -321,7 +332,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Red Dead Redemption | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38c0cbe22bf9f9a5627b511f107d0300.png) | ✔ |
 | Starfield | [Image link](https://upload.anarchyisland.gg/r/Starfield%20Icon.jpg?compress=false) | ✔ |
 | Payday 3 | [Image link](https://upload.anarchyisland.gg/r/Payday3%20Icon.jpg?compress=false) | ✔ |
-| Plants vs. Zombies Garden Warfare | [Image link](https://i.ibb.co/9Y8ZQsv/icon.png) | ✔ |
 | Need for Speed Hot Pursuit Remastered | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png) | ✔ |
 | Batman: Arkham Knight | [Image link](https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/due3Vp0T2VSGfBtGsWjVnrL4o882iYVk.png) | ✔ |
 | DOOM | [Image link](https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg) | ✔ |
