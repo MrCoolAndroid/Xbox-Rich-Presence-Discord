@@ -72,9 +72,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Minecraft | [Image link](https://cdn.icon-icons.com/icons2/2699/PNG/512/minecraft_logo_icon_168974.png) | ❌ |
 | Halo Infinite | [Image link](https://www.tierragamer.com/wp-content/uploads/2020/07/halo-portada.jpg) | ❌ |
 | Microsoft Edge | [Image link](https://upload.wikimedia.org/wikipedia/commons/9/98/Microsoft_Edge_logo_%282019%29.svg) | ❌ |
-| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ❌ |
 | Minecraft Legends | [Image link](https://tinfoil.media/ti/01007C6012CC8000/0/0/) | ❌ |
-| Plants vs. Zombies Garden Warfare | [Image link](https://i.ibb.co/9Y8ZQsv/icon.png) | ❌ |
 | Carcassonne | [Image link](https://xbox360media.ign.com/xbox360/image/object/850/850005/XBL_Carcassonne.jpg?width=250&crop=1%3A1%2Csmart&auto=webp) | ❓ |
 | PDP Control Hub | [Image link](https://store-images.s-microsoft.com/image/apps.20790.14536315885801770.076b8775-9c74-4ce6-a4db-0a04d323096c.6ec01100-1fb8-4238-9c7e-052a05a5e6a6) | ❓ |
 | Halo 5: Guardians | [Image link](https://i.blogs.es/2081f1/halo5_keyart_vert_final/240_240.jpg) | ❓ |
@@ -171,6 +169,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
 | Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436_1/re/1024x1024/qt/60/664436_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
+| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
 | PUBG: BATTLEGROUNDS | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png) | ✔ |
@@ -191,6 +190,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Hellblade: Senua's Sacrifice | [Image link](https://media.vandal.net/m/25566/hellblade-senuas-sacrifice-201787132929_6.jpg) | ✔ |
 | FIFA 22 [XB1] | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202111/0822/YiFF5Xkljek03HhUJa4gic1Y.png) | ✔ |
 | Fall Guys | [Image link](https://cdn2.steamgriddb.com/grid/1d6c749ed54c336af7ffc21659122d6a.png) | ✔ |
+| Fall Guys: Ultimate Knockout | [Image link](https://cdn2.steamgriddb.com/grid/1d6c749ed54c336af7ffc21659122d6a.png) | ✔ |
 | Stumble Guys | [Image link](https://cdn2.steamgriddb.com/grid/eae7e6b10447faa61ded3859297594d5.png) | ✔ |
 | Battlefield: Bad Company | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/thumb/a1323f274f0b46c069ea4ddd4fa56a76.jpg) | ✔ |
 | Battlefield Bad Company 2 | [Image link](https://cdn2.steamgriddb.com/grid/535930dfb6b351001869d2cf9ee07833.jpg) | ✔ |
@@ -332,6 +332,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Red Dead Redemption | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38c0cbe22bf9f9a5627b511f107d0300.png) | ✔ |
 | Starfield | [Image link](https://upload.anarchyisland.gg/r/Starfield%20Icon.jpg?compress=false) | ✔ |
 | Payday 3 | [Image link](https://upload.anarchyisland.gg/r/Payday3%20Icon.jpg?compress=false) | ✔ |
+| Plants vs. Zombies Garden Warfare | [Image link](https://i.ibb.co/9Y8ZQsv/icon.png) | ✔ |
 | Need for Speed Hot Pursuit Remastered | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png) | ✔ |
 | Batman: Arkham Knight | [Image link](https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/due3Vp0T2VSGfBtGsWjVnrL4o882iYVk.png) | ✔ |
 | DOOM | [Image link](https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg) | ✔ |
