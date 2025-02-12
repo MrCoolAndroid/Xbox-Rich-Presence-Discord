@@ -199,6 +199,27 @@
           "type": 1
         },
         {
+          "titlename": "Silent Hill Homecoming",
+          "titleimage": "Silent_Hill_Homecoming",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/591e4177925d047ddd7fcc018f825a56.jpg",
+          "titlebackground": "https://games.kikizo.com/media2008/silent-hill-homecoming-interview/01.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Silent Hill: Downpour",
+          "titleimage": "Silent_Hill_Downpour",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/16c2f163b036939d4178a21ade6283c4.png",
+          "titlebackground": "https://mollielpatterson.com/wp-content/uploads/2017/12/Silent.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Silent Hill: HD Collection",
+          "titleimage": "Silent_Hill_HD_Collection",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bf881d4611a2941ecbf549a41e5a8905.png",
+          "titlebackground": "https://img.gg.deals/e1/cb/139be1136c8fae349319b8efb552f2c1969b_1232xr706_Q100.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Raskulls",
           "titleimage": "Raskulls",
           "titleicon": "https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg",
@@ -1276,6 +1297,27 @@
           "titleimage": "mhrise",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/icon/faa453efde4ac6a36849ba381feb9e87/32/256x256.png",
           "titlebackground": "https://assets.xboxservices.com/assets/e0/94/e094ff7a-f3a2-45bd-9efa-ab14e94e5169.jpg?n=75295231_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "MONSTER HUNTER: WORLD",
+          "titleimage": "Monster_Hunter_World",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ad0c17a89c56731630582f6a2b95c044.png",
+          "titlebackground": "https://monstervine.com/wp-content/uploads/2019/09/Monster-Hunter-World_-Iceborne_20190908102727.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Monster Hunter Wilds",
+          "titleimage": "Monster_Hunter_Wilds",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b3b029333d503e2239efc9dfe164de78.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/monster-hunter-wilds-beta-2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Monster Hunter Wilds Beta test",
+          "titleimage": "Monster_Hunter_Wilds_Beta",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202410/1506/b0a0c6242eac82f717e7bfb36b225e747112f19dfc187f00.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2025/02/monster-hunter-wilds-beta-2.jpg",
           "type": 1
         },
         {
