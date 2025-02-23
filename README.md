@@ -69,9 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| Assassin's Creed Brotherhood | [Image link](https://cdn2.steamgriddb.com/icon/56535b943d33605c7231405ac564d698/32/256x256.png) | ❌ |
-| Blu-ray Player | [Image link](https://seeklogo.com/images/B/Blu-ray_Disc-logo-7617B9FC8E-seeklogo.com.png) | ❌ |
-| Dying Light | [Image link](https://cdn2.steamgriddb.com/icon/c55ead078947051a856b1f3beb85f748/32/256x256.png) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -106,6 +103,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Raskulls | [Image link](https://assets-prd.ignimgs.com/2022/04/22/raskulls-1650586617976.jpg) | ✔ |
 | Street Fighter III Third Strike: Online Edition | [Image link](https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg) | ✔ |
 | Assassin's Creed | [Image link](https://cdn2.steamgriddb.com/icon/ef56dd28c084d86aeb28f3b391e94548/32/256x256.png) | ✔ |
+| Assassin's Creed Brotherhood | [Image link](https://cdn2.steamgriddb.com/grid/be1b8fbe91e027def4ace7e748e424b3.png) | ✔ |
 | Assassin's Creed II | [Image link](https://cdn2.steamgriddb.com/icon/b67fb3360ae5597d85a005153451dd4e/32/256x256.png) | ✔ |
 | Assassin's Creed Revelations | [Image link](https://cdn2.steamgriddb.com/icon/1ea97de85eb634d580161c603422437f/32/256x256.png) | ✔ |
 | Assassin's Creed Rogue | [Image link](https://cdn2.steamgriddb.com/icon/77ec6f21c85b637cc42bb997841e11a6/32/256x256.png) | ✔ |
@@ -148,6 +146,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ✔ |
 | YouTube | [Image link](https://upload.anarchyisland.gg/r/Youtube%20Icon.png?compress=false) | ✔ |
 | Max | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg) | ✔ |
+| Blu-ray Player | [Image link](https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg) | ✔ |
 | Spectrum TV | [Image link](https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg) | ✔ |
 | Crunchyroll | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-crunchyroll-1663819467267.jpg) | ✔ |
 | Twitch | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/bd/0b/bcbd0b7f-393a-e861-1540-c69794ad981a/TwitchAppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024.jpg) | ✔ |
@@ -176,6 +175,7 @@ If you're not seeing any image while playing your game or you need help with any
 | LIMBO | [Image link](https://cdn2.steamgriddb.com/grid/91ae50d539e53a0c72eccd6ec1a55b66.jpg) | ✔ |
 | INSIDE | [Image link](https://cdn2.steamgriddb.com/grid/51eac99551f4fa89da93f217a521f007.jpg) | ✔ |
 | Firewatch | [Image link](https://cdn2.steamgriddb.com/grid/f3e34b1ad8a9a285039d400e6dfc86cc.jpg) | ✔ |
+| Dying Light | [Image link](https://cdn2.steamgriddb.com/grid/fc7fc726ca255b6d2e10b76071e51972.png) | ✔ |
 | Minecraft: Xbox 360 Edition | [Image link](https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2_hq.jpg) | ✔ |
 | Marvel's Guardians of the Galaxy | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/0215/Pw9cWnyqkix3EoCOGqrN1cgN.png) | ✔ |
 | Assassin's Creed Valhalla | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202008/1318/8XGEPtD1xoasK0FYkYNcCn1z.png) | ✔ |
