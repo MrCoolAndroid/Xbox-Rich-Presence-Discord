@@ -80,6 +80,48 @@
           "type": 1
         },
         {
+          "titlename": "U. MARVEL VS. CAPCOM 3",
+          "titleimage": "UMvC3_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "ULTIMATE MARVEL VS. CAPCOM 3",
+          "titleimage": "UMvC3_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "MARVEL VS. CAPCOM 3",
+          "titleimage": "MvC3_vanilla",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/07/09/marvelvcapcom3-1657386132259.jpg",
+          "titlebackground": "https://cdn.prod.website-files.com/657866d52e4cd6019b7f7b00/657866d52e4cd6019b7f81c7_UMVC3%20Featured%20Image.png",
+          "type": 1
+        },
+        {
+          "titlename": "MARVEL VS. CAPCOM: INFINITE",
+          "titleimage": "MvCI",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a62cc19e74a56d39bc11a79c42fb0b77.png",
+          "titlebackground": "https://images.launchbox-app.com/0d2bc831-009b-4d76-aca1-3ef07952b7dc.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SOULCALIBUR II HD ONLINE",
+          "titleimage": "SCII_HD_OL",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/402e4532ecca189289e1290d7e2848fa.png",
+          "titlebackground": "https://assetsio.gnwcdn.com/138512649809.jpg?width=1600&height=900&fit=crop&quality=100&format=png",
+          "type": 1
+        },
+        {
+          "titlename": "SOULCALIBUR V",
+          "titleimage": "SCV",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bf2ebef98954dfa2dce40f67adfbb86a.png",
+          "titlebackground": "https://assets-prd.ignimgs.com/2023/06/12/soul-calibur-5-1686538708745.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Crackdown",
           "titleimage": "Crackdown",
           "titleicon": "https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg",
@@ -999,6 +1041,13 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty 4",
+          "titleimage": "cod4_360",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg",
+          "titlebackground": "https://pg-uploads.wpcdn.pl/2007/12/Modern-Warfare.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Modern Warfare 2",
           "titleimage": "cod_mw2_360",
           "titleicon": "https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png",
@@ -1010,6 +1059,41 @@
           "titleimage": "cod_mw3",
           "titleicon": "https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg",
           "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DanceDanceRevolution",
+          "titleimage": "DDR_2010",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/71Gm35VbN7L.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe",
+          "titleimage": "DDR_Universe_1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png",
+          "titlebackground": "https://tcrf.net/images/e/ed/DDRuniverse-title.png",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe 2",
+          "titleimage": "DDR_Universe_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png",
+          "titlebackground": "https://i.ytimg.com/vi/SVlZHbOLh0w/maxresdefault.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DDR Universe 3",
+          "titleimage": "DDR_Universe_3",
+          "titleicon": "https://www.giantbomb.com/a/uploads/square_small/8/87790/2280571-box_ddru3.png",
+          "titlebackground": "https://img.gamertagnation.com/gameimages/backgrounds/494.png",
+          "type": 1
+        },
+        {
+          "titlename": "DanceMasters/Evolution",
+          "titleimage": "Dance_Masters_Evolution",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/16/dancemasters-1647405437944.jpg",
+          "titlebackground": "https://assets2.ignimgs.com/2010/08/27/dance-masters-20100827103429402-3297666.jpg",
           "type": 1
         },
         {
@@ -1384,6 +1468,27 @@
           "type": 1
         },
         {
+          "titlename": "Dead or Alive 5",
+          "titleimage": "doa5_Vanilla",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9bf4282eb2d98c22bed8683ee6e591d0.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp1971233.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOA5 Ultimate",
+          "titleimage": "DOA5_Ultimate",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f07d6785a6930875460c64a46ff41ced.jpg",
+          "titlebackground": "https://draculascave.co/wp-content/uploads/2013/09/title31.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOA5 Last Round",
+          "titleimage": "DOA5_LR_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8c133ffc5b43bd169de84a85e0b551ee.png",
+          "titlebackground": "https://img.opencritic.com/game/108/o/spwdcDOs.jpg",
+          "type": 1
+        },
+        {
           "titlename": "DEAD OR ALIVE 5 Last Round: Core Fighters",
           "titleimage": "doa5_LR_XB1",
           "titleicon": "https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png",
@@ -1489,10 +1594,31 @@
           "type": 1
         },
         {
+          "titlename": "STREETFIGHTER X TEKKEN",
+          "titleimage": "SFxT",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/68149192ab2ce5cd375a6e0e0c06f2dc.png",
+          "titlebackground": "https://images4.alphacoders.com/200/200016.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Street Fighter 6",
           "titleimage": "SF6",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202211/1408/l3bg7nmfPpPzam5jOVlaUFww.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SF3: Online Edition",
+          "titleimage": "SF3",
+          "titleicon": "https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg",
+          "titlebackground": "https://assets2.ignimgs.com/2011/06/06/street-fighter-iii-third-strike-online-edition-20110606025223126-3465365.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Darkstalkers Ressurection",
+          "titleimage": "DSR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ff9966923417df057cc0cbcdda667d71.png",
+          "titlebackground": "https://assetsio.gnwcdn.com/136308059129.jpg",
           "type": 1
         },
         {
@@ -1535,6 +1661,41 @@
           "titleimage": "Sonic_Unleashed",
           "titleicon": "https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg",
           "titlebackground": "https://m.media-amazon.com/images/M/MV5BOGJjZGVjMDktYTdlNC00YWUxLTllMzktYzE5N2E5OGU3OWVjXkEyXkFqcGdeQXVyNjcyNzkwMTc@._V1_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SONIC THE HEDGEHOG",
+          "titleimage": "SONIC_THE_HEDGEHOG_2006",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b685a99bc37fc3461bff5d878f8a1fe2.png",
+          "titlebackground": "https://images.gamebanana.com/img/ss/concepts/65dc355cee6b5.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SONIC FREE RIDERS",
+          "titleimage": "SONIC_FREE_RIDERS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png",
+          "titlebackground": "https://images.timeextension.com/12b1b2e7a61a2/sonic-free-riders.large.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SEGA Superstars Tennis",
+          "titleimage": "SONIC_Superstars_Tennis",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/59336df88e79656b6003bdbe2da2bf1e.png",
+          "titlebackground": "https://static.wikia.nocookie.net/jetsetradio/images/9/9c/Sega_Tennis_Wallpaper.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "KOF98UM",
+          "titleimage": "KoF_98_UM",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f0f3c0a2e88baabec7eee2ac431aa682.png",
+          "titlebackground": "https://live.staticflickr.com/2800/4129529051_08d20719af_b.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "KOF2002UM",
+          "titleimage": "KoF_2002_UM",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6d9dc06779a789a78ff9f44168213313.jpg",
+          "titlebackground": "https://images.launchbox-app.com/6a4929e2-19b2-420a-a5c2-f06668d8bcfa.jpg",
           "type": 1
         },
         {
