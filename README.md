@@ -69,6 +69,7 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -144,7 +145,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: World at War | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
 | Call of Duty: Black Ops 4 | [Image link](https://assets1.ignimgs.com/2018/10/10/call-of-duty-black-ops-4---button-fin-1539211957163.jpg) | ✔ |
 | Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ✔ |
-| YouTube | [Image link](https://upload.anarchyisland.gg/r/Youtube%20Icon.png?compress=false) | ✔ |
+| YouTube | [Image link](https://upload.anarchyisland.gg/raw/Youtube%20Icon.png?compress=false) | ✔ |
 | Max | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg) | ✔ |
 | Blu-ray Player | [Image link](https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg) | ✔ |
 | Spectrum TV | [Image link](https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg) | ✔ |
@@ -161,7 +162,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
 | Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436_1/re/1024x1024/qt/60/664436_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
-| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
 | PDP Control Hub | [Image link](https://m.media-amazon.com/images/I/61Eg5ytuoBL._AC_UF1000,1000_QL80_.jpg) | ✔ |
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
@@ -303,21 +303,21 @@ If you're not seeing any image while playing your game or you need help with any
 | Minecraft Legends | [Image link](https://cdn2.steamgriddb.com/grid/0576bce3ca971dfd913c582a14945d96.png) | ✔ |
 | Tetris Effect: Connected | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202108/0922/btyvYPfAuS53lkGbeK8ZaWzN.png) | ✔ |
 | Stardew Valley | [Image link](https://image.api.playstation.com/cdn/UP2456/CUSA06840_00/0WuZecPtRr7aEsQPv2nJqiPa2ZvDOpYm.png) | ✔ |
-| Rust | [Image link](https://upload.anarchyisland.gg/r/Rust%20Icon.png?compress=false) | ✔ |
-| Rust Console Edition - Public Test Branch | [Image link](https://upload.anarchyisland.gg/r/Rust%20PTB%20Icon.png?compress=false) | ✔ |
+| Rust | [Image link](https://upload.anarchyisland.gg/raw/Rust%20Icon.png?compress=false) | ✔ |
+| Rust Console Edition - Public Test Branch | [Image link](https://upload.anarchyisland.gg/raw/Rust%20PTB%20Icon.png?compress=false) | ✔ |
 | Among Us | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202107/0115/D5IIJwm65MLMPENwWzzO7rjd.png) | ✔ |
-| Dead by Daylight: Special Edition | [Image link](https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false) | ✔ |
-| Battlefield 2042 Xbox Series X\|S | [Image link](https://upload.anarchyisland.gg/r/Battlefield%202042%20Icon.png?compress=false) | ✔ |
-| Overwatch 2 | [Image link](https://upload.anarchyisland.gg/r/Overwatch%202%20Icon.png?compress=false) | ✔ |
-| Sea of Thieves 2023 Edition | [Image link](https://upload.anarchyisland.gg/r/SoT%20Icon.jpeg?compress=false) | ✔ |
-| Redfall | [Image link](https://upload.anarchyisland.gg/r/Redfall%20Icon.jpg?compress=false) | ✔ |
-| Red Dead Redemption 2 | [Image link](https://upload.anarchyisland.gg/r/RDR%202%20Icon.jpeg?compress=false) | ✔ |
-| Insurgency: Sandstorm | [Image link](https://upload.anarchyisland.gg/r/Insurgency%20Sandstorm%20Icon.png?compress=false) | ✔ |
-| Atomic Heart | [Image link](https://upload.anarchyisland.gg/r/Atomic%20Heart%20Icon.png?compress=false) | ✔ |
+| Dead by Daylight: Special Edition | [Image link](https://upload.anarchyisland.gg/raw/DBD%20Icon.png?compress=false) | ✔ |
+| Battlefield 2042 Xbox Series X\|S | [Image link](https://upload.anarchyisland.gg/raw/Battlefield%202042%20Icon.png?compress=false) | ✔ |
+| Overwatch 2 | [Image link](https://upload.anarchyisland.gg/raw/Overwatch%202%20Icon.png?compress=false) | ✔ |
+| Sea of Thieves 2023 Edition | [Image link](https://upload.anarchyisland.gg/raw/SoT%20Icon.jpeg?compress=false) | ✔ |
+| Redfall | [Image link](https://upload.anarchyisland.gg/raw/Redfall%20Icon.jpg?compress=false) | ✔ |
+| Red Dead Redemption 2 | [Image link](https://upload.anarchyisland.gg/raw/RDR%202%20Icon.jpeg?compress=false) | ✔ |
+| Insurgency: Sandstorm | [Image link](https://upload.anarchyisland.gg/raw/Insurgency%20Sandstorm%20Icon.png?compress=false) | ✔ |
+| Atomic Heart | [Image link](https://upload.anarchyisland.gg/raw/Atomic%20Heart%20Icon.png?compress=false) | ✔ |
 | Rock Band 4 | [Image link](https://image.api.playstation.com/cdn/UP8802/CUSA02084_00/FmVyycG5ukypLJz9iUYdBVtkI9H8axtx.png) | ✔ |
 | SUPERBEAT: XONiC | [Image link](https://assets-prd.ignimgs.com/2022/07/09/xionic-1657391403495.jpg) | ✔ |
 | ŌKAMI HD | [Image link](https://image.api.playstation.com/cdn/UP0102/CUSA08418_00/bKaklXPelfDeAe4ODKN25A63ZqOMMlhi.png) | ✔ |
-| Friday the 13th: The Game | [Image link](https://upload.anarchyisland.gg/r/Friday%20the%2013th%20The%20Game%20Icon.png?compress=false) | ✔ |
+| Friday the 13th: The Game | [Image link](https://upload.anarchyisland.gg/raw/Friday%20the%2013th%20The%20Game%20Icon.png?compress=false) | ✔ |
 | Call of Duty: Modern Warfare II | [Image link](https://cdn.kulturegeek.fr/wp-content/uploads/2022/05/Call-of-Duty-Modern-Warfare-2-2022-1-1024x1024.jpg) | ✔ |
 | Call of Duty: Modern Warfare III | [Image link](https://cdn2.steamgriddb.com/grid/f4d00a10a3b2a52d7ea6610567f1f1b8.png) | ✔ |
 | Call of Duty | [Image link](https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png) | ✔ |
@@ -330,14 +330,14 @@ If you're not seeing any image while playing your game or you need help with any
 | LEGO Indiana Jones | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38358bac3cc2848d2dfb10d268e7e252.png) | ✔ |
 | LEGO Batman | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png) | ✔ |
 | DAYTONA USA | [Image link](https://media.vgm.io/releases/44/11744/11744-1596288334.jpg) | ✔ |
-| The Texas Chain Saw Massacre | [Image link](https://upload.anarchyisland.gg/r/TCM%20Icon.png?compress=false) | ✔ |
-| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/r/LqzUi1.png?compress=false) | ✔ |
+| The Texas Chain Saw Massacre | [Image link](https://upload.anarchyisland.gg/raw/TCM%20Icon.png?compress=false) | ✔ |
+| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false) | ✔ |
 | Crackdown 2 | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg) | ✔ |
 | Home | [Image link](one_dashboard) | ✔ |
 | FIFA 23 [XB1] | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
 | Red Dead Redemption | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38c0cbe22bf9f9a5627b511f107d0300.png) | ✔ |
-| Starfield | [Image link](https://upload.anarchyisland.gg/r/Starfield%20Icon.jpg?compress=false) | ✔ |
-| Payday 3 | [Image link](https://upload.anarchyisland.gg/r/Payday3%20Icon.jpg?compress=false) | ✔ |
+| Starfield | [Image link](https://upload.anarchyisland.gg/raw/Starfield%20Icon.jpg?compress=false) | ✔ |
+| Payday 3 | [Image link](https://upload.anarchyisland.gg/raw/Payday3%20Icon.jpg?compress=false) | ✔ |
 | Plants vs. Zombies Garden Warfare | [Image link](https://i.ibb.co/9Y8ZQsv/icon.png) | ✔ |
 | Need for Speed Hot Pursuit Remastered | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png) | ✔ |
 | Batman: Arkham Knight | [Image link](https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/due3Vp0T2VSGfBtGsWjVnrL4o882iYVk.png) | ✔ |
@@ -347,14 +347,14 @@ If you're not seeing any image while playing your game or you need help with any
 | Mirror's Edge Catalyst | [Image link](https://image.api.playstation.com/cdn/EP0006/CUSA01499_00/BlmZA1q0foctr8IIDE6LcSXiuYnWtSGS.png) | ✔ |
 | eFootball 2024 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202311/0206/64c52a51a6c017c6d8600d1cc5e52d6780dedc905b1ee5ab.png) | ✔ |
 | WATCH\_DOGS | [Image link](https://assets-prd.ignimgs.com/2022/01/05/watch-dogs-1-button-1641369103832.jpg) | ✔ |
-| War Thunder | [Image link](https://upload.anarchyisland.gg/r/War%20Thunder%20Icon.jpg?compress=false) | ✔ |
+| War Thunder | [Image link](https://upload.anarchyisland.gg/raw/War%20Thunder%20Icon.jpg?compress=false) | ✔ |
 | Persona 3 Reload | [Image link](https://cdn2.steamgriddb.com/icon/d0017ee0d9e6a1f9f9bb7e7fb649fe18.png) | ✔ |
 | Metaphor: ReFantazio | [Image link](https://cdn2.steamgriddb.com/grid/48c69b6699d6ab73c14cbfb3b695d427.png) | ✔ |
 | Shin Megami Tensei V: Vengeance | [Image link](https://cdn2.steamgriddb.com/grid/e31fe8378af2be87b38a723ab3555988.png) | ✔ |
-| Train Sim World 4 | [Image link](https://upload.anarchyisland.gg/r/TSW4%20Icon.jpg?compress=false) | ✔ |
-| Dead Island 2 | [Image link](https://upload.anarchyisland.gg/r/Dead%20Island%202%20Icon.jpg?compress=false) | ✔ |
-| Palworld (Game Preview) | [Image link](https://upload.anarchyisland.gg/r/Palworld%20Icon.jpg?compress=false) | ✔ |
-| Dead by Daylight | [Image link](https://upload.anarchyisland.gg/r/DBD%20Icon.png?compress=false) | ✔ |
+| Train Sim World 4 | [Image link](https://upload.anarchyisland.gg/raw/TSW4%20Icon.jpg?compress=false) | ✔ |
+| Dead Island 2 | [Image link](https://upload.anarchyisland.gg/raw/Dead%20Island%202%20Icon.jpg?compress=false) | ✔ |
+| Palworld (Game Preview) | [Image link](https://upload.anarchyisland.gg/raw/Palworld%20Icon.jpg?compress=false) | ✔ |
+| Dead by Daylight | [Image link](https://upload.anarchyisland.gg/raw/DBD%20Icon.png?compress=false) | ✔ |
 | Sonic Adventure | [Image link](https://cdn2.steamgriddb.com/thumb/b1e8b65a8309ebb007855ebae88284d4.jpg) | ✔ |
 | Sonic Adventure 2 | [Image link](https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg) | ✔ |
 
