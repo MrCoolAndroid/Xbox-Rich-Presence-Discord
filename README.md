@@ -69,7 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -81,6 +80,12 @@ If you're not seeing any image while playing your game or you need help with any
 | Marvel Ultimate Alliance 2 | [Image link](https://oyster.ignimgs.com/mediawiki/apis.ign.com/marvel-ultimate-alliance-2/7/72/Marvel_Ultimate_Alliance_2_-_BUTTON.jpg) | ✔ |
 | Marvel Ultimate Alliance | [Image link](https://assets2.ignimgs.com/2016/07/25/marvel-ultimate-alliance-1-buttonjpg-a2d4d0.jpg) | ✔ |
 | Marvel Rivals | [Image link](https://assets-prd.ignimgs.com/2024/03/27/marvelrivals-1711557092104.jpg) | ✔ |
+| U. MARVEL VS. CAPCOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png) | ✔ |
+| ULTIMATE MARVEL VS. CAPCOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/d6a8c39c569b462f6b7168ef5a470ce9.png) | ✔ |
+| MARVEL VS. CAPCOM 3 | [Image link](https://assets-prd.ignimgs.com/2022/07/09/marvelvcapcom3-1657386132259.jpg) | ✔ |
+| MARVEL VS. CAPCOM: INFINITE | [Image link](https://cdn2.steamgriddb.com/grid/a62cc19e74a56d39bc11a79c42fb0b77.png) | ✔ |
+| SOULCALIBUR II HD ONLINE | [Image link](https://cdn2.steamgriddb.com/grid/402e4532ecca189289e1290d7e2848fa.png) | ✔ |
+| SOULCALIBUR V | [Image link](https://cdn2.steamgriddb.com/grid/bf2ebef98954dfa2dce40f67adfbb86a.png) | ✔ |
 | Crackdown | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg) | ✔ |
 | Project Gotham Racing 4 | [Image link](https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg) | ✔ |
 | Black Myth: Wukong | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png) | ✔ |
@@ -162,6 +167,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
 | Portal: Still Alive | [Image link](https://static.pepper.pl/threads/raw/ob93V/664436_1/re/1024x1024/qt/60/664436_1.jpg) | ✔ |
 | Portal 2 | [Image link](http://s01.riotpixels.net/data/b5/cf/b5cfe10d-7290-4bcb-a89d-e5d0e07b89f4.jpg/cover.portal-2.1024x1024.2014-04-24.1116.jpg) | ✔ |
+| Xbox 360 Dashboard | [Image link](https://i.ibb.co/T8d9YQC/IMG-20210506-154930.png) | ✔ |
 | Microsoft Store | [Image link](https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/bce61c2d-f08e-4cff-ab33-6360bdffd6e8/dekbb3k-48b3ab56-b50e-4752-99ee-5e5f849d605f.png) | ✔ |
 | PDP Control Hub | [Image link](https://m.media-amazon.com/images/I/61Eg5ytuoBL._AC_UF1000,1000_QL80_.jpg) | ✔ |
 | COD: Black Ops III | [Image link](https://www.fayerwayer.com/resizer/c8Gerb7mPyaUHbRuaoQGp8MmBas=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/UEIX54ZOIRFL3KXN7LCM5TDRN4.jpg) | ✔ |
@@ -210,8 +216,14 @@ If you're not seeing any image while playing your game or you need help with any
 | OMORI | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/1agbi2hbB4vbYexXSqWm94jx.png) | ✔ |
 | Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
+| Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
 | Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
+| DanceDanceRevolution | [Image link](https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg) | ✔ |
+| DDR Universe | [Image link](https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png) | ✔ |
+| DDR Universe 2 | [Image link](https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png) | ✔ |
+| DDR Universe 3 | [Image link](https://www.giantbomb.com/a/uploads/square_small/8/87790/2280571-box_ddru3.png) | ✔ |
+| DanceMasters/Evolution | [Image link](https://assets-prd.ignimgs.com/2022/03/16/dancemasters-1647405437944.jpg) | ✔ |
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
@@ -265,6 +277,9 @@ If you're not seeing any image while playing your game or you need help with any
 | DEAD OR ALIVE 2 Ultimate | [Image link](https://i.imgur.com/CJKFobH.png) | ✔ |
 | Dead or Alive 3 | [Image link](https://assets-prd.ignimgs.com/2022/05/04/doa3-1651685752417.jpg) | ✔ |
 | DEAD OR ALIVE 4 | [Image link](https://assets-prd.ignimgs.com/2022/11/25/doa4-1669406347926.jpg) | ✔ |
+| Dead or Alive 5 | [Image link](https://cdn2.steamgriddb.com/grid/9bf4282eb2d98c22bed8683ee6e591d0.jpg) | ✔ |
+| DOA5 Ultimate | [Image link](https://cdn2.steamgriddb.com/grid/f07d6785a6930875460c64a46ff41ced.jpg) | ✔ |
+| DOA5 Last Round | [Image link](https://cdn2.steamgriddb.com/grid/8c133ffc5b43bd169de84a85e0b551ee.png) | ✔ |
 | DEAD OR ALIVE 5 Last Round: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png) | ✔ |
 | DEAD OR ALIVE 6: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA12152_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png) | ✔ |
 | Left 4 Dead | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png) | ✔ |
@@ -280,13 +295,21 @@ If you're not seeing any image while playing your game or you need help with any
 | ULTRA STREETFIGHTER IV | [Image link](https://image.api.playstation.com/cdn/UP9012/CUSA01846_00/bfVn55KvgbaZp7GKHm6VkNoq6EiHqFjF.png) | ✔ |
 | SUPER STREETFIGHTER IV ARCADE EDITION | [Image link](https://images.stopgame.ru/games/logos/12365/super_street_fighter_4_arcade_edition-square.jpg) | ✔ |
 | STREET FIGHTER IV | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/dd32d86c8120238307307260fe0d81bd.png) | ✔ |
+| STREETFIGHTER X TEKKEN | [Image link](https://cdn2.steamgriddb.com/grid/68149192ab2ce5cd375a6e0e0c06f2dc.png) | ✔ |
 | Street Fighter 6 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png) | ✔ |
+| SF3: Online Edition | [Image link](https://assets1.ignimgs.com/2019/01/18/stret-fighter-iii-third-strike-online---button-1547852624330.jpg) | ✔ |
+| Darkstalkers Ressurection | [Image link](https://cdn2.steamgriddb.com/grid/ff9966923417df057cc0cbcdda667d71.png) | ✔ |
 | Catherine | [Image link](https://assets1.ignimgs.com/2019/01/10/catherine---button-1547161850707.jpg) | ✔ |
 | Call of Duty: Modern Warfare Remastered | [Image link](https://image.api.playstation.com/cdn/UP0002/CUSA03522_00/t7SHaSjuUXFZ3VHl6U4FuSFrDMtkOIyP.png) | ✔ |
 | Cuphead | [Image link](https://miro.medium.com/v2/resize:fit:1400/0*H9w4geSiKvbM3GM2.png) | ✔ |
 | Killer Instinct | [Image link](https://games-b26f.kxcdn.com/wp-content/uploads/2016/12/killer-instinct-1024x1024.jpg) | ✔ |
 | Rare Replay | [Image link](https://assets-prd.ignimgs.com/2022/03/14/rarereplay-1647222210920.jpg) | ✔ |
 | SONIC UNLEASHED | [Image link](https://assets-prd.ignimgs.com/2022/01/21/image-sonic-1-1642735809327.jpg) | ✔ |
+| SONIC THE HEDGEHOG | [Image link](https://cdn2.steamgriddb.com/grid/b685a99bc37fc3461bff5d878f8a1fe2.png) | ✔ |
+| SONIC FREE RIDERS | [Image link](https://cdn2.steamgriddb.com/grid/9225fcf7648e0bc72c9fbc499e09938b.png) | ✔ |
+| SEGA Superstars Tennis | [Image link](https://cdn2.steamgriddb.com/grid/59336df88e79656b6003bdbe2da2bf1e.png) | ✔ |
+| KOF98UM | [Image link](https://cdn2.steamgriddb.com/grid/f0f3c0a2e88baabec7eee2ac431aa682.png) | ✔ |
+| KOF2002UM | [Image link](https://cdn2.steamgriddb.com/grid/6d9dc06779a789a78ff9f44168213313.jpg) | ✔ |
 | Counter-Strike: GO | [Image link](https://assets-prd.ignimgs.com/2021/12/30/counter-strike-global-offensive-button-1640896165989.jpg) | ✔ |
 | Shadows of the Damned | [Image link](https://assets-prd.ignimgs.com/2022/04/17/sotd51-1650159532451.jpg) | ✔ |
 | LOLLIPOP CHAINSAW | [Image link](https://assets-prd.ignimgs.com/2022/04/22/lollipopchainsaw-1650671944003.jpg) | ✔ |
