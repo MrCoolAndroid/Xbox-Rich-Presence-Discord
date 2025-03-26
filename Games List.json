@@ -2187,6 +2187,13 @@
           "titleicon": "https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero_thumb/5aa3405a3f865c10f420a4a7b55cbff3.jpg",
           "type": 1
+        },
+        {
+          "titlename": "L.A. Noire",
+          "titleimage": "la_noire",
+          "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA09084_00/Y6dRYaJHlOw6c2dMvrNY36eakbFsR8JI.png",
+          "titlebackground": "https://www.hollywoodreporter.com/wp-content/uploads/2021/04/lanoire_phelpsSmoke_2560x1600-copy-1617658981.jpg?w=1296&h=730&crop=1",
+          "type": 1
         }
       ]
     }
