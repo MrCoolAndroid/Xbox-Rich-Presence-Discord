@@ -380,6 +380,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Dead by Daylight | [Image link](https://upload.anarchyisland.gg/raw/DBD%20Icon.png?compress=false) | ✔ |
 | Sonic Adventure | [Image link](https://cdn2.steamgriddb.com/thumb/b1e8b65a8309ebb007855ebae88284d4.jpg) | ✔ |
 | Sonic Adventure 2 | [Image link](https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg) | ✔ |
+| L.A. Noire | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA09084_00/Y6dRYaJHlOw6c2dMvrNY36eakbFsR8JI.png) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
