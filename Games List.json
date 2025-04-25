@@ -346,6 +346,34 @@
           "type": 1
         },
         {
+          "titlename": "Bayonetta",
+          "titleimage": "Bayonetta_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/baf6f3d5fa8ec43ae06f7498b41e02d7.jpg",
+          "titlebackground": "https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "BAYONETTA",
+          "titleimage": "Bayonetta_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bba08d79e25596c72ca3de90e3d576a6.jpg",
+          "titlebackground": "https://www.platinumgames.com/official-blog/wp-content/uploads/sites/2/2021/10/Bayonetta_double_wallpaper_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Vanquish",
+          "titleimage": "Vanquish_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/66bc488f92ab3ae5b3293136d48572e4.jpg",
+          "titlebackground": "https://images6.alphacoders.com/522/522940.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "VANQUISH",
+          "titleimage": "Vanquish_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/497a852eb89c112d5279463e92e391ac.png",
+          "titlebackground": "https://images6.alphacoders.com/522/522940.jpg",
+          "type": 1
+        },
+        {
           "titlename": "ぷよぷよテトリス2",
           "titleimage": "Puyo_Puyo_Tetris_2_JP",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202010/1302/ZGFxG5ChTMDDBckd6UdRLzvm.png",
