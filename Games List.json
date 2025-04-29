@@ -2236,6 +2236,48 @@
           "titleicon": "https://cdn2.steamgriddb.com/grid/2231c93437ad10b18353e3c70e895cd4.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/grid/9afbe998374ca7326d35d84180786096.png",
           "type": 1
+        },
+        {
+          "titlename": "NFS Most Wanted",
+          "titleimage": "NFS Most Wanted",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2b56ecffc94803423f5dfc399101a180.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/need-for-speed-most-wanted-2005-key-art.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Need for Speed Carbon",
+          "titleimage": "Need for Speed Carbon",
+          "titleicon": "https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-square_1.jpg",
+          "titlebackground": "https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-hero_1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NFS ProStreet",
+          "titleimage": "NFS ProStreet",
+          "titleicon": "https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-square.jpg",
+          "titlebackground": "https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-hero.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NEED FOR SPEED THE RUN",
+          "titleimage": "NEED FOR SPEED THE RUN",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c62db977c9ae8c8bad323bc56353a3ed.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/eacom/en-us/migrated-images/2017/06/the-run-nfs-therun-hero-vertical.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Burnout Paradise",
+          "titleimage": "Burnout Paradise",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/gin/images/2017/01/burnout-paradise-keyart.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Burnout Paradise Remastered",
+          "titleimage": "Burnout Paradise Remastered",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/burnout-paradise-remastered/images/2018/02/bpr-featured-image-16-9.jpg",
+          "type": 1
         }
       ]
     }
