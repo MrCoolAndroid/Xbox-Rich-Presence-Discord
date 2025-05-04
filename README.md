@@ -385,6 +385,14 @@ If you're not seeing any image while playing your game or you need help with any
 | Sonic Adventure | [Image link](https://cdn2.steamgriddb.com/thumb/b1e8b65a8309ebb007855ebae88284d4.jpg) | ✔ |
 | Sonic Adventure 2 | [Image link](https://cdn2.steamgriddb.com/thumb/43f085b7948168187f72e7cd0b89289a.jpg) | ✔ |
 | L.A. Noire | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA09084_00/Y6dRYaJHlOw6c2dMvrNY36eakbFsR8JI.png) | ✔ |
+| Need for Speed Hot Pursuit | [Image link](https://cdn2.steamgriddb.com/grid/7984e391f2529b3790a3801c0591897f.png) | ✔ |
+| Need for Speed Rivals | [Image link](https://cdn2.steamgriddb.com/grid/2231c93437ad10b18353e3c70e895cd4.jpg) | ✔ |
+| NFS Most Wanted | [Image link](https://cdn2.steamgriddb.com/grid/2b56ecffc94803423f5dfc399101a180.png) | ✔ |
+| Need for Speed Carbon | [Image link](https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-square_1.jpg) | ✔ |
+| NFS ProStreet | [Image link](https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-square.jpg) | ✔ |
+| NEED FOR SPEED THE RUN | [Image link](https://cdn2.steamgriddb.com/grid/c62db977c9ae8c8bad323bc56353a3ed.png) | ✔ |
+| Burnout Paradise | [Image link](https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg) | ✔ |
+| Burnout Paradise Remastered | [Image link](https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
