@@ -2278,6 +2278,13 @@
           "titleicon": "https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png",
           "titlebackground": "https://media.contentapi.ea.com/content/dam/ea/burnout-paradise-remastered/images/2018/02/bpr-featured-image-16-9.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Celeste",
+          "titleimage": "Celeste",
+          "titleicon": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png",
+          "titlebackground": "https://i.redd.it/all-most-of-the-backgrounds-in-celeste-edited-together-v0-0jzdpvth2uka1.jpg?width=792&format=pjpg&auto=webp&s=8998957827df6fbe7a6efc9229306cfd53a76b4a",
+          "type": 1
         }
       ]
     }
