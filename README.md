@@ -69,6 +69,8 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
+| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -202,7 +204,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Skyrim | [Image link](https://freesvg.org/img/skyrim.png) | ✔ |
 | Conker: Live and Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png) | ✔ |
 | Forza Horizon | [Image link](https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024) | ✔ |
-| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ✔ |
 | Forza Motorsport 4 | [Image link](https://cdn2.steamgriddb.com/icon_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png) | ✔ |
 | Far Cry 5 | [Image link](https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png) | ✔ |
 | Netflix | [Image link](https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png) | ✔ |
@@ -222,7 +223,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
 | DanceDanceRevolution | [Image link](https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg) | ✔ |
 | DDR Universe | [Image link](https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png) | ✔ |
 | DDR Universe 2 | [Image link](https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png) | ✔ |
@@ -393,6 +393,7 @@ If you're not seeing any image while playing your game or you need help with any
 | NEED FOR SPEED THE RUN | [Image link](https://cdn2.steamgriddb.com/grid/c62db977c9ae8c8bad323bc56353a3ed.png) | ✔ |
 | Burnout Paradise | [Image link](https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg) | ✔ |
 | Burnout Paradise Remastered | [Image link](https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png) | ✔ |
+| Celeste | [Image link](https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
