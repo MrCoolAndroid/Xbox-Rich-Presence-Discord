@@ -1175,9 +1175,37 @@
         },
         {
           "titlename": "Dead Space 3",
-          "titleimage": "dead_space3",
+          "titleimage": "dead_space_3_Xbox_360",
           "titleicon": "https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg",
           "titlebackground": "https://images5.alphacoders.com/371/371382.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space 2",
+          "titleimage": "dead_space_2_Xbox_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/db9479550af49e4214af583bf0816551.png",
+          "titlebackground": "https://i0.wp.com/waytoomany.games/wp-content/uploads/2021/01/dead-space-2-wallpaper-full-hd-1080p-184991.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space (2008)",
+          "titleimage": "dead_space_2008_Xbox_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eeb96dcdd636b95cd52a322e7c9f48fa.png",
+          "titlebackground": "https://static1.thegamerimages.com/wordpress/wp-content/uploads/2021/11/ds1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dead Space",
+          "titleimage": "dead_space_Remake",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f01c34449487c0bd1ea4a8625fffa09c.jpg",
+          "titlebackground": "https://i0.wp.com/xboxera.com/wp-content/uploads/2023/01/Screenshot-2023-01-28-010335.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "South of Midnight",
+          "titleimage": "South_of_Midnight",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e443cc2708fc151dbf3763a8157336b.jpg",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2024/06/HERO-1de22a582ec70ff085c8.jpg",
           "type": 1
         },
         {
@@ -2109,6 +2137,41 @@
           "titleimage": "doom",
           "titleicon": "https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg",
           "titlebackground": "https://i.pinimg.com/originals/28/a5/b0/28a5b0a9436536a8945416a5ad503b36.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM: The Dark Ages",
+          "titleimage": "doom_the_dark_ages",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e2fc8e236c46593be72c66ef8112bbc0.png",
+          "titlebackground": "https://platform.polygon.com/wp-content/uploads/sites/2/2024/11/doom-the-dark-ages-01-doomslayer.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM II",
+          "titleimage": "doom_II",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b6857486cf71710a307c74f888b37ab6.png",
+          "titlebackground": "https://www.dreadxp.com/wp-content/uploads/2020/01/Doom-2.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM 3",
+          "titleimage": "doom_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202103/0520/7DC8oEH3aImTHSJzcFmEaYA1.png",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM 3 BFG Edition",
+          "titleimage": "doom_3_BFG_Edition",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0d185edda159e971fac84cbc8ff26cc7.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202009/2804/vlzF1qEjYncKVuRu2TfzlPq7.png",
+          "type": 1
+        },
+        {
+          "titlename": "DOOM + DOOM II",
+          "titleimage": "DOOM_plus_DOOM_II",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ea25dc16884c274e677a006c93b13994.jpg",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2280/ss_dccbd8eb6b389bf6d943485461265cf1b6aa52f7.1920x1080.jpg",
           "type": 1
         },
         {
