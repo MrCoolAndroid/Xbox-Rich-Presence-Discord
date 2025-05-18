@@ -69,8 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ❌ |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -204,6 +202,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Skyrim | [Image link](https://freesvg.org/img/skyrim.png) | ✔ |
 | Conker: Live and Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/596f6e834f2569ec81adc2fb6798f453.png) | ✔ |
 | Forza Horizon | [Image link](https://static.wikia.nocookie.net/forzamotorsport/images/3/3d/FH1_Boxart.jpg/revision/latest/top-crop/width/1024/height/1024) | ✔ |
+| Forza Motorsport 3 | [Image link](https://vectorseek.com/wp-content/uploads/2023/07/Forza-Motorsport-3-Logo-Vector.jpg) | ✔ |
 | Forza Motorsport 4 | [Image link](https://cdn2.steamgriddb.com/icon_thumb/bc060de03aa94c7edf5e6b4f1755c1f0.png) | ✔ |
 | Far Cry 5 | [Image link](https://image.api.playstation.com/cdn/UP0001/CUSA05904_00/IKYAgcRh0k3IOklJSDoNBTk5t5MSm7KE.png) | ✔ |
 | Netflix | [Image link](https://upload.wikimedia.org/wikipedia/commons/f/ff/Netflix-new-icon.png) | ✔ |
@@ -223,6 +222,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
+| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
 | DanceDanceRevolution | [Image link](https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg) | ✔ |
 | DDR Universe | [Image link](https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png) | ✔ |
 | DDR Universe 2 | [Image link](https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png) | ✔ |
@@ -236,6 +236,10 @@ If you're not seeing any image while playing your game or you need help with any
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
 | Dead Space 3 | [Image link](https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg) | ✔ |
+| Dead Space 2 | [Image link](https://cdn2.steamgriddb.com/grid/db9479550af49e4214af583bf0816551.png) | ✔ |
+| Dead Space (2008) | [Image link](https://cdn2.steamgriddb.com/grid/eeb96dcdd636b95cd52a322e7c9f48fa.png) | ✔ |
+| Dead Space | [Image link](https://cdn2.steamgriddb.com/grid/f01c34449487c0bd1ea4a8625fffa09c.jpg) | ✔ |
+| South of Midnight | [Image link](https://cdn2.steamgriddb.com/grid/1e443cc2708fc151dbf3763a8157336b.jpg) | ✔ |
 | Diablo III | [Image link](https://www.zastavki.com/pictures/1024x1024/2013/_Diablo_III__ever_seen_a_devil_045077_31.jpg) | ✔ |
 | Peggle 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/18/peggle2-1647580639839.jpg) | ✔ |
 | Trials Fusion | [Image link](https://assets-prd.ignimgs.com/2022/03/13/trialsfusion-1647197679497.jpg) | ✔ |
@@ -369,6 +373,11 @@ If you're not seeing any image while playing your game or you need help with any
 | Need for Speed Hot Pursuit Remastered | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202210/3122/AooxHg4WoMdhe8oPQYn3XdrG.png) | ✔ |
 | Batman: Arkham Knight | [Image link](https://image.api.playstation.com/cdn/UP1018/CUSA00133_00/due3Vp0T2VSGfBtGsWjVnrL4o882iYVk.png) | ✔ |
 | DOOM | [Image link](https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg) | ✔ |
+| DOOM: The Dark Ages | [Image link](https://cdn2.steamgriddb.com/grid/e2fc8e236c46593be72c66ef8112bbc0.png) | ✔ |
+| DOOM II | [Image link](https://cdn2.steamgriddb.com/grid/b6857486cf71710a307c74f888b37ab6.png) | ✔ |
+| DOOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png) | ✔ |
+| DOOM 3 BFG Edition | [Image link](https://cdn2.steamgriddb.com/grid/0d185edda159e971fac84cbc8ff26cc7.png) | ✔ |
+| DOOM + DOOM II | [Image link](https://cdn2.steamgriddb.com/grid/ea25dc16884c274e677a006c93b13994.jpg) | ✔ |
 | Devil May Cry 5 | [Image link](https://assets1.ignimgs.com/2019/03/04/devil-may-cry-5---button-fin-1551739966394.jpg) | ✔ |
 | DRAGON BALL XENOVERSE | [Image link](https://cdn2.steamgriddb.com/grid/ed645df163c420c0f2ae8b51a29dab6b.png) | ✔ |
 | Mirror's Edge Catalyst | [Image link](https://image.api.playstation.com/cdn/EP0006/CUSA01499_00/BlmZA1q0foctr8IIDE6LcSXiuYnWtSGS.png) | ✔ |
