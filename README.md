@@ -69,6 +69,7 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -362,7 +363,6 @@ If you're not seeing any image while playing your game or you need help with any
 | LEGO Batman | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png) | ✔ |
 | DAYTONA USA | [Image link](https://media.vgm.io/releases/44/11744/11744-1596288334.jpg) | ✔ |
 | The Texas Chain Saw Massacre | [Image link](https://upload.anarchyisland.gg/raw/TCM%20Icon.png?compress=false) | ✔ |
-| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false) | ✔ |
 | Crackdown 2 | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg) | ✔ |
 | Home | [Image link](one_dashboard) | ✔ |
 | FIFA 23 [XB1] | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
