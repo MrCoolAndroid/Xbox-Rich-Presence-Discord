@@ -13,6 +13,7 @@ using Xbox_Discord_Presence.Models;
 using MahApps.Metro.Controls.Dialogs;
 using Xbox_Discord_Presence.Views;
 using Xbox_Discord_Presence.Stores;
+using Xbox_Discord_Presence.Helpers;
 
 namespace Xbox_Discord_Presence.ViewModels
 {
@@ -24,6 +25,7 @@ namespace Xbox_Discord_Presence.ViewModels
         private readonly DeviceStore _deviceStore;
         private readonly Logger _logger;
         private readonly ThemeStore _themeStore;
+        private readonly SettingsHelper _settingsHelper;
 
         private string? gamertag;
         public string? Gamertag
@@ -155,7 +157,7 @@ namespace Xbox_Discord_Presence.ViewModels
         public RelayCommand OnTextChanged { get; set; }
         private bool IsLoading { get; set; }
 
-        public MainScreenViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore)
+        public MainScreenViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore, SettingsHelper settingsHelper)
         {
             _navigationStore = navigationStore;
             _dialogStore = dialogStore;
@@ -163,13 +165,29 @@ namespace Xbox_Discord_Presence.ViewModels
             _deviceStore = deviceStore;
             _logger = logger;
             _themeStore = themeStore;
+            _settingsHelper = settingsHelper;
             Gamertag = UserConfiguration.Default.Gamertag;
             APIKey = UserConfiguration.Default.API;
+            if (UserConfiguration.Default.UseSettings)
+            {
+                Gamertag = _settingsHelper.Settings.Gamertag;
+                APIKey = _settingsHelper.Settings.OXBLAPI;
+                SelectedLanguage = _settingsHelper.Settings.Language;
+                IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
+                IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
+                IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
+            }
             AvailableLanguages.Add("Spanish");
             AvailableLanguages.Add("English");
             StartCommand = new RelayCommand(BeginProcess, CanExecuteStart);
             OnTextChanged = new RelayCommand(TextChanged);
             _themeStore.ChangeColor("null");
+            _settingsHelper.StartupRequested += OnStartupRequested;
+        }
+
+        private void OnStartupRequested()
+        {
+            BeginProcess();
         }
 
         private void TextChanged()
@@ -188,19 +206,42 @@ namespace Xbox_Discord_Presence.ViewModels
             IsLoading = true;
             CanModify = false;
             StartCommand.NotifyCanExecuteChanged();
-            InitialClass initialClass = new();
-            initialClass.APIKey = APIKey;
-            initialClass.Gamertag = Gamertag;
-            initialClass.IsLimitedTo150 = IsLimitedTo150;
-            initialClass.IsUsingSteamGridDB = IsUsingSteamGridDB;
-            initialClass.Language = SelectedLanguage;
-            initialClass.IsUsingImagesAPI = IsUsingImagesAPI;
+            InitialClass initialClass = new()
+            {
+                APIKey = APIKey,
+                Gamertag = Gamertag,
+                IsLimitedTo150 = IsLimitedTo150,
+                IsUsingSteamGridDB = IsUsingSteamGridDB,
+                Language = SelectedLanguage,
+                IsUsingImagesAPI = IsUsingImagesAPI
+            };
             await Task.Delay(1500);
             UserConfiguration.Default.Gamertag = Gamertag;
             UserConfiguration.Default.API = APIKey;
             UserConfiguration.Default.Save();
+            if (UserConfiguration.Default.UseSettings)
+            {
+                _settingsHelper.Settings.Gamertag = Gamertag;
+                _settingsHelper.Settings.OXBLAPI = APIKey;
+                _settingsHelper.Settings.RateLimit = IsLimitedTo150;
+                _settingsHelper.Settings.Language = SelectedLanguage;
+                initialClass.SteamGridDBKey = _settingsHelper.Settings.SGDBAPI;
+                if (IsUsingSteamGridDB)
+                {
+                    _settingsHelper.Settings.IconMethod = 0;
+                }
+                else if (IsUsingImagesAPI)
+                {
+                    _settingsHelper.Settings.IconMethod = 1;
+                }
+                else
+                {
+                    _settingsHelper.Settings.IconMethod = 2;
+                }
+                _settingsHelper.WriteSettings();
+            }
             _userStore.User = initialClass;
-            _navigationStore.CurrentViewModel = new PresenceViewModel(_navigationStore, _dialogStore, _userStore, _deviceStore, _logger, _themeStore);
+            _navigationStore.CurrentViewModel = new PresenceViewModel(_navigationStore, _dialogStore, _userStore, _deviceStore, _logger, _themeStore, _settingsHelper);
             CanModify = true;
             StartCommand.NotifyCanExecuteChanged();
         }

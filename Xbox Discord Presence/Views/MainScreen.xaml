@@ -50,7 +50,7 @@
                 <RadioButton HorizontalAlignment="Left" Width="20" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingImagesAPI}">
                     <Label FontFamily="Segoe UI Light" Content="API pictures" FontSize="14"/>
                 </RadioButton>
-                <RadioButton HorizontalAlignment="Left" Width="130" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}">
+                <RadioButton HorizontalAlignment="Left" Width="130" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="True">
                     <Label FontFamily="Segoe UI Light" Content="Games List.json" FontSize="14"/>
                 </RadioButton>
             </StackPanel>
@@ -61,6 +61,6 @@
                       IsEnabled="True"
                       Visibility="{Binding LoadingAnimation}"
                       Foreground="White"/>
-        <Label Content="v0.6.0" HorizontalAlignment="Left" Margin="320,523,0,0"/>
+        <Label Content="v0.6.1" HorizontalAlignment="Right" VerticalAlignment="Bottom"/>
     </Grid>
 </UserControl>

@@ -31,18 +31,20 @@ using log4net;
 using log4net.Config;
 using log4net.Repository;
 using ControlzEx.Standard;
+using Xbox_Discord_Presence.Helpers;
 
 namespace Xbox_Discord_Presence.ViewModels
 {
     public class PresenceViewModel : ViewModelBase
     {
         public DiscordRpcClient Client { get; private set; }
-        private readonly SteamGridDb sgdb = new("9c0bdf65434ebaedbc53a444a3194c0c");
+        private readonly SteamGridDb sgdb;
         private readonly NavigationStore _navigationStore;
         private readonly DialogStore _dialogStore;
         private readonly UserStore _userStore;
         private readonly DeviceStore _deviceStore;
         private readonly ThemeStore _themeStore;
+        private readonly SettingsHelper _settingsHelper;
         private bool isRunning;
 
         private string gamertag;
@@ -250,7 +252,7 @@ namespace Xbox_Discord_Presence.ViewModels
         private readonly ILoggerRepository logRepository;
         private readonly Logger mainLogger;
 
-        public PresenceViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore)
+        public PresenceViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore, SettingsHelper settingsHelper)
         {
             isRunning = false;
             GoBack = new RelayCommand(GoBackToMain);
@@ -259,17 +261,37 @@ namespace Xbox_Discord_Presence.ViewModels
             _userStore = userStore;
             _deviceStore = deviceStore;
             _themeStore = themeStore;
+            _settingsHelper = settingsHelper;
             _navigationStore.ViewChanged += OnViewChanged;
             _deviceStore.OnDeviceSelected += LoadDevice;
+            PropertyChanged += OnPropertyChangedHandler;
+
+            if (_settingsHelper.Settings.SGDBAPI == "" || _settingsHelper.Settings.SGDBAPI is null)
+            {
+                sgdb = new("9c0bdf65434ebaedbc53a444a3194c0c");
+            }
+            else
+            {
+                sgdb = new(_settingsHelper.Settings.SGDBAPI);
+            }
 
             logRepository = LogManager.GetRepository(Assembly.GetEntryAssembly());
             XmlConfigurator.Configure(logRepository, new FileInfo("log4netconfig.config"));
             mainLogger = logger;
         }
 
+        private void OnPropertyChangedHandler(object sender, PropertyChangedEventArgs e)
+        {
+            if (e.PropertyName == nameof(AppStatus))
+            {
+                _settingsHelper.AppStatus = AppStatus;
+            }
+        }
+
         private void GoBackToMain()
         {
-            _navigationStore.CurrentViewModel = new MainScreenViewModel(_navigationStore, _dialogStore, _userStore, _deviceStore, mainLogger, _themeStore);
+            AppStatus = "In Main screen...";
+            _navigationStore.CurrentViewModel = new MainScreenViewModel(_navigationStore, _dialogStore, _userStore, _deviceStore, mainLogger, _themeStore, _settingsHelper);
         }
 
         private void OnViewChanged(ViewModelBase obj)
@@ -374,8 +396,22 @@ namespace Xbox_Discord_Presence.ViewModels
 
                         if (Status == "Offline")
                         {
-                            AppStatus = "User is offline.. Checking again...";
-                            mainLogger.Debug("User is offline");
+                            if (!_settingsHelper.Settings.OfflineLookup)
+                            {
+                                AppStatus = "User is offline, trying again...";
+                                mainLogger.Debug("User is offline, trying again...");
+                            }
+                            else
+                            {
+                                Dialog dialog = new()
+                                {
+                                    Title = "Error!",
+                                    Description = "The user is offline! Go back and try again"
+                                };
+                                _dialogStore.ShowDialog(dialog);
+                                AppStatus = "User offline, go back and try again";
+                                break;
+                            }
                             if (_userStore.User.IsLimitedTo150)
                             {
                                 await Task.Delay(30000);
@@ -415,14 +451,52 @@ namespace Xbox_Discord_Presence.ViewModels
                     await Task.Delay(1000);
                     if (!IsDisposing)
                     {
-                        foreach (string devices in XboxPresence.Devices.Select(i => i.Type))
+                        try
                         {
-                            Application.Current.Dispatcher.Invoke(delegate
+                            foreach (string devices in XboxPresence.Devices.Select(i => i.Type))
                             {
-                                _deviceStore.Devices.Add(devices);
-                            });
+                                Application.Current.Dispatcher.Invoke(delegate
+                                {
+                                    _deviceStore.Devices.Add(devices);
+                                });
+                            }
                         }
-                        _deviceStore.RequestDevice();
+                        catch (ArgumentNullException ex)
+                        {
+                            mainLogger.Fatal("Handled exception occurred! Could not load devices from presence ", ex);
+                            AppStatus = "Could not load devices from presence!";
+                            Dialog dialog = new()
+                            {
+                                Title = "Error!",
+                                Description = "Could not load devices from presence! Go back and try again"
+                            };
+                            _dialogStore.ShowDialog(dialog);
+                        }
+                        if (_settingsHelper.Settings.QuietMode)
+                        {
+                            if (_deviceStore.Devices.Contains(_settingsHelper.Settings.Device))
+                            {
+                                LoadDevice(_settingsHelper.Settings.Device);
+                            }
+                            else
+                            {
+                                mainLogger.Info("The device specified in the settings.json file was not found online, retrying again until it becomes online...");
+                                AppStatus = "The specified device was not found online, retrying again until it becomes online...";
+                                if (_userStore.User.IsLimitedTo150)
+                                {
+                                    await Task.Delay(30000);
+                                }
+                                else
+                                {
+                                    await Task.Delay(10000);
+                                }
+                                LoadData(_userStore.User);
+                            }
+                        }
+                        else
+                        {
+                            _deviceStore.RequestDevice();
+                        }
                     }
                 }
             }
@@ -442,6 +516,8 @@ namespace Xbox_Discord_Presence.ViewModels
             {
                 AppStatus = "Device selected!";
                 mainLogger.Debug("The device " + SelectedDevice + " was selected");
+                _settingsHelper.Settings.Device = SelectedDevice;
+                _settingsHelper.WriteSettings();
                 switch (SelectedDevice)
                 {
                     case "XboxOne":
@@ -451,10 +527,10 @@ namespace Xbox_Discord_Presence.ViewModels
                         DeviceName = "Xbox 360";
                         break;
                     case "Scarlett":
-                        DeviceName = "Xbox Series";
+                        DeviceName = "Xbox Series X|S";
                         break;
                     case "WindowsOneCore":
-                        DeviceName = "Windows 10";
+                        DeviceName = "Windows";
                         break;
                     default:
                         DeviceName = "Unknown Device";
@@ -489,7 +565,19 @@ namespace Xbox_Discord_Presence.ViewModels
                     {
                         mainLogger.Fatal("Handled exception occurred! ", ex);
                     }
-                    
+
+                    if (_settingsHelper.Settings.OfflineLookup)
+                    {
+                        Dialog dialog = new()
+                        {
+                            Title = "Error!",
+                            Description = "The user is offline! Go back and try again"
+                        };
+                        _dialogStore.ShowDialog(dialog);
+                        AppStatus = "User offline, go back and try again";
+                        break;
+                    }
+
                     if (_userStore.User.IsLimitedTo150)
                     {
                         AppStatus = "User is offline.. Checking again in 30s";
@@ -799,10 +887,10 @@ namespace Xbox_Discord_Presence.ViewModels
                             case "Xbox One":
                                 deviceImage = "xbox_one";
                                 break;
-                            case "Xbox Series":
+                            case "Xbox Series X|S":
                                 deviceImage = "xbox_series";
                                 break;
-                            case "Windows 10":
+                            case "Windows":
                                 deviceImage = "windows_10";
                                 break;
                             default:
@@ -1278,7 +1366,14 @@ namespace Xbox_Discord_Presence.ViewModels
             {
                 await Task.Run(() =>
                 {
-                    foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.Height >= 400 && i.Width >= 400 && i.Uri.Length < 256))
+                    List<string> list =
+                    [
+                        "BoxArt",
+                        "AppIconSquareArt",
+                        "Icon",
+                        "Tile"
+                    ];
+                    foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.Height >= 400 && i.Width >= 400 && i.Uri.Length < 256 && list.Contains(i.ImagePurpose)))
                     {
                         if (!image.Uri.Contains("https:"))
                         {

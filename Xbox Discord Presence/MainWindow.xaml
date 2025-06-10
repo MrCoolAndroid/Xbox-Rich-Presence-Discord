@@ -5,14 +5,89 @@
         xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
         xmlns:local="clr-namespace:Xbox_Discord_Presence"
         mc:Ignorable="d"
+        xmlns:s="clr-namespace:System;assembly=mscorlib"
         xmlns:Controls="http://metro.mahapps.com/winfx/xaml/controls"
         xmlns:viewmodels="clr-namespace:Xbox_Discord_Presence.ViewModels"
         xmlns:Dialog="clr-namespace:MahApps.Metro.Controls.Dialogs;assembly=MahApps.Metro"
+        xmlns:iconPacks="http://metro.mahapps.com/winfx/xaml/iconpacks"
+        xmlns:tb="http://www.hardcodet.net/taskbar"
         Dialog:DialogParticipation.Register="{Binding}"
         d:DataContext="{d:DesignInstance Type=viewmodels:MainWindowViewModel}"
         Title="Xbox Discord Presence" Height="583" Width="360"
-        ResizeMode="CanMinimize">
-    <Grid>
+        ResizeMode="CanMinimize"
+        x:Name="this">
+    <Controls:MetroWindow.RightWindowCommands>
+        <Controls:WindowCommands>
+            <Button Command="{Binding OpenSettingsCommand}" Style="{DynamicResource MahApps.Styles.Button.Square.Accent}" Background="Transparent" BorderThickness="0" Margin="0, 0, 5, 0" Width="30" Height="30">
+                <iconPacks:PackIconModern Kind="Settings" Width="15" Height="15"/>
+            </Button>
+        </Controls:WindowCommands>
+    </Controls:MetroWindow.RightWindowCommands>
+    <Controls:MetroWindow.Flyouts>
+        <Controls:FlyoutsControl>
+            <Controls:Flyout Position="Right" Header="Settings" Width="250" IsOpen="{Binding IsSettingsOpen}">
+                <StackPanel Margin="20, 0, 10, 0">
+                    <TextBlock Margin="0, 0, 0, 5" TextWrapping="Wrap" FontWeight="Light" Text="You will need to restart the application for these settings to take effect." FontSize="16"/>
+                    <CheckBox Margin="0, 5, 0, 5" IsChecked="{Binding UseSettings}">
+                        <TextBlock TextWrapping="Wrap" FontWeight="Light" Text="Check for settings.json in current directory" FontSize="14"/>
+                    </CheckBox>
+                    <CheckBox Margin="0, 5, 0, 5" Controls:VisibilityHelper.IsVisible="{Binding UseSettings}" IsChecked="{Binding IsQuiet}">
+                        <TextBlock TextWrapping="Wrap" FontWeight="Light" Text="Start quietly (no GUI)" FontSize="14"/>
+                    </CheckBox>
+                    <CheckBox Margin="0, 5, 0, 5" Controls:VisibilityHelper.IsVisible="{Binding UseSettings}" IsChecked="{Binding OfflineLookup}">
+                        <TextBlock TextWrapping="Wrap" FontWeight="Light" Text="Stop presence if/when user goes offline" FontSize="14"/>
+                    </CheckBox>
+                </StackPanel>
+            </Controls:Flyout>
+        </Controls:FlyoutsControl>
+    </Controls:MetroWindow.Flyouts>
+    <Grid x:Name="RootGrid">
+        <tb:TaskbarIcon
+            x:Name="ToolIcon"
+            IconSource="logo.ico"
+            ToolTipText="Xbox Discord Presence"
+            TrayMouseDoubleClick="TaskbarIcon_TrayMouseDoubleClick">
+            <tb:TaskbarIcon.TrayToolTip>
+                <Border
+                    Background="{DynamicResource ResourceKey=MahApps.Brushes.Button.Flat.Foreground}"
+                    BorderBrush="{DynamicResource ResourceKey=MahApps.Brushes.AccentBase}"
+                    BorderThickness="2"
+                    Opacity="0.8"
+                    Width="230"
+                    Height="80">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Margin="2, 0, 0, 0" Width="60" Height="45" Source="/logo.ico"/>
+                        <StackPanel Margin="5, 0, 0, 0" VerticalAlignment="Center">
+                            <TextBlock FontSize="15" Foreground="{DynamicResource MahApps.Brushes.Badged.Foreground}">
+                                <TextBlock.Style>
+                                    <Style TargetType="TextBlock">
+                                        <Style.Triggers>
+                                            <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Border}},
+                                                                           Path=(tb:TaskbarIcon.ParentTaskbarIcon).DataContext.IsQuiet}" Value="True">
+                                                <Setter Property="Text" Value="Running in quiet mode"/>
+                                            </DataTrigger>
+                                            <DataTrigger Binding="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Border}},
+                                                                           Path=(tb:TaskbarIcon.ParentTaskbarIcon).DataContext.IsQuiet}" Value="False">
+                                                <Setter Property="Text" Value="Running windowed"/>
+                                            </DataTrigger>
+                                        </Style.Triggers>
+                                    </Style>
+                                </TextBlock.Style>
+                            </TextBlock>
+                            <Controls:TransitioningContentControl Content="{Binding RelativeSource={RelativeSource FindAncestor, AncestorType={x:Type Border}},
+                                                                            Path=(tb:TaskbarIcon.ParentTaskbarIcon).DataContext.AppStatus}" Transition="Default" Width="150" MaxHeight="50" FontSize="10" FontWeight="Light" Foreground="{DynamicResource MahApps.Brushes.Badged.Foreground}">
+                                <Controls:TransitioningContentControl.Resources>
+                                    <DataTemplate DataType="{x:Type s:String}">
+                                        <TextBlock TextWrapping="Wrap" Text="{Binding}"/>
+                                    </DataTemplate>
+                                </Controls:TransitioningContentControl.Resources>
+                            </Controls:TransitioningContentControl>
+                            <TextBlock Text="Double click the tray icon" FontSize="10" FontWeight="Light" Foreground="{DynamicResource MahApps.Brushes.Badged.Foreground}"/>
+                        </StackPanel>
+                    </StackPanel>
+                </Border>
+            </tb:TaskbarIcon.TrayToolTip>
+        </tb:TaskbarIcon>
         <Controls:TransitioningContentControl Transition="Left" Content="{Binding CurrentViewModel}"/>
     </Grid>
 </Controls:MetroWindow>
