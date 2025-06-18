@@ -1251,6 +1251,13 @@
           "type": 1
         },
         {
+          "titlename": "Tom Clancy's Rainbow Six Siege X",
+          "titleimage": "rainbow_six_siege_X",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/751e6221ef6d33dfe30b89e52ca12fb4.png",
+          "titlebackground": "https://staticctf.ubisoft.com/J3yJr34U2pZ2Ieem48Dwy9uqj5PNUQTn/1lKKKfKHD5f84ViM2NHBOJ/f54c2f0dfd5ae10eb3d6c2e965fa732d/r6s-x-free-access.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Tom Clancy's Rainbow Six Extraction",
           "titleimage": "rainbow_six_extraction",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/dAX4bUiYtNYZRkK3TcOphTeO.png",
