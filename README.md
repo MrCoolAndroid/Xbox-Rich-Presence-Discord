@@ -69,6 +69,7 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
 | The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -232,7 +233,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
-| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ✔ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ✔ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
@@ -247,6 +247,7 @@ If you're not seeing any image while playing your game or you need help with any
 | A Plague Tale: Requiem | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png) | ✔ |
 | Persona 5 Royal | [Image link](https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg) | ✔ |
 | Tom Clancy's Rainbow Six Siege | [Image link](https://sm.ign.com/t/ign_es/game/r/rainbow-si/rainbow-six-siege_d2b2.1024.jpg) | ✔ |
+| Tom Clancy's Rainbow Six Siege X | [Image link](https://cdn2.steamgriddb.com/grid/751e6221ef6d33dfe30b89e52ca12fb4.png) | ✔ |
 | Tom Clancy's Rainbow Six Extraction | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202110/2613/dAX4bUiYtNYZRkK3TcOphTeO.png) | ✔ |
 | ROBLOX | [Image link](https://assets-prd.ignimgs.com/2022/03/01/roblox-sq-1646155371025.jpg) | ✔ |
 | TEKKEN TAG 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg) | ✔ |
