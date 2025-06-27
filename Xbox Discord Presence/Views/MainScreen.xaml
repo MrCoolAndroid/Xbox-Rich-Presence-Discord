@@ -108,7 +108,7 @@
                                       Width="28"
                                       Height="28"/>
         </Button>
-        <GroupBox Header="Images Source"
+        <GroupBox Header="Preferred Image Source"
                   Margin="0,263,0,157"
                   Width="268"
                   HorizontalAlignment="Center">

@@ -33,6 +33,8 @@ using log4net.Repository;
 using ControlzEx.Standard;
 using Xbox_Discord_Presence.Helpers;
 
+#nullable enable
+
 namespace Xbox_Discord_Presence.ViewModels
 {
     public class PresenceViewModel : ViewModelBase
@@ -307,7 +309,6 @@ namespace Xbox_Discord_Presence.ViewModels
         {
             if (!IsDisposing)
             {
-                // MessageBox.Show("IsLimitedWorking?? " + _userStore.User.IsLimitedTo150.ToString() + _userStore.User.additionalAPIKey.ToString(), "DEBUG_CM");
                 await Task.Delay(1000);
                 AppStatus = "Connecting to Discord...";
                 mainLogger.Debug("Connecting to Discord...");
@@ -708,21 +709,53 @@ namespace Xbox_Discord_Presence.ViewModels
                         }
                         AppStatus = "Successfully got game data!";
                         mainLogger.Debug("Got game data from API");
-                        if (!_userStore.User.IsUsingSteamGridDB && !_userStore.User.IsUsingImagesAPI && GameTitle != gameCache && !IsDisposing)
+
+                        if (GameTitle != gameCache && !IsDisposing)
                         {
-                            mainLogger.Debug("Games List.json was selected, getting images from that source");
-                            game = await GetGamePicturesAsync(newTitle.Name);
+                            if (!_userStore.User.IsUsingSteamGridDB && !_userStore.User.IsUsingImagesAPI)
+                            {
+                                mainLogger.Debug("Games List.json was selected, getting images from that source");
+                                try
+                                {
+                                    game = await GetGamePicturesAsync(newTitle.Name);
+                                    if (game == null)
+                                        game = await GetGamePicturesFromSteamGridDBAsync(newTitle.Name);
+                                }
+                                catch
+                                {
+                                    game = await GetGamePicturesFromAPI(newTitle.Name);
+                                }
+                            }
+                            else if (_userStore.User.IsUsingSteamGridDB)
+                            {
+                                mainLogger.Debug("SteamGridDB was selected, getting images from that source");
+                                try
+                                {
+                                    game = await GetGamePicturesFromSteamGridDBAsync(newTitle.Name);
+                                    if (game == null)
+                                        game = await GetGamePicturesAsync(newTitle.Name);
+                                }
+                                catch
+                                {
+                                    game = await GetGamePicturesFromAPI(gameInfo);
+                                }
+                            }
+                            else if (_userStore.User.IsUsingImagesAPI && gameInfo.Products is not null)
+                            {
+                                mainLogger.Debug("Xbox API was selected, getting images from that source");
+                                try
+                                {
+                                    game = await GetGamePicturesFromAPI(gameInfo);
+                                    if (game == null)
+                                        game = await GetGamePicturesAsync(newTitle.Name);
+                                }
+                                catch
+                                {
+                                    game = await GetGamePicturesAsync(newTitle.Name);
+                                }
+                            }
                         }
-                        else if (_userStore.User.IsUsingSteamGridDB && GameTitle != gameCache && !IsDisposing)
-                        {
-                            mainLogger.Debug("SteamGridDB was selected, getting images from that source");
-                            game = await GetGamePicturesFromSteamGridDBAsync(newTitle.Name);
-                        }
-                        else if (_userStore.User.IsUsingImagesAPI && GameTitle != gameCache && !IsDisposing && gameInfo.Products is not null)
-                        {
-                            mainLogger.Debug("Xbox API was selected, getting images from that source");
-                            game = await GetGamePicturesFromAPI(gameInfo);
-                        }
+
                         string gameType = "";
                         string deviceImage = "";
                         if (game.Titlename is not null)
