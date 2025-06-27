@@ -310,10 +310,11 @@ namespace Xbox_Discord_Presence.ViewModels
                 await Task.Delay(1000);
                 AppStatus = "Connecting to Discord...";
                 mainLogger.Debug("Connecting to Discord...");
-                Client = new DiscordRpcClient("");
+                Client = new DiscordRpcClient("936699316960120953");
                 Client.Initialize();
                 Client.OnReady += OnDiscordConnectionReady;
                 Client.OnConnectionFailed += OnDiscordConnectionFailed;
+                //  MessageBox.Show(_userStore.User.IsLimitedTo150.ToString(), "DEBUG_COMMAND");
             }
         }
 
@@ -561,7 +562,7 @@ namespace Xbox_Discord_Presence.ViewModels
                     {
                         Client.ClearPresence();
                     }
-                    catch(Exception ex)
+                    catch (Exception ex)
                     {
                         mainLogger.Fatal("Handled exception occurred! ", ex);
                     }
@@ -998,7 +999,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 }
                 else if (e is HttpRequestException)
                 {
-                    HttpRequestException httpRequestException = (HttpRequestException) e;
+                    HttpRequestException httpRequestException = (HttpRequestException)e;
                     if (httpRequestException.StatusCode == System.Net.HttpStatusCode.NotFound)
                     {
                         Dialog dialog = new()

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\Xbox Discord Presence.csproj": {}
+    "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\Xbox Discord Presence.csproj": {}
   },
   "projects": {
-    "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\Xbox Discord Presence.csproj": {
+    "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\Xbox Discord Presence.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
+        "projectUniqueName": "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
         "projectName": "Xbox Discord Presence",
-        "projectPath": "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
+        "projectPath": "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
         "packagesPath": "C:\\Users\\tanos\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\obj\\",
+        "outputPath": "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

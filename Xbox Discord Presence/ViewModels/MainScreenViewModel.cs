@@ -55,17 +55,31 @@ namespace Xbox_Discord_Presence.ViewModels
             }
         }
 
+        private string additionalapiKey;
+        public string additionalAPIKey
+        {
+            get => additionalapiKey;
+            set
+            {
+                if (additionalapiKey != value)
+                {
+                    additionalapiKey = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
         private bool isLimitedTo150;
         public bool IsLimitedTo150
         {
-            get
-            {
-                return isLimitedTo150;
-            }
+            get => isLimitedTo150;
             set
             {
-                isLimitedTo150 = value;
-                OnPropertyChanged(nameof(IsLimitedTo150));
+                if (isLimitedTo150 != value)
+                {
+                    isLimitedTo150 = value;
+                    OnPropertyChanged();
+                }
             }
         }
 
@@ -190,7 +204,9 @@ namespace Xbox_Discord_Presence.ViewModels
 
         private void OpenAdditionalOptions()
         {
-            var window = new Xbox_Discord_Presence.Views.AdditionalOptionsWindow();
+            if (_userStore?.User != null)
+                IsLimitedTo150 = _userStore.User.IsLimitedTo150;
+            var window = new Xbox_Discord_Presence.Views.AdditionalOptionsWindow(this);
             window.ShowDialog();
         }
 

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "uj0PResoFqM=",
+  "dgSpecHash": "M2Lgoaer7Vc=",
   "success": true,
-  "projectFilePath": "C:\\Users\\tanos\\Xbox-Rich-Presence-Discord-main\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
+  "projectFilePath": "C:\\Users\\tanos\\Documents\\GitHub\\Xbox-Rich-Presence-Discord\\Xbox Discord Presence\\Xbox Discord Presence.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\tanos\\.nuget\\packages\\communitytoolkit.mvvm\\8.4.0\\communitytoolkit.mvvm.8.4.0.nupkg.sha512",
     "C:\\Users\\tanos\\.nuget\\packages\\controlzex\\4.4.0\\controlzex.4.4.0.nupkg.sha512",

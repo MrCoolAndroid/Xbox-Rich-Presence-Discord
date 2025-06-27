@@ -14,7 +14,7 @@
     <Grid>
         <Image HorizontalAlignment="Center" Width="400" Stretch="UniformToFill" Source="/Views/background.jpeg">
             <Image.Effect>
-                <BlurEffect Radius="10"/>
+                <BlurEffect Radius="15"/>
             </Image.Effect>
         </Image>
         <Rectangle x:Name="MainRectangle" Fill="{DynamicResource ResourceKey=MahApps.Brushes.AccentBase}" Height="95" VerticalAlignment="Top" Margin="0,-13,0,0"/>
