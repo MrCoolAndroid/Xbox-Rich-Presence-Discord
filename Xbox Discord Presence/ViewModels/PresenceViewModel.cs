@@ -307,6 +307,7 @@ namespace Xbox_Discord_Presence.ViewModels
         {
             if (!IsDisposing)
             {
+                mainLogger.Debug("IsLimitedWorking?? " + _userStore.User.IsLimitedTo150.ToString());
                 await Task.Delay(1000);
                 AppStatus = "Connecting to Discord...";
                 mainLogger.Debug("Connecting to Discord...");
@@ -314,7 +315,6 @@ namespace Xbox_Discord_Presence.ViewModels
                 Client.Initialize();
                 Client.OnReady += OnDiscordConnectionReady;
                 Client.OnConnectionFailed += OnDiscordConnectionFailed;
-                //  MessageBox.Show(_userStore.User.IsLimitedTo150.ToString(), "DEBUG_COMMAND");
             }
         }
 

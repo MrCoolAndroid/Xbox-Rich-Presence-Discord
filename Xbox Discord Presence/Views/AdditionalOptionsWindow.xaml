@@ -23,7 +23,7 @@
                Width="308"
                Height="59"
                FontFamily="Segoe UI Light"/>
-        <TextBox IsEnabled="{Binding CanModify}"
+        <!-- <TextBox IsEnabled="{Binding CanModify}"
                  Text="{Binding additionalAPIKey, Mode=TwoWay, UpdateSourceTrigger=PropertyChanged}"
                  Controls:TextBoxHelper.Watermark="Another API Key (Optional)"
                  Controls:TextBoxHelper.ClearTextButton="True"
@@ -39,10 +39,12 @@
                     <i:InvokeCommandAction Command="{Binding OnTextChanged}"/>
                 </i:EventTrigger>
             </i:Interaction.Triggers>
-        </TextBox>
+        </TextBox>-->
+
+        <!-- put top to 160 if additional api keys uncommented -->
         <CheckBox IsEnabled="{Binding CanModify}"
                   IsChecked="{Binding IsLimitedTo150}"
-                  Margin="40,160,0,0"
+                  Margin="40,90,0,0"
                   VerticalAlignment="Top"
                   HorizontalAlignment="Left"
                   VerticalContentAlignment="Center"
