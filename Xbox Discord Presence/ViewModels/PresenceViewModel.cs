@@ -307,11 +307,11 @@ namespace Xbox_Discord_Presence.ViewModels
         {
             if (!IsDisposing)
             {
-                mainLogger.Debug("IsLimitedWorking?? " + _userStore.User.IsLimitedTo150.ToString());
+                // MessageBox.Show("IsLimitedWorking?? " + _userStore.User.IsLimitedTo150.ToString() + _userStore.User.additionalAPIKey.ToString(), "DEBUG_CM");
                 await Task.Delay(1000);
                 AppStatus = "Connecting to Discord...";
                 mainLogger.Debug("Connecting to Discord...");
-                Client = new DiscordRpcClient("936699316960120953");
+                Client = new DiscordRpcClient("");
                 Client.Initialize();
                 Client.OnReady += OnDiscordConnectionReady;
                 Client.OnConnectionFailed += OnDiscordConnectionFailed;
@@ -986,6 +986,9 @@ namespace Xbox_Discord_Presence.ViewModels
             using HttpClient client = new();
             client.DefaultRequestHeaders.Add("X-Authorization", APIKey);
             string result = "";
+            bool triedAdditionalKey = false;
+
+        retry:
             try
             {
                 result = await client.GetStringAsync("https://xbl.io/api/v2/friends/search/" + Gamertag);
@@ -993,13 +996,20 @@ namespace Xbox_Discord_Presence.ViewModels
             catch (Exception e)
             {
                 mainLogger.Fatal("Handled exception occurred! Happened while searching accounts (" + Gamertag + ") ", e);
+                if (!triedAdditionalKey && !string.IsNullOrWhiteSpace(_userStore.User.additionalAPIKey))
+                {
+                    triedAdditionalKey = true;
+                    client.DefaultRequestHeaders.Remove("X-Authorization");
+                    client.DefaultRequestHeaders.Add("X-Authorization", _userStore.User.additionalAPIKey);
+                    goto retry;
+                }
+
                 if (e is NullReferenceException)
                 {
                     Debug.WriteLine(e.Message);
                 }
-                else if (e is HttpRequestException)
+                else if (e is HttpRequestException httpRequestException)
                 {
-                    HttpRequestException httpRequestException = (HttpRequestException)e;
                     if (httpRequestException.StatusCode == System.Net.HttpStatusCode.NotFound)
                     {
                         Dialog dialog = new()
@@ -1059,9 +1069,13 @@ namespace Xbox_Discord_Presence.ViewModels
         {
             Presence xboxPresence = new();
             using HttpClient client = new();
+            client.DefaultRequestHeaders.Add("X-Authorization", APIKey);
+            bool triedAdditionalKey = false;
+            string result = "";
+
+        retry:
             try
             {
-                client.DefaultRequestHeaders.Add("X-Authorization", APIKey);
                 if (_userStore.User.Language == "Spanish")
                 {
                     client.DefaultRequestHeaders.Add("Accept-Language", "es-AR");
@@ -1070,7 +1084,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 {
                     client.DefaultRequestHeaders.Add("Accept-Language", "en-US");
                 }
-                string result = await client.GetStringAsync("https://xbl.io/api/v2/" + accounts.ProfileUsers[0].Id + "/presence");
+                result = await client.GetStringAsync("https://xbl.io/api/v2/" + accounts.ProfileUsers[0].Id + "/presence");
                 result = result.Substring(1, result.Length - 2);
                 xboxPresence = JsonConvert.DeserializeObject<Presence>(result);
 
@@ -1079,6 +1093,13 @@ namespace Xbox_Discord_Presence.ViewModels
             catch (Exception e)
             {
                 mainLogger.Fatal("Handled exception occurred! Happened while getting presence from account (" + Gamertag + ") ", e);
+                if (!triedAdditionalKey && !string.IsNullOrWhiteSpace(_userStore.User.additionalAPIKey))
+                {
+                    triedAdditionalKey = true;
+                    client.DefaultRequestHeaders.Remove("X-Authorization");
+                    client.DefaultRequestHeaders.Add("X-Authorization", _userStore.User.additionalAPIKey);
+                    goto retry;
+                }
                 if (e is NullReferenceException)
                 {
                     Debug.WriteLine(e.Message);

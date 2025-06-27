@@ -64,6 +64,8 @@ namespace Xbox_Discord_Presence.ViewModels
                 if (additionalapiKey != value)
                 {
                     additionalapiKey = value;
+                    if (_userStore?.User != null)
+                        _userStore.User.additionalAPIKey = value;
                     OnPropertyChanged();
                 }
             }
@@ -238,6 +240,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 IsLimitedTo150 = IsLimitedTo150,
                 IsUsingSteamGridDB = IsUsingSteamGridDB,
                 Language = SelectedLanguage,
+                additionalAPIKey = additionalAPIKey,
                 IsUsingImagesAPI = IsUsingImagesAPI
             };
             await Task.Delay(1500);
