@@ -28,7 +28,7 @@
 ## To-Do list
 - [ ] Show Xbox Live party
 - [ ] Multi-language Rich Presence
-- [ ] Add multiple API keys support
+- [x] Add multiple API keys support
 - [x] GUI App
 - [x] Database for games
 - [x] Cool animations and effects

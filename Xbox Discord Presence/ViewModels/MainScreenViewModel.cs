@@ -14,6 +14,7 @@ using MahApps.Metro.Controls.Dialogs;
 using Xbox_Discord_Presence.Views;
 using Xbox_Discord_Presence.Stores;
 using Xbox_Discord_Presence.Helpers;
+using System.IO;
 
 namespace Xbox_Discord_Presence.ViewModels
 {
@@ -71,6 +72,7 @@ namespace Xbox_Discord_Presence.ViewModels
             }
         }
 
+
         private bool isLimitedTo150;
         public bool IsLimitedTo150
         {
@@ -81,6 +83,24 @@ namespace Xbox_Discord_Presence.ViewModels
                 {
                     isLimitedTo150 = value;
                     OnPropertyChanged();
+                }
+            }
+        }
+
+        private bool startOnStartup;
+        public bool StartOnStartup
+        {
+            get => startOnStartup;
+            set
+            {
+                if (startOnStartup != value)
+                {
+                    startOnStartup = value;
+                    OnPropertyChanged();
+                    if (startOnStartup)
+                        Xbox_Discord_Presence.Helpers.StartupHelper.AddAppToStartup();
+                    else
+                        Xbox_Discord_Presence.Helpers.StartupHelper.RemoveAppFromStartup();
                 }
             }
         }
@@ -207,7 +227,9 @@ namespace Xbox_Discord_Presence.ViewModels
         private void OpenAdditionalOptions()
         {
             if (_userStore?.User != null)
+            {
                 IsLimitedTo150 = _userStore.User.IsLimitedTo150;
+            }
             var window = new Xbox_Discord_Presence.Views.AdditionalOptionsWindow(this);
             window.ShowDialog();
         }

@@ -17,5 +17,6 @@ namespace Xbox_Discord_Presence.Models
         public string Language { get; set; }
         public long Device { get; set; }
         public string additionalAPIKey { get; set; }
+        public bool StartOnStartup { get; set; }
     }
 }

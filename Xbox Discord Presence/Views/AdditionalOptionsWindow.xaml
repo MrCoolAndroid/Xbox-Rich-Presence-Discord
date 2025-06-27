@@ -41,6 +41,7 @@
             </i:Interaction.Triggers>
         </TextBox>
 
+        <!-- keep each checkbox top a 30px distance -->
         <CheckBox IsEnabled="{Binding CanModify}"
                   IsChecked="{Binding IsLimitedTo150}"
                   Margin="40,160,0,0"
@@ -51,6 +52,21 @@
             <TextBlock TextWrapping="Wrap"
                        FontFamily="Segoe UI Light"
                        Text="Limit requests to 150/hour"
+                       FontSize="14"
+                       Width="200"
+                       VerticalAlignment="Center"/>
+        </CheckBox>
+        <CheckBox x:Name="StartOnStartupCheckBox"
+                  IsEnabled="{Binding CanModify}"
+                  IsChecked="{Binding StartOnStartup}"
+                  Margin="40,190,0,0"
+                  VerticalAlignment="Top"
+                  HorizontalAlignment="Left"
+                  VerticalContentAlignment="Center"
+                  Height="44">
+            <TextBlock TextWrapping="Wrap"
+                       FontFamily="Segoe UI Light"
+                       Text="Start on Windows startup"
                        FontSize="14"
                        Width="200"
                        VerticalAlignment="Center"/>
