@@ -168,17 +168,18 @@ namespace Xbox_Discord_Presence.ViewModels
             _settingsHelper = settingsHelper;
             Gamertag = UserConfiguration.Default.Gamertag;
             APIKey = UserConfiguration.Default.API;
-            if (UserConfiguration.Default.UseSettings)
-            {
-                Gamertag = _settingsHelper.Settings.Gamertag;
-                APIKey = _settingsHelper.Settings.OXBLAPI;
-                SelectedLanguage = _settingsHelper.Settings.Language;
-                IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
-                IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
-                IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
-            }
             AvailableLanguages.Add("Spanish");
             AvailableLanguages.Add("English");
+            SelectedLanguage = "English";
+            if (UserConfiguration.Default.UseSettings)
+            {
+            Gamertag = _settingsHelper.Settings.Gamertag;
+            APIKey = _settingsHelper.Settings.OXBLAPI;
+            SelectedLanguage = _settingsHelper.Settings.Language ?? "English";
+            IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
+            IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
+            IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
+            }
             StartCommand = new RelayCommand(BeginProcess, CanExecuteStart);
             OnTextChanged = new RelayCommand(TextChanged);
             _themeStore.ChangeColor("null");

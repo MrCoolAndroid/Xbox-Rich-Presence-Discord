@@ -42,17 +42,17 @@
         <CheckBox IsEnabled="{Binding CanModify}" IsChecked="{Binding IsLimitedTo150}" Margin="207,282,10,228">
             <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" Text="Limit requests to 150/hour" FontSize="14" Width="119" Height="44"/>
         </CheckBox>
-        <GroupBox Header="Images Source" Margin="105,336,105,84">
-            <StackPanel Width="150" HorizontalAlignment="Left">
-                <RadioButton HorizontalAlignment="Left" Width="20" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingSteamGridDB}">
-                    <Label FontFamily="Segoe UI Light" Content="SteamGridDB" FontSize="14"/>
-                </RadioButton>
-                <RadioButton HorizontalAlignment="Left" Width="20" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingImagesAPI}">
-                    <Label FontFamily="Segoe UI Light" Content="API pictures" FontSize="14"/>
-                </RadioButton>
-                <RadioButton HorizontalAlignment="Left" Width="130" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="True">
-                    <Label FontFamily="Segoe UI Light" Content="Games List.json" FontSize="14"/>
-                </RadioButton>
+        <GroupBox Header="Images Source" Margin="46,336,46,84" Width="268" HorizontalAlignment="Center">
+            <StackPanel Width="268" HorizontalAlignment="Stretch">
+            <RadioButton HorizontalAlignment="Stretch" Width="268" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingSteamGridDB}">
+                <Label FontFamily="Segoe UI Light" Content="SteamGridDB" FontSize="14"/>
+            </RadioButton>
+            <RadioButton HorizontalAlignment="Stretch" Width="268" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="True">
+                <Label FontFamily="Segoe UI Light" Content="API pictures" FontSize="14"/>
+            </RadioButton>
+            <RadioButton HorizontalAlignment="Stretch" Width="268" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingGamesList}">
+                <Label FontFamily="Segoe UI Light" Content="Games List.json" FontSize="14"/>
+            </RadioButton>
             </StackPanel>
         </GroupBox>
         <Controls:MetroProgressBar
