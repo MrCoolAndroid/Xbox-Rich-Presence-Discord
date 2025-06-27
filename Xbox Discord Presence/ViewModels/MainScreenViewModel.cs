@@ -27,8 +27,8 @@ namespace Xbox_Discord_Presence.ViewModels
         private readonly ThemeStore _themeStore;
         private readonly SettingsHelper _settingsHelper;
 
-        private string? gamertag;
-        public string? Gamertag
+        private string gamertag;
+        public string Gamertag
         {
             get
             {
@@ -41,8 +41,8 @@ namespace Xbox_Discord_Presence.ViewModels
             }
         }
 
-        private string? apiKey;
-        public string? APIKey
+        private string apiKey;
+        public string APIKey
         {
             get
             {
@@ -155,6 +155,7 @@ namespace Xbox_Discord_Presence.ViewModels
 
         public RelayCommand StartCommand { get; set; }
         public RelayCommand OnTextChanged { get; set; }
+        public RelayCommand OpenAdditionalOptionsCommand { get; set; }
         private bool IsLoading { get; set; }
 
         public MainScreenViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore, SettingsHelper settingsHelper)
@@ -173,17 +174,24 @@ namespace Xbox_Discord_Presence.ViewModels
             SelectedLanguage = "English";
             if (UserConfiguration.Default.UseSettings)
             {
-            Gamertag = _settingsHelper.Settings.Gamertag;
-            APIKey = _settingsHelper.Settings.OXBLAPI;
-            SelectedLanguage = _settingsHelper.Settings.Language ?? "English";
-            IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
-            IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
-            IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
+                Gamertag = _settingsHelper.Settings.Gamertag;
+                APIKey = _settingsHelper.Settings.OXBLAPI;
+                SelectedLanguage = _settingsHelper.Settings.Language ?? "English";
+                IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
+                IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
+                IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
             }
             StartCommand = new RelayCommand(BeginProcess, CanExecuteStart);
             OnTextChanged = new RelayCommand(TextChanged);
+            OpenAdditionalOptionsCommand = new RelayCommand(OpenAdditionalOptions);
             _themeStore.ChangeColor("null");
             _settingsHelper.StartupRequested += OnStartupRequested;
+        }
+
+        private void OpenAdditionalOptions()
+        {
+            var window = new Xbox_Discord_Presence.Views.AdditionalOptionsWindow();
+            window.ShowDialog();
         }
 
         private void OnStartupRequested()

@@ -37,11 +37,17 @@
         <Button Command="{Binding StartCommand}" Style="{DynamicResource MahApps.Styles.Button.Square.Accent}" HorizontalAlignment="Center" Margin="0,472,0,0" VerticalAlignment="Top" Width="104" Height="64">
             <iconPacks:PackIconModern Height="40" Width="40" Kind="ArrowRight"/>
         </Button>
-        <Label Content="Rich Presence Language:" Width="150" Height="30" Margin="52,261,158,259"/>
-        <Controls:SplitButton Height="30" Width="150" ItemsSource="{Binding AvailableLanguages}" SelectedItem="{Binding SelectedLanguage}" SelectedIndex="1" Margin="46,287,164,233"/>
-        <CheckBox IsEnabled="{Binding CanModify}" IsChecked="{Binding IsLimitedTo150}" Margin="207,282,10,228">
-            <TextBlock TextWrapping="Wrap" FontFamily="Segoe UI Light" Text="Limit requests to 150/hour" FontSize="14" Width="119" Height="44"/>
-        </CheckBox>
+        <Label Content="Rich Presence Language:" 
+            HorizontalAlignment="Center" 
+            VerticalAlignment="Top"
+            Width="220" Height="30" 
+            Margin="0,257,50,0"
+            FontSize="16"
+            HorizontalContentAlignment="Center"/>
+        <Controls:SplitButton Height="30" Width="180" ItemsSource="{Binding AvailableLanguages}" SelectedItem="{Binding SelectedLanguage}" SelectedIndex="1" Margin="22,287,80,233"/>
+        <Button Width="44" Height="44" Margin="207,282,10,228" Style="{DynamicResource MahApps.Styles.Button.Square}" Command="{Binding OpenAdditionalOptionsCommand}">
+            <iconPacks:PackIconModern Kind="Settings" Width="28" Height="28"/>
+        </Button>
         <GroupBox Header="Images Source" Margin="46,336,46,84" Width="268" HorizontalAlignment="Center">
             <StackPanel Width="268" HorizontalAlignment="Stretch">
             <RadioButton HorizontalAlignment="Stretch" Width="268" Style="{StaticResource MahApps.Styles.RadioButton.Win10}" GroupName="Images" IsEnabled="{Binding CanModify}" IsChecked="{Binding IsUsingSteamGridDB}">
