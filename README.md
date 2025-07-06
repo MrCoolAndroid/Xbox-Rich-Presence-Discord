@@ -404,6 +404,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Burnout Paradise | [Image link](https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg) | ✔ |
 | Burnout Paradise Remastered | [Image link](https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png) | ✔ |
 | Celeste | [Image link](https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png) | ✔ |
+| American Wasteland | [Image link](https://cdn2.steamgriddb.com/grid/c15cef593fc97feff93d2a031d2a9ad4.jpg) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
