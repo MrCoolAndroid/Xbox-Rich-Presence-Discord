@@ -129,6 +129,20 @@
           "type": 1
         },
         {
+          "titlename": "Fear the Spotlight",
+          "titleimage": "Fear_the_Spotlight",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d2389f8143052071ad0be3167e9ab534.png",
+          "titlebackground": "https://imageio.forbes.com/specials-images/imageserve/6718044ec2585f9f03bc5fca/0x0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Crow Country",
+          "titleimage": "Crow_Country",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/be3fee4b6e8d8032bc7b4268a4bc0900.png",
+          "titlebackground": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/crow-country-logo-banner.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Project Gotham Racing 4",
           "titleimage": "Project Gotham Racing 4",
           "titleicon": "https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
