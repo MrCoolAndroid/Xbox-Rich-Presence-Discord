@@ -705,6 +705,13 @@
           "type": 1
         },
         {
+          "titlename": "Zenless Zone Zero",
+          "titleimage": "Zenless_Zone_Zero",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9a312e8ee540ea13780981af9ee65646.png",
+          "titlebackground": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/07/zzz-key-visual-hero.jpg",
+          "type": 1
+        },
+        {
           "titlename": "COD: Black Ops II",
           "titleimage": "cod_bo2",
           "titleicon": "http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg",
