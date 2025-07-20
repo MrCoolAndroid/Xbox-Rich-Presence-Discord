@@ -69,7 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -88,6 +87,8 @@ If you're not seeing any image while playing your game or you need help with any
 | SOULCALIBUR II HD ONLINE | [Image link](https://cdn2.steamgriddb.com/grid/402e4532ecca189289e1290d7e2848fa.png) | ✔ |
 | SOULCALIBUR V | [Image link](https://cdn2.steamgriddb.com/grid/bf2ebef98954dfa2dce40f67adfbb86a.png) | ✔ |
 | Crackdown | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown-sq3-1645908376125.jpg) | ✔ |
+| Fear the Spotlight | [Image link](https://cdn2.steamgriddb.com/grid/d2389f8143052071ad0be3167e9ab534.png) | ✔ |
+| Crow Country | [Image link](https://cdn2.steamgriddb.com/grid/be3fee4b6e8d8032bc7b4268a4bc0900.png) | ✔ |
 | Project Gotham Racing 4 | [Image link](https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg) | ✔ |
 | Black Myth: Wukong | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202405/2117/bd406f42e9352fdb398efcf21a4ffe575b2306ac40089d21.png) | ✔ |
 | Transformers Devastation | [Image link](https://cdn2.steamgriddb.com/grid/119f6e15c52017fe153a4350ba3413ce.jpg) | ✔ |
@@ -167,6 +168,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Microsoft Edge | [Image link](https://cdn2.steamgriddb.com/grid/a3103498620c4e279cdbed83fb95b728.png) | ✔ |
 | VALORANT | [Image link](https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png) | ✔ |
 | Genshin Impact | [Image link](https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png) | ✔ |
+| Zenless Zone Zero | [Image link](https://cdn2.steamgriddb.com/grid/9a312e8ee540ea13780981af9ee65646.png) | ✔ |
 | COD: Black Ops II | [Image link](http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg) | ✔ |
 | Call of Duty: Black Ops | [Image link](https://assets-prd.ignimgs.com/2021/12/30/call-of-duty-black-ops-1-button-1640898530662.jpg) | ✔ |
 | Battlefield 4 | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png) | ✔ |
@@ -363,7 +365,8 @@ If you're not seeing any image while playing your game or you need help with any
 | LEGO Indiana Jones | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/38358bac3cc2848d2dfb10d268e7e252.png) | ✔ |
 | LEGO Batman | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/1117aae5998932ffa2f9fdda31dbcd2d.png) | ✔ |
 | DAYTONA USA | [Image link](https://media.vgm.io/releases/44/11744/11744-1596288334.jpg) | ✔ |
-| The Texas Chain Saw Massacre | [Image link](https://upload.anarchyisland.gg/raw/TCM%20Icon.png?compress=false) | ✔ |
+| The Texas Chain Saw Massacre | [Image link](https://upload.anarchyisland.gg/raw/TCM%20Icon.png) | ✔ |
+| The Texas Chain Saw Massacre - PC Edition | [Image link](https://upload.anarchyisland.gg/raw/TCM%20Icon.png) | ✔ |
 | Crackdown 2 | [Image link](https://assets-prd.ignimgs.com/2022/02/26/crackdown2-sq-1645908598382.jpg) | ✔ |
 | Home | [Image link](one_dashboard) | ✔ |
 | FIFA 23 [XB1] | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
@@ -405,6 +408,15 @@ If you're not seeing any image while playing your game or you need help with any
 | Burnout Paradise Remastered | [Image link](https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png) | ✔ |
 | Celeste | [Image link](https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png) | ✔ |
 | American Wasteland | [Image link](https://cdn2.steamgriddb.com/grid/c15cef593fc97feff93d2a031d2a9ad4.jpg) | ✔ |
+| Tony Hawk's PS HD | [Image link](https://cdn2.steamgriddb.com/grid/a61c36dfa0efd6df3a443c25d1f5927f.png) | ✔ |
+| Tony Hawk's Pro Skater 5 | [Image link](https://cdn2.steamgriddb.com/icon/2b5d9ed398db1dee1d00214aa5a41ef0.png) | ✔ |
+| TH Proving Ground | [Image link](https://cdn2.steamgriddb.com/icon/0d124848a0ea943f34d3a85bf3599943/24/1024x1024.png) | ✔ |
+| Shaun White Skateboarding | [Image link](https://cdn2.steamgriddb.com/grid/c7b9d4c31eb9c2bed48346335c307187.jpg) | ✔ |
+| SSX | [Image link](https://cdn2.steamgriddb.com/grid/8bfdf48ecf1a8f511d6446165b15451b.jpg) | ✔ |
+| South Park | [Image link](https://cdn2.steamgriddb.com/grid/e65e26a9a28ef7478d953cbec82be1b0.png) | ✔ |
+| South Park: Tenorman's Revenge | [Image link](https://cdn2.steamgriddb.com/grid/a22997b93b15692ee45f7a9fb6778c8d.jpg) | ✔ |
+| Who Wants To Be A Millionaire? Special Editions | [Image link](https://cdn2.steamgriddb.com/grid/eef1c1ad3d1c737b3c2a89ecd5d22916.png) | ✔ |
+| Jeopardy! | [Image link](https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
