@@ -129,6 +129,20 @@
           "type": 1
         },
         {
+          "titlename": "Fear the Spotlight",
+          "titleimage": "Fear_the_Spotlight",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d2389f8143052071ad0be3167e9ab534.png",
+          "titlebackground": "https://imageio.forbes.com/specials-images/imageserve/6718044ec2585f9f03bc5fca/0x0.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Crow Country",
+          "titleimage": "Crow_Country",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/be3fee4b6e8d8032bc7b4268a4bc0900.png",
+          "titlebackground": "https://static1.srcdn.com/wordpress/wp-content/uploads/2024/05/crow-country-logo-banner.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Project Gotham Racing 4",
           "titleimage": "Project Gotham Racing 4",
           "titleicon": "https://cdn2.steamgriddb.com/thumb/7c57d0b5b9fab29ba9f3e317cc71033f.jpg",
@@ -688,6 +702,13 @@
           "titleimage": "Genshin_Impact",
           "titleicon": "https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png",
           "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202408/2010/1a458abb1c2b417a17546fc2561b5a6fdb4ca61a8fba1695.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Zenless Zone Zero",
+          "titleimage": "Zenless_Zone_Zero",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9a312e8ee540ea13780981af9ee65646.png",
+          "titlebackground": "https://static1.anpoimages.com/wordpress/wp-content/uploads/2024/07/zzz-key-visual-hero.jpg",
           "type": 1
         },
         {
@@ -2065,14 +2086,14 @@
         {
           "titlename": "The Texas Chain Saw Massacre",
           "titleimage": "The Texas Chain Saw Massacre",
-          "titleicon": "https://upload.anarchyisland.gg/raw/TCM%20Icon.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/TCM%20Icon.png",
           "titlebackground": "https://upload.anarchyisland.gg/raw/TCM%20Background.png?compress=false",
           "type": 1
         },
         {
           "titlename": "The Texas Chain Saw Massacre - PC Edition",
           "titleimage": "The Texas Chain Saw Massacre - PC Edition",
-          "titleicon": "https://upload.anarchyisland.gg/raw/LqzUi1.png?compress=false",
+          "titleicon": "https://upload.anarchyisland.gg/raw/TCM%20Icon.png",
           "titlebackground": "https://upload.anarchyisland.gg/raw/UQVd8Y.png?compress=false",
           "type": 1
         },
@@ -2354,6 +2375,76 @@
           "titleimage": "Celeste",
           "titleicon": "https://image.api.playstation.com/cdn/UP2120/CUSA11302_00/qHx7zoFGNn6BUHUOk2jSfBck2Zzbjulw.png",
           "titlebackground": "https://i.redd.it/all-most-of-the-backgrounds-in-celeste-edited-together-v0-0jzdpvth2uka1.jpg?width=792&format=pjpg&auto=webp&s=8998957827df6fbe7a6efc9229306cfd53a76b4a",
+          "type": 1
+        },
+        {
+          "titlename": "American Wasteland",
+          "titleimage": "Tony Hawk's American Wasteland",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c15cef593fc97feff93d2a031d2a9ad4.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/03c6b06952c750899bb03d998e631860.png",
+          "type": 1
+        },
+        {
+          "titlename": "Tony Hawk's PS HD",
+          "titleimage": "Tony Hawk's Pro Skater HD",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a61c36dfa0efd6df3a443c25d1f5927f.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/38913e1d6a7b94cb0f55994f679f5956.png",
+          "type": 1
+        },
+        {
+          "titlename": "Tony Hawk's Pro Skater 5",
+          "titleimage": "Tony Hawk's Pro Skater 5",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/2b5d9ed398db1dee1d00214aa5a41ef0.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/1aad6b93bca4217b9889a246c3cb7a30.png",
+          "type": 1
+        },
+        {
+          "titlename": "TH Proving Ground",
+          "titleimage": "Tony Hawk's Proving Ground",
+          "titleicon": "https://cdn2.steamgriddb.com/icon/0d124848a0ea943f34d3a85bf3599943/24/1024x1024.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/38abae704fb4cdba00a26baa58cb4443.png",
+          "type": 1
+        },
+        {
+          "titlename": "Shaun White Skateboarding",
+          "titleimage": "Shaun White Skateboarding",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c7b9d4c31eb9c2bed48346335c307187.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/61d06545a9b5a3c1a8993909f9ca65e5.png",
+          "type": 1
+        },
+        {
+          "titlename": "SSX",
+          "titleimage": "SSX",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8bfdf48ecf1a8f511d6446165b15451b.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/ac9409d10ea7b978d52b9e977ef787cc.png",
+          "type": 1
+        },
+        {
+          "titlename": "South Park",
+          "titleimage": "South Park Let's Go Tower Defense Play!",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e65e26a9a28ef7478d953cbec82be1b0.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/e6fb1ad00af2ae2b6f311b93065646b1.png",
+          "type": 1
+        },
+        {
+          "titlename": "South Park: Tenorman's Revenge",
+          "titleimage": "South Park: Tenorman's Revenge",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a22997b93b15692ee45f7a9fb6778c8d.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/e6fb1ad00af2ae2b6f311b93065646b1.png",
+          "type": 1
+        },
+        {
+          "titlename": "Who Wants To Be A Millionaire? Special Editions",
+          "titleimage": "Who Wants To Be A Millionaire? Special Editions",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eef1c1ad3d1c737b3c2a89ecd5d22916.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/172188c0dacb487075bdc0c9afd757b2.png",
+          "type": 1
+        },
+        {
+          "titlename": "Jeopardy!",
+          "titleimage": "Jeopardy!",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/3ff0d6192828e607934e37ddeab09c84.jpg",
           "type": 1
         }
       ]
