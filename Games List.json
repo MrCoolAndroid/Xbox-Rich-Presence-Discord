@@ -2446,6 +2446,20 @@
           "titleicon": "https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg",
           "titlebackground": "https://cdn2.steamgriddb.com/hero/3ff0d6192828e607934e37ddeab09c84.jpg",
           "type": 1
+        },
+        {
+          "titlename": "Skate 2",
+          "titleimage": "skate2",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/skate-2-button-1641599740122.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/717RQMweaAL._AC_UF894,1000_QL80_.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "skate. (2007)",
+          "titleimage": "skate1",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/01/07/skate-1-button-1641599735622.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.27751.66765638016841945.44eb6927-d62a-4346-a97d-4d1d0881b107.1d18ea8a-3fb7-4968-b240-411a3fc2fd37?q=90&w=480&h=270",
+          "type": 1
         }
       ]
     }
