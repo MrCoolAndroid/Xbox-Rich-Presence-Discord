@@ -3,6 +3,13 @@
     {
       "Games": [
         {
+          "titlename": "Coral Island",
+          "titleimage": "Coral Island",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202310/3019/f16271f72440972a1276834dfc20524a569c19911d1f2a28.png",
+          "type": 1
+        },
+        {
           "titlename": "DRAGON BALL: Sparking! ZERO",
           "titleimage": "DRAGON BALL: Sparking! ZERO",
           "titleicon": "https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg",
