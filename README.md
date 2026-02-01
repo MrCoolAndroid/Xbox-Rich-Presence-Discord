@@ -71,7 +71,7 @@ If you're not seeing any image while playing your game or you need help with any
 | --- | --- | --- |
 | Halo: Reach | [Image link](http://pm1.narvii.com/6423/0ef2284f8759f9ccb48260f5f0acdfbb5bac7266_00.jpg) | ❌ |
 | Minecraft: Xbox 360 Edition | [Image link](https://pm1.narvii.com/7967/cf7f89630b5ab843207ed4ae1b85bc49769fb02er1-1280-1280v2_hq.jpg) | ❌ |
-| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
+| Diablo III | [Image link](https://www.zastavki.com/pictures/1024x1024/2013/_Diablo_III__ever_seen_a_devil_045077_31.jpg) | ❌ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
 | Test Drive Unlimited 2 | [Image link](https://cdn2.steamgriddb.com/grid/9ed3fca2a9d9d1ddc50efedc993d14ae.jpg) | ✔ |
@@ -235,6 +235,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
+| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ✔ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ✔ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
@@ -243,7 +244,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Dead Space (2008) | [Image link](https://cdn2.steamgriddb.com/grid/eeb96dcdd636b95cd52a322e7c9f48fa.png) | ✔ |
 | Dead Space | [Image link](https://cdn2.steamgriddb.com/grid/f01c34449487c0bd1ea4a8625fffa09c.jpg) | ✔ |
 | South of Midnight | [Image link](https://cdn2.steamgriddb.com/grid/1e443cc2708fc151dbf3763a8157336b.jpg) | ✔ |
-| Diablo III | [Image link](https://www.zastavki.com/pictures/1024x1024/2013/_Diablo_III__ever_seen_a_devil_045077_31.jpg) | ✔ |
 | Peggle 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/18/peggle2-1647580639839.jpg) | ✔ |
 | Trials Fusion | [Image link](https://assets-prd.ignimgs.com/2022/03/13/trialsfusion-1647197679497.jpg) | ✔ |
 | A Plague Tale: Requiem | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202106/1717/xIQOO3Mo5YMnIm81qkH3y5kJ.png) | ✔ |
