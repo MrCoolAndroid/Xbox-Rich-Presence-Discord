@@ -69,7 +69,10 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ❌ |
+| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
+| SUPER STREETFIGHTER IV ARCADE EDITION | [Image link](https://images.stopgame.ru/games/logos/12365/super_street_fighter_4_arcade_edition-square.jpg) | ❌ |
+| Need for Speed Carbon | [Image link](https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-square_1.jpg) | ❌ |
+| NFS ProStreet | [Image link](https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-square.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -227,6 +230,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
+| Modern Warfare 3 | [Image link](https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg) | ✔ |
 | DanceDanceRevolution | [Image link](https://cdn2.steamgriddb.com/grid/1f53ae4e0c9d5632959175b27e50cf56.jpg) | ✔ |
 | DDR Universe | [Image link](https://cdn2.steamgriddb.com/grid/8b6624e3f25e84cd1fe8c3a5b4e13459.png) | ✔ |
 | DDR Universe 2 | [Image link](https://cdn2.steamgriddb.com/grid/ee18b02f6636099fe2476e6771236e64.png) | ✔ |
@@ -235,7 +239,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
-| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ✔ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ✔ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
@@ -306,7 +309,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Saints Row IV: Re-Elected | [Image link](https://image.api.playstation.com/cdn/UP2047/CUSA01164_00/nhM6vndQ0hzEwA6FKh99Kjq9ILNaQ8tm.png) | ✔ |
 | Saints Row: Gat out of Hell | [Image link](https://assets-prd.ignimgs.com/2022/01/07/saints-row-iv-gat-out-of-hell-button-1641598025730.jpg) | ✔ |
 | ULTRA STREETFIGHTER IV | [Image link](https://image.api.playstation.com/cdn/UP9012/CUSA01846_00/bfVn55KvgbaZp7GKHm6VkNoq6EiHqFjF.png) | ✔ |
-| SUPER STREETFIGHTER IV ARCADE EDITION | [Image link](https://images.stopgame.ru/games/logos/12365/super_street_fighter_4_arcade_edition-square.jpg) | ✔ |
 | STREET FIGHTER IV | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/dd32d86c8120238307307260fe0d81bd.png) | ✔ |
 | STREETFIGHTER X TEKKEN | [Image link](https://cdn2.steamgriddb.com/grid/68149192ab2ce5cd375a6e0e0c06f2dc.png) | ✔ |
 | Street Fighter 6 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202211/1407/XFU0aPBvtm3W2od1ZvhByAOv.png) | ✔ |
@@ -402,8 +404,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Need for Speed Hot Pursuit | [Image link](https://cdn2.steamgriddb.com/grid/7984e391f2529b3790a3801c0591897f.png) | ✔ |
 | Need for Speed Rivals | [Image link](https://cdn2.steamgriddb.com/grid/2231c93437ad10b18353e3c70e895cd4.jpg) | ✔ |
 | NFS Most Wanted | [Image link](https://cdn2.steamgriddb.com/grid/2b56ecffc94803423f5dfc399101a180.png) | ✔ |
-| Need for Speed Carbon | [Image link](https://images.stopgame.ru/games/logos/8065/need_for_speed_carbon-square_1.jpg) | ✔ |
-| NFS ProStreet | [Image link](https://images.stopgame.ru/games/logos/8833/need_for_speed_prostreet-square.jpg) | ✔ |
 | NEED FOR SPEED THE RUN | [Image link](https://cdn2.steamgriddb.com/grid/c62db977c9ae8c8bad323bc56353a3ed.png) | ✔ |
 | Burnout Paradise | [Image link](https://cdn2.steamgriddb.com/grid/09eae287126137014865d462cb820d98.jpg) | ✔ |
 | Burnout Paradise Remastered | [Image link](https://cdn2.steamgriddb.com/grid/e67a6a7b616b3c33870615f30f097beb.png) | ✔ |
@@ -420,6 +420,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Jeopardy! | [Image link](https://cdn2.steamgriddb.com/grid/a3492e47e126baedfeaf61c07f7503f7.jpg) | ✔ |
 | Skate 2 | [Image link](https://assets-prd.ignimgs.com/2022/01/07/skate-2-button-1641599740122.jpg) | ✔ |
 | skate. | [Image link](https://assets-prd.ignimgs.com/2022/01/07/skate-1-button-1641599735622.jpg) | ✔ |
+| Minecraft for Nintendo Switch | [Image link](https://cdn2.steamgriddb.com/grid/9713fc04477ccf52eb7e03f626985ec2.png) | ✔ |
 
 ### Symbols:
 ✔: Icon is working.
