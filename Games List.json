@@ -494,7 +494,14 @@
         },
         {
           "titlename": "Call of Duty: Black Ops Cold War",
-          "titleimage": "cod_bo_coldwar",
+          "titleimage": "cod_bo_coldwar_XB1",
+          "titleicon": "https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg",
+          "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Black Ops Cold War - Xbox Series X|S",
+          "titleimage": "cod_bo_coldwar_XS",
           "titleicon": "https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg",
           "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png",
           "type": 1
@@ -1014,7 +1021,14 @@
         },
         {
           "titlename": "Call of Duty: Vanguard",
-          "titleimage": "cod_vanguard",
+          "titleimage": "cod_vanguard_XB1",
+          "titleicon": "https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg",
+          "titlebackground": "https://compass-ssl.xbox.com/assets/94/7a/947a2b8d-fcfc-4359-b0c8-a1c5fc278512.jpg?n=504723_GLP-Page-Hero-Cinemagraph-Poster-Image_1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Vanguard - Xbox Series X|S",
+          "titleimage": "cod_vanguard_XS",
           "titleicon": "https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg",
           "titlebackground": "https://compass-ssl.xbox.com/assets/94/7a/947a2b8d-fcfc-4359-b0c8-a1c5fc278512.jpg?n=504723_GLP-Page-Hero-Cinemagraph-Poster-Image_1084_1920x1080.jpg",
           "type": 1
@@ -2023,7 +2037,7 @@
         {
           "titlename": "Call of Duty",
           "titleimage": "Call_of_Duty_HQ",
-          "titleicon": "https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bfe91964d69828e6c0e95113b5b8f927.png",
           "titlebackground": "https://cdn2.steamgriddb.com/hero/191f1c1530d35545ad01573610117353.png",
           "type": 1
         },
