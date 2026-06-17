@@ -663,6 +663,34 @@
           "type": 2
         },
         {
+          "titlename": "Apple Music | Xbox",
+          "titleimage": "Apple_Music_Xbox",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d1d068475363651de875bb11c84fca3a.png",
+          "type": 3
+        },
+        {
+          "titlename": "Apple Music",
+          "titleimage": "Apple_Music",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d1d068475363651de875bb11c84fca3a.png",
+          "type": 3
+        },
+        {
+          "titlename": "Apple TV | Xbox",
+          "titleimage": "Apple_TV_Xbox",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/4c0cf2514d40a8198e3f23be70bf4303.png",
+          "type": 2
+        },
+        {
+          "titlename": "Apple TV",
+          "titleimage": "Apple_TV",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/4c0cf2514d40a8198e3f23be70bf4303.png",
+          "type": 2
+        },
+        {
           "titlename": "Crunchyroll",
           "titleimage": "Crunchyroll_Xbox",
           "titleicon": "https://assets-prd.ignimgs.com/2022/09/22/service-crunchyroll-1663819467267.jpg",
