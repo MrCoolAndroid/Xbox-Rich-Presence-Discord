@@ -1636,6 +1636,20 @@
           "type": 1
         },
         {
+          "titlename": "DEAD OR ALIVE 6",
+          "titleimage": "doa6_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8f722a6f8129944c85904130611bd1f4.jpg",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a285ecc7-d657-4509-b58f-912a120e841e/deuc6ux-8cec3034-68e7-4092-8f3f-60dded69e808.jpg/v1/fill/w_1920,h_1080,q_75,strp/dead_or_alive_6_wallpaper_by_panuwath2019_deuc6ux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2EyODVlY2M3LWQ2NTctNDUwOS1iNThmLTkxMmExMjBlODQxZVwvZGV1YzZ1eC04Y2VjMzAzNC02OGU3LTQwOTItOGYzZi02MGRkZWQ2OWU4MDguanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-6_vC-GBn2ezIPctalH-v91gh0jlIL6fwjparV8V5JE",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 6 Last Round",
+          "titleimage": "doa6_LR",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2618/885e371b422fb13d08411637c450864789fb42d9243bc760.png",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a285ecc7-d657-4509-b58f-912a120e841e/deuc6ux-8cec3034-68e7-4092-8f3f-60dded69e808.jpg/v1/fill/w_1920,h_1080,q_75,strp/dead_or_alive_6_wallpaper_by_panuwath2019_deuc6ux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2EyODVlY2M3LWQ2NTctNDUwOS1iNThmLTkxMmExMjBlODQxZVwvZGV1YzZ1eC04Y2VjMzAzNC02OGU3LTQwOTItOGYzZi02MGRkZWQ2OWU4MDguanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-6_vC-GBn2ezIPctalH-v91gh0jlIL6fwjparV8V5JE",
+          "type": 1
+        },
+        {
           "titlename": "Left 4 Dead",
           "titleimage": "L4D1",
           "titleicon": "https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png",
