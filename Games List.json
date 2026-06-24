@@ -1370,6 +1370,13 @@
           "type": 1
         },
         {
+          "titlename": "TEKKEN 8",
+          "titleimage": "TEKKEN_8",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0d2f3ecb750f115e8660110f09d63ce4.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d58bcc87e254088674e43d8e19c508d1.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Hydro Thunder",
           "titleimage": "Hydro_Thunder",
           "titleicon": "https://assets-prd.ignimgs.com/2022/06/18/hydrothunder-1655580743040.jpg",
