@@ -263,6 +263,7 @@ If you're not seeing any image while playing your game or you need help with any
 | TEKKEN TAG TOURNAMENT 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg) | ✔ |
 | TEKKEN 6 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cbcc379a81888055b068e7cd194d786.png) | ✔ |
 | Tekken 7 | [Image link](https://image.api.playstation.com/cdn/UP0700/CUSA05972_00/4yfeeKKfJdD5WzDQsoiM3xrcqPlpDLm7.png) | ✔ |
+| TEKKEN 8 | [Image link](https://cdn2.steamgriddb.com/grid/0d2f3ecb750f115e8660110f09d63ce4.png) | ✔ |
 | Hydro Thunder | [Image link](https://assets-prd.ignimgs.com/2022/06/18/hydrothunder-1655580743040.jpg) | ✔ |
 | NINJA GAIDEN | [Image link](https://cdn2.steamgriddb.com/grid/15647da261a82b53d8e4919d9b4b110b.png) | ✔ |
 | Ninja Gaiden Black | [Image link](https://cdn2.steamgriddb.com/grid/1cc7ea47a20322422b32cd3194eccd2e.png) | ✔ |
@@ -301,6 +302,9 @@ If you're not seeing any image while playing your game or you need help with any
 | DOA5 Last Round | [Image link](https://cdn2.steamgriddb.com/grid/8c133ffc5b43bd169de84a85e0b551ee.png) | ✔ |
 | DEAD OR ALIVE 5 Last Round: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png) | ✔ |
 | DEAD OR ALIVE 6: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA12152_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png) | ✔ |
+| DEAD OR ALIVE 6 | [Image link](https://cdn2.steamgriddb.com/grid/8f722a6f8129944c85904130611bd1f4.jpg) | ✔ |
+| DEAD OR ALIVE 6 Last Round | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202601/2618/885e371b422fb13d08411637c450864789fb42d9243bc760.png) | ✔ |
+| DEAD OR ALIVE 6 Last Round: Core Fighters | [Image link](https://cdn2.steamgriddb.com/grid/311d49a40545086c9c4f02782e5e84da.png) | ✔ |
 | Left 4 Dead | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png) | ✔ |
 | Left 4 Dead 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5ec59bc90d6605a2c1c6af6d997ea344.png) | ✔ |
 | The Orange Box | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718_1/re/1024x1024/qt/60/2525718_1.jpg) | ✔ |
