@@ -73,7 +73,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ❌ |
 | Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ❌ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ❌ |
-| DOOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -391,6 +390,7 @@ If you're not seeing any image while playing your game or you need help with any
 | DOOM | [Image link](https://acdn.mitiendanube.com/stores/002/602/523/products/whatsapp-image-2022-10-16-at-20-08-08-11-d909d35abb06f618f116709515330366-1024-1024.jpeg) | ✔ |
 | DOOM: The Dark Ages | [Image link](https://cdn2.steamgriddb.com/grid/e2fc8e236c46593be72c66ef8112bbc0.png) | ✔ |
 | DOOM II | [Image link](https://cdn2.steamgriddb.com/grid/b6857486cf71710a307c74f888b37ab6.png) | ✔ |
+| DOOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png) | ✔ |
 | DOOM 3 BFG Edition | [Image link](https://cdn2.steamgriddb.com/grid/0d185edda159e971fac84cbc8ff26cc7.png) | ✔ |
 | DOOM + DOOM II | [Image link](https://cdn2.steamgriddb.com/grid/ea25dc16884c274e677a006c93b13994.jpg) | ✔ |
 | Devil May Cry 5 | [Image link](https://assets1.ignimgs.com/2019/03/04/devil-may-cry-5---button-fin-1551739966394.jpg) | ✔ |
