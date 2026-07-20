@@ -70,7 +70,9 @@ If you're not seeing any image while playing your game or you need help with any
 | Game Title | Link | Status |
 | --- | --- | --- |
 | Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ❌ |
-| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ❌ |
+| Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ❌ |
+| Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ❌ |
+| NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -140,8 +142,9 @@ If you're not seeing any image while playing your game or you need help with any
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
 | Severed Steel | [Image link](https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg) | ✔ |
 | Call of Duty: Modern Warfare | [Image link](https://sm.ign.com/t/ign_latam/cover/c/call-of-du/call-of-duty-modern-warfare_6sub.1024.jpg) | ✔ |
-| Fortnite | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202412/2017/2bb1f425090006f8c5c3c3cab094809ccce8fa6f2531a8d6.png) | ✔ |
+| Fortnite | [Image link](https://cdn2.steamgriddb.com/grid/73541b5f932206b698207da5ff37dd9d.png) | ✔ |
 | Call of Duty: Black Ops Cold War | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
+| Call of Duty: Black Ops Cold War - Xbox Series X\|S | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
 | Battlefield Hardline | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png) | ✔ |
 | Halo: The Master Chief Collection | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/29b378b88c3798599f78f774efa6c521.jpg) | ✔ |
 | Back 4 Blood | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png) | ✔ |
@@ -157,11 +160,14 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: WaW | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
 | Call of Duty: World at War | [Image link](https://assets-prd.ignimgs.com/2022/03/28/codwaw-1648511549298.jpg) | ✔ |
 | Call of Duty: Black Ops 4 | [Image link](https://assets1.ignimgs.com/2018/10/10/call-of-duty-black-ops-4---button-fin-1539211957163.jpg) | ✔ |
-| Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ✔ |
 | YouTube | [Image link](https://upload.anarchyisland.gg/raw/Youtube%20Icon.png?compress=false) | ✔ |
 | Max | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hbo-max-1663819764492.jpg) | ✔ |
 | Blu-ray Player | [Image link](https://movies-b26f.kxcdn.com/wp-content/uploads/2023/03/blur-ray-disc-logo-large-bbb-5893a7b43df78caebcea02a0-1024x1024.jpg) | ✔ |
 | Spectrum TV | [Image link](https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg) | ✔ |
+| Apple Music \| Xbox | [Image link](https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png) | ✔ |
+| Apple Music | [Image link](https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png) | ✔ |
+| Apple TV \| Xbox | [Image link](https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png) | ✔ |
+| Apple TV | [Image link](https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png) | ✔ |
 | Crunchyroll | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-crunchyroll-1663819467267.jpg) | ✔ |
 | Twitch | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple116/v4/bc/bd/0b/bcbd0b7f-393a-e861-1540-c69794ad981a/TwitchAppIcon-0-1x_U007emarketing-0-7-0-0-85-220-0.png/1024x1024.jpg) | ✔ |
 | Hulu | [Image link](https://assets-prd.ignimgs.com/2022/09/22/service-hulu-1663828348772.jpg) | ✔ |
@@ -214,6 +220,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Assassin's Creed Origins | [Image link](https://image.api.playstation.com/cdn/EP0001/CUSA05625_00/6OhEbwPSI4Vy8AtS8PgP1jVxQLVvTmX7.png) | ✔ |
 | Watch Dogs: Legion | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202007/0217/OX5mEmwgRPeSQrhGFU3n4moZ.png) | ✔ |
 | Call of Duty: Vanguard | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
+| Call of Duty: Vanguard - Xbox Series X\|S | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
 | Cyberpunk 2077 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png) | ✔ |
 | Gears of War | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears1.png) | ✔ |
 | Gears of War 2 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears2.png) | ✔ |
@@ -223,7 +230,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ✔ |
 | Gears 5 | [Image link](https://cdn2.steamgriddb.com/grid/dbbfa43eef839542428b19391b87eb74.png) | ✔ |
 | OMORI | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/1agbi2hbB4vbYexXSqWm94jx.png) | ✔ |
-| Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Modern Warfare 2 | [Image link](https://cdn2.steamgriddb.com/grid/0cee28d807acc0fa495ac258fcb2109e.png) | ✔ |
@@ -236,7 +242,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Alan Wake | [Image link](https://www.fayerwayer.com/resizer/Yt2iJrPyX_DDbKee1DLMx6xd4gI=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/CK52GYCGURFHPP6FL2MURVNQNU.jpg) | ✔ |
 | Kinect Adventures! | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectadventures-sq1-1644265943035.jpg) | ✔ |
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
-| NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ✔ |
+| Kinect Sports: Season Two | [Image link](https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg) | ✔ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
 | Dead Space 3 | [Image link](https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg) | ✔ |
@@ -257,6 +263,7 @@ If you're not seeing any image while playing your game or you need help with any
 | TEKKEN TAG TOURNAMENT 2 | [Image link](https://assets-prd.ignimgs.com/2022/03/08/tekkentag2-1646766836349.jpg) | ✔ |
 | TEKKEN 6 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/0cbcc379a81888055b068e7cd194d786.png) | ✔ |
 | Tekken 7 | [Image link](https://image.api.playstation.com/cdn/UP0700/CUSA05972_00/4yfeeKKfJdD5WzDQsoiM3xrcqPlpDLm7.png) | ✔ |
+| TEKKEN 8 | [Image link](https://cdn2.steamgriddb.com/grid/0d2f3ecb750f115e8660110f09d63ce4.png) | ✔ |
 | Hydro Thunder | [Image link](https://assets-prd.ignimgs.com/2022/06/18/hydrothunder-1655580743040.jpg) | ✔ |
 | NINJA GAIDEN | [Image link](https://cdn2.steamgriddb.com/grid/15647da261a82b53d8e4919d9b4b110b.png) | ✔ |
 | Ninja Gaiden Black | [Image link](https://cdn2.steamgriddb.com/grid/1cc7ea47a20322422b32cd3194eccd2e.png) | ✔ |
@@ -295,6 +302,9 @@ If you're not seeing any image while playing your game or you need help with any
 | DOA5 Last Round | [Image link](https://cdn2.steamgriddb.com/grid/8c133ffc5b43bd169de84a85e0b551ee.png) | ✔ |
 | DEAD OR ALIVE 5 Last Round: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA01627_00/8b3eVINuTJf6y47a98THfkEtiuB1zs0u.png) | ✔ |
 | DEAD OR ALIVE 6: Core Fighters | [Image link](https://image.api.playstation.com/cdn/UP4108/CUSA12152_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png) | ✔ |
+| DEAD OR ALIVE 6 | [Image link](https://cdn2.steamgriddb.com/grid/8f722a6f8129944c85904130611bd1f4.jpg) | ✔ |
+| DEAD OR ALIVE 6 Last Round | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202601/2618/885e371b422fb13d08411637c450864789fb42d9243bc760.png) | ✔ |
+| DEAD OR ALIVE 6 Last Round: Core Fighters | [Image link](https://cdn2.steamgriddb.com/grid/311d49a40545086c9c4f02782e5e84da.png) | ✔ |
 | Left 4 Dead | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/c97223bc53a281ac2baafc64908e824b.png) | ✔ |
 | Left 4 Dead 2 | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/5ec59bc90d6605a2c1c6af6d997ea344.png) | ✔ |
 | The Orange Box | [Image link](https://static-pepper.dealabs.com/threads/raw/CsIXi/2525718_1/re/1024x1024/qt/60/2525718_1.jpg) | ✔ |
@@ -356,7 +366,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Friday the 13th: The Game | [Image link](https://upload.anarchyisland.gg/raw/Friday%20the%2013th%20The%20Game%20Icon.png?compress=false) | ✔ |
 | Call of Duty: Modern Warfare II | [Image link](https://cdn.kulturegeek.fr/wp-content/uploads/2022/05/Call-of-Duty-Modern-Warfare-2-2022-1-1024x1024.jpg) | ✔ |
 | Call of Duty: Modern Warfare III | [Image link](https://cdn2.steamgriddb.com/grid/f4d00a10a3b2a52d7ea6610567f1f1b8.png) | ✔ |
-| Call of Duty | [Image link](https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png) | ✔ |
+| Call of Duty | [Image link](https://cdn2.steamgriddb.com/grid/bfe91964d69828e6c0e95113b5b8f927.png) | ✔ |
 | EA SPORTS FIFA 23 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202301/0312/TwxvAAWgqCrFC3y73VPZUS7m.png) | ✔ |
 | XDefiant Open Session | [Image link](https://cdn2.steamgriddb.com/grid/d153407a197a930109d7f1e2a5331a8d.png) | ✔ |
 | XDefiant | [Image link](https://cdn2.steamgriddb.com/grid/e4747bdca65a1d649eaa39d52ed201ba.png) | ✔ |

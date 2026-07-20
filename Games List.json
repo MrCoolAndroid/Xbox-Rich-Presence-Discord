@@ -488,13 +488,20 @@
         {
           "titlename": "Fortnite",
           "titleimage": "fortnite",
-          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202412/2017/2bb1f425090006f8c5c3c3cab094809ccce8fa6f2531a8d6.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/73541b5f932206b698207da5ff37dd9d.png",
           "titlebackground": "https://cdn2.unrealengine.com/fortnite-chapter-6-season-1-hunters-battle-pass-1920x1080-5e441efeb2f2.jpg",
           "type": 1
         },
         {
           "titlename": "Call of Duty: Black Ops Cold War",
-          "titleimage": "cod_bo_coldwar",
+          "titleimage": "cod_bo_coldwar_XB1",
+          "titleicon": "https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg",
+          "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Black Ops Cold War - Xbox Series X|S",
+          "titleimage": "cod_bo_coldwar_XS",
           "titleicon": "https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg",
           "titlebackground": "https://images.alphacoders.com/109/thumb-350-1097309.png",
           "type": 1
@@ -653,6 +660,34 @@
           "titleimage": "Spectrum_TV",
           "titleicon": "https://pbs.twimg.com/media/FSghKvmXIAEjDMN.jpg",
           "titlebackground": "https://www.cnet.com/a/img/resize/c9e52e43c722f24f093161397898ee450fbdb30b/hub/2023/09/14/714759c0-5138-4f35-ab03-4de1fded4dc7/spectrum-cnetbb-logo-c.jpg?auto=webp&fit=crop&height=126",
+          "type": 2
+        },
+        {
+          "titlename": "Apple Music | Xbox",
+          "titleimage": "Apple_Music_Xbox",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d1d068475363651de875bb11c84fca3a.png",
+          "type": 3
+        },
+        {
+          "titlename": "Apple Music",
+          "titleimage": "Apple_Music",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e626d57ebcaa72d38390d09c1c1d1f2.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d1d068475363651de875bb11c84fca3a.png",
+          "type": 3
+        },
+        {
+          "titlename": "Apple TV | Xbox",
+          "titleimage": "Apple_TV_Xbox",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/4c0cf2514d40a8198e3f23be70bf4303.png",
+          "type": 2
+        },
+        {
+          "titlename": "Apple TV",
+          "titleimage": "Apple_TV",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/38b1e6cbbdb6524a5f2da3199f194347.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/4c0cf2514d40a8198e3f23be70bf4303.png",
           "type": 2
         },
         {
@@ -1014,7 +1049,14 @@
         },
         {
           "titlename": "Call of Duty: Vanguard",
-          "titleimage": "cod_vanguard",
+          "titleimage": "cod_vanguard_XB1",
+          "titleicon": "https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg",
+          "titlebackground": "https://compass-ssl.xbox.com/assets/94/7a/947a2b8d-fcfc-4359-b0c8-a1c5fc278512.jpg?n=504723_GLP-Page-Hero-Cinemagraph-Poster-Image_1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Vanguard - Xbox Series X|S",
+          "titleimage": "cod_vanguard_XS",
           "titleicon": "https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg",
           "titlebackground": "https://compass-ssl.xbox.com/assets/94/7a/947a2b8d-fcfc-4359-b0c8-a1c5fc278512.jpg?n=504723_GLP-Page-Hero-Cinemagraph-Poster-Image_1084_1920x1080.jpg",
           "type": 1
@@ -1328,6 +1370,13 @@
           "type": 1
         },
         {
+          "titlename": "TEKKEN 8",
+          "titleimage": "TEKKEN_8",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/0d2f3ecb750f115e8660110f09d63ce4.png",
+          "titlebackground": "https://cdn2.steamgriddb.com/hero/d58bcc87e254088674e43d8e19c508d1.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Hydro Thunder",
           "titleimage": "Hydro_Thunder",
           "titleicon": "https://assets-prd.ignimgs.com/2022/06/18/hydrothunder-1655580743040.jpg",
@@ -1591,6 +1640,27 @@
           "titleimage": "doa6_CF_XB1",
           "titleicon": "https://image.api.playstation.com/cdn/UP4108/CUSA12152_00/suTiUywgfKg7QS6lnU497q1W98KWbIae.png",
           "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a285ecc7-d657-4509-b58f-912a120e841e/deuc6ux-8cec3034-68e7-4092-8f3f-60dded69e808.jpg/v1/fill/w_1920,h_1080,q_75,strp/dead_or_alive_6_wallpaper_by_panuwath2019_deuc6ux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2EyODVlY2M3LWQ2NTctNDUwOS1iNThmLTkxMmExMjBlODQxZVwvZGV1YzZ1eC04Y2VjMzAzNC02OGU3LTQwOTItOGYzZi02MGRkZWQ2OWU4MDguanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-6_vC-GBn2ezIPctalH-v91gh0jlIL6fwjparV8V5JE",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 6",
+          "titleimage": "doa6_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8f722a6f8129944c85904130611bd1f4.jpg",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/a285ecc7-d657-4509-b58f-912a120e841e/deuc6ux-8cec3034-68e7-4092-8f3f-60dded69e808.jpg/v1/fill/w_1920,h_1080,q_75,strp/dead_or_alive_6_wallpaper_by_panuwath2019_deuc6ux-fullview.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9MTA4MCIsInBhdGgiOiJcL2ZcL2EyODVlY2M3LWQ2NTctNDUwOS1iNThmLTkxMmExMjBlODQxZVwvZGV1YzZ1eC04Y2VjMzAzNC02OGU3LTQwOTItOGYzZi02MGRkZWQ2OWU4MDguanBnIiwid2lkdGgiOiI8PTE5MjAifV1dLCJhdWQiOlsidXJuOnNlcnZpY2U6aW1hZ2Uub3BlcmF0aW9ucyJdfQ.-6_vC-GBn2ezIPctalH-v91gh0jlIL6fwjparV8V5JE",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 6 Last Round",
+          "titleimage": "doa6_LR",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202601/2618/885e371b422fb13d08411637c450864789fb42d9243bc760.png",
+          "titlebackground": "https://teamninja-studio.com/doa6/lastround/assets/img/common/doa6LR_site-top_poster.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DEAD OR ALIVE 6 Last Round: Core Fighters",
+          "titleimage": "doa6_LR_CF",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/311d49a40545086c9c4f02782e5e84da.png",
+          "titlebackground": "https://teamninja-studio.com/doa6/lastround/assets/img/common/doa6LR_site-top_poster.jpg",
           "type": 1
         },
         {
@@ -2023,7 +2093,7 @@
         {
           "titlename": "Call of Duty",
           "titleimage": "Call_of_Duty_HQ",
-          "titleicon": "https://cdn2.steamgriddb.com/grid/89b80ed33585794394cb0133dfa5f112.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bfe91964d69828e6c0e95113b5b8f927.png",
           "titlebackground": "https://cdn2.steamgriddb.com/hero/191f1c1530d35545ad01573610117353.png",
           "type": 1
         },
