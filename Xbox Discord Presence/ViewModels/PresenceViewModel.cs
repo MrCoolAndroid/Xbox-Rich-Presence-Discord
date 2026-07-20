@@ -310,7 +310,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 await Task.Delay(1000);
                 AppStatus = "Connecting to Discord...";
                 mainLogger.Debug("Connecting to Discord...");
-                Client = new DiscordRpcClient("");
+                Client = new DiscordRpcClient("790361734622871592");
                 Client.Initialize();
                 Client.OnReady += OnDiscordConnectionReady;
                 Client.OnConnectionFailed += OnDiscordConnectionFailed;
@@ -359,11 +359,11 @@ namespace Xbox_Discord_Presence.ViewModels
                     AppStatus = "Searching your Xbox account...";
                     mainLogger.Debug("Searching Xbox Account...");
                     XboxAccountsList = await SearchXboxAccountAsync();
-                    if (XboxAccountsList.ProfileUsers is null)
+                    if (XboxAccountsList.Content.ProfileUsers is null)
                     {
                         break;
                     }
-                    if (XboxAccountsList.ProfileUsers.Count <= 0)
+                    if (XboxAccountsList.Content.ProfileUsers.Length <= 0)
                     {
                         Dialog dialog = new()
                         {
@@ -373,25 +373,35 @@ namespace Xbox_Discord_Presence.ViewModels
                         AppStatus = "Go back and try again";
                         _dialogStore.ShowDialog(dialog);
                         mainLogger.Debug("The Xbox account was not found (Account list from searching returned 0 values)");
+                        IsDisposing = true;
                         break;
                     }
                     else
                     {
-                        AppStatus = "Using " + XboxAccountsList.ProfileUsers[0].Settings[2].Value + " account";
-                        mainLogger.Debug("Using " + XboxAccountsList.ProfileUsers[0].Settings[2].Value + " account (The first account on the list)");
+                        AppStatus = "Using " + XboxAccountsList.Content.ProfileUsers[0].Settings[0].Value + " account";
+                        mainLogger.Debug("Using " + XboxAccountsList.Content.ProfileUsers[0].Settings[0].Value + " account (The first account on the list)");
                         XboxPresence = await GetPresenceAsync(XboxAccountsList);
-                        Status = XboxPresence.State;
+                        Status = XboxPresence.Content.State;
                         AppStatus = "Done getting presence!";
 
-                        string userColors = XboxAccountsList.ProfileUsers[0].Settings[5].Value;
+                        string userColors = XboxAccountsList.Content.ProfileUsers[0].Settings[5].Value;
                         if (userColors != null)
                         {
-                            using HttpClient client = new();
+                            try
+                            {
+                                using HttpClient client = new();
 
-                            string result = await client.GetStringAsync(userColors);
-                            UserColor userColor = JsonConvert.DeserializeObject<UserColor>(result);
+                                string result = await client.GetStringAsync(userColors);
+                                UserColor userColor = JsonConvert.DeserializeObject<UserColor>(result);
 
-                            _themeStore.ChangeColor(userColor.primaryColor);
+                                _themeStore.ChangeColor(userColor.primaryColor);
+                            }
+                            catch (Exception ex)
+                            {
+                                mainLogger.Fatal("Handled exception occurred! Could not get user colors, using default ones ", ex);
+                                AppStatus = "Could not get user colors, using default ones";
+                                userColors = "{\"primaryColor\":\"#107C10\",\"secondaryColor\":\"#2B88D8\",\"tertiaryColor\":\"#FFFFFF\"}";
+                            }
                         }
 
                         if (Status == "Offline")
@@ -410,6 +420,7 @@ namespace Xbox_Discord_Presence.ViewModels
                                 };
                                 _dialogStore.ShowDialog(dialog);
                                 AppStatus = "User offline, go back and try again";
+                                IsDisposing = true;
                                 break;
                             }
                             if (_userStore.User.IsLimitedTo150)
@@ -427,7 +438,7 @@ namespace Xbox_Discord_Presence.ViewModels
                         }
                     }
                 }
-                if (XboxAccountsList.ProfileUsers is not null && XboxAccountsList.ProfileUsers.Count >= 1 && !IsDisposing)
+                if (XboxAccountsList.Content.ProfileUsers is not null && XboxAccountsList.Content.ProfileUsers.Length >= 1 && !IsDisposing)
                 {
                     AppStatus = "Getting gamerpic...";
 
@@ -435,7 +446,7 @@ namespace Xbox_Discord_Presence.ViewModels
                     {
                         BitmapImage src = new();
                         src.BeginInit();
-                        src.UriSource = new System.Uri(XboxAccountsList.ProfileUsers[0].Settings[0].Value);
+                        src.UriSource = new System.Uri(XboxAccountsList.Content.ProfileUsers[0].Settings[1].Value);
                         src.CacheOption = BitmapCacheOption.OnLoad;
                         src.EndInit();
                         Gamerpic = src;
@@ -453,7 +464,7 @@ namespace Xbox_Discord_Presence.ViewModels
                     {
                         try
                         {
-                            foreach (string devices in XboxPresence.Devices.Select(i => i.Type))
+                            foreach (string devices in XboxPresence.Content.Devices.Select(i => i.Type))
                             {
                                 Application.Current.Dispatcher.Invoke(delegate
                                 {
@@ -532,6 +543,12 @@ namespace Xbox_Discord_Presence.ViewModels
                     case "WindowsOneCore":
                         DeviceName = "Windows";
                         break;
+                    case "Web":
+                        DeviceName = "Cloud Gaming";
+                        break;
+                    case "iOS":
+                        DeviceName = "iOS";
+                        break;
                     default:
                         DeviceName = "Unknown Device";
                         break;
@@ -552,7 +569,7 @@ namespace Xbox_Discord_Presence.ViewModels
             {
                 isRunning = true;
                 XboxPresence = await GetPresenceAsync(XboxAccountsList);
-                Status = XboxPresence.State;
+                Status = XboxPresence.Content.State;
                 AppStatus = "Done getting presence!";
                 if (Status == "Offline")
                 {
@@ -592,7 +609,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 else
                 {
                     gameCache = GameTitle;
-                    if (XboxPresence.Devices is null || XboxPresence is null)
+                    if (XboxPresence.Content.Devices is null || XboxPresence is null)
                     {
                         try
                         {
@@ -616,7 +633,7 @@ namespace Xbox_Discord_Presence.ViewModels
                         break;
                     }
                     AppStatus = "Getting your presence...";
-                    Title newTitle = await GetGameDataFromPresenceAsync(XboxPresence.Devices);
+                    Title newTitle = await GetGameDataFromPresenceAsync(XboxPresence.Content.Devices);
                     if (newTitle.Name == null)
                     {
                         Dialog dialog = new()
@@ -657,11 +674,11 @@ namespace Xbox_Discord_Presence.ViewModels
                         if (GameTitle != gameCache && !IsDisposing)
                         {
                             gameInfo = await GetGameInfoAsync(newTitle.Id);
-                            if (gameInfo.Products is not null)
+                            if (gameInfo.Content.Products is not null)
                             {
                                 await Task.Run(() =>
                                 {
-                                    foreach (string website in gameInfo.Products.SelectMany(i => i.LocalizedProperties).Where(i => i.PublisherWebsiteUri != "" || i.PublisherWebsiteUri is null).Select(i => i.PublisherWebsiteUri))
+                                    foreach (string website in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).Where(i => i.PublisherWebsiteUri != "" || i.PublisherWebsiteUri is null).Select(i => i.PublisherWebsiteUri))
                                     {
                                         gameWebsite = website;
                                     }
@@ -717,7 +734,7 @@ namespace Xbox_Discord_Presence.ViewModels
                             mainLogger.Debug("SteamGridDB was selected, getting images from that source");
                             game = await GetGamePicturesFromSteamGridDBAsync(newTitle.Name);
                         }
-                        else if (_userStore.User.IsUsingImagesAPI && GameTitle != gameCache && !IsDisposing && gameInfo.Products is not null)
+                        else if (_userStore.User.IsUsingImagesAPI && GameTitle != gameCache && !IsDisposing && gameInfo.Content.Products is not null)
                         {
                             mainLogger.Debug("Xbox API was selected, getting images from that source");
                             game = await GetGamePicturesFromAPI(gameInfo);
@@ -893,6 +910,15 @@ namespace Xbox_Discord_Presence.ViewModels
                             case "Windows":
                                 deviceImage = "windows_10";
                                 break;
+                            case "Cloud Gaming":
+                                deviceImage = "cloud_gaming";
+                                break;
+                            case "iOS":
+                                deviceImage = "ios";
+                                break;
+                            case "Android":
+                                deviceImage = "android";
+                                break;
                             default:
                                 deviceImage = "xbox_one";
                                 break;
@@ -987,7 +1013,7 @@ namespace Xbox_Discord_Presence.ViewModels
             string result = "";
             try
             {
-                result = await client.GetStringAsync("https://xbl.io/api/v2/friends/search/" + Gamertag);
+                result = await client.GetStringAsync("https://api.xbl.io/v2/friends/search?gt=" + Gamertag);
             }
             catch (Exception e)
             {
@@ -1040,10 +1066,16 @@ namespace Xbox_Discord_Presence.ViewModels
                 SearchAccount nullAccount = new();
                 return nullAccount;
             }
+            else if (result.Contains("\"code\":429"))
+            {
+                AppStatus = "Too many requests, waiting a bit before trying again...";
+                await Task.Delay(10000);
+                return await SearchXboxAccountAsync();
+            }
             else
             {
                 SearchAccount xboxAccountList = JsonConvert.DeserializeObject<SearchAccount>(result);
-                AppStatus = "Found " + xboxAccountList.ProfileUsers.Count + " entries...";
+                AppStatus = "Found " + xboxAccountList.Content.ProfileUsers.Length + " entries...";
 
                 return xboxAccountList;
             }
@@ -1069,8 +1101,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 {
                     client.DefaultRequestHeaders.Add("Accept-Language", "en-US");
                 }
-                string result = await client.GetStringAsync("https://xbl.io/api/v2/" + accounts.ProfileUsers[0].Id + "/presence");
-                result = result.Substring(1, result.Length - 2);
+                string result = await client.GetStringAsync("https://api.xbl.io/v2/presence/" + accounts.Content.ProfileUsers[0].Id);
                 xboxPresence = JsonConvert.DeserializeObject<Presence>(result);
 
                 AppStatus = "Got presence!";
@@ -1101,18 +1132,27 @@ namespace Xbox_Discord_Presence.ViewModels
         /// </summary>  
         /// <param name="devices">The list of devices to get the presence from</param>  
         /// <returns>The <c>Title</c> class of the requested game</returns>  
-        private async Task<Title> GetGameDataFromPresenceAsync(List<Device> devices)
+        private async Task<Title> GetGameDataFromPresenceAsync(Device[] devices)
         {
-            Title newTitle = new();
+            Title? newTitle = new();
             await Task.Run(() =>
             {
-                foreach (Title title in devices.Where(t => t.Type == SelectedDevice).SelectMany(t => t.Titles).Where(t => t.Placement == "Full"))
+                newTitle = devices.Where(d => d.Type == SelectedDevice)
+                                  .SelectMany(d => d.Titles)
+                                  .Where(t => t.State == "Active")
+                                  .OrderBy(t => t.Name == "Home" || t.Name == "Xbox 360 Dashboard")
+                                  .FirstOrDefault();
+                if (newTitle is null)
                 {
-                    newTitle = title;
+                    newTitle = devices.Where(d => d.Type == SelectedDevice)
+                                  .SelectMany(d => d.Titles)
+                                  .Where(t => t.State == "Inactive")
+                                  .OrderBy(t => t.Name == "Home" || t.Name == "Xbox 360 Dashboard")
+                                  .FirstOrDefault();
                 }
             });
 
-            if (newTitle.Name is null)
+            if (newTitle is null || newTitle.Name is null)
             {
                 await Task.Run(() =>
                 {
@@ -1285,7 +1325,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 {
                     client.DefaultRequestHeaders.Add("Accept-Language", "en-US");
                 }
-                string result = await client.GetStringAsync("https://xbl.io/api/v2/marketplace/title/" + titleID);
+                string result = await client.GetStringAsync("https://api.xbl.io/v2/marketplace/title/" + titleID);
                 gameInfo = JsonConvert.DeserializeObject<GameInfo>(result);
 
                 AppStatus = "Got game info!";
@@ -1311,7 +1351,7 @@ namespace Xbox_Discord_Presence.ViewModels
             AppStatus = "Getting game pictures from API";
             await Task.Run(() =>
             {
-                foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "BoxArt"))
+                foreach (Image image in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "BoxArt"))
                 {
                     if (!image.Uri.Contains("https:") && !image.Uri.Contains("http:"))
                     {
@@ -1325,7 +1365,7 @@ namespace Xbox_Discord_Presence.ViewModels
             });
             await Task.Run(() =>
             {
-                foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "SuperHeroArt"))
+                foreach (Image image in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "SuperHeroArt"))
                 {
                     if (!image.Uri.Contains("https:") && !image.Uri.Contains("http:"))
                     {
@@ -1339,14 +1379,14 @@ namespace Xbox_Discord_Presence.ViewModels
             });
             await Task.Run(() =>
             {
-                foreach (string titlename in gameInfo.Products.SelectMany(i => i.LocalizedProperties).Select(i => i.ProductTitle))
+                foreach (string titlename in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).Select(i => i.ProductTitle))
                 {
                     game.Titlename = titlename;
                 }
             });
             await Task.Run(() =>
             {
-                foreach (string type in gameInfo.Products.Select(i => i.ProductFamily))
+                foreach (string type in gameInfo.Content.Products.Select(i => i.ProductFamily))
                 {
                     switch (type)
                     {
@@ -1373,7 +1413,7 @@ namespace Xbox_Discord_Presence.ViewModels
                         "Icon",
                         "Tile"
                     ];
-                    foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.Height >= 400 && i.Width >= 400 && i.Uri.Length < 256 && list.Contains(i.ImagePurpose)))
+                    foreach (Image image in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.Height >= 400 && i.Width >= 400 && i.Uri.Length < 256 && list.Contains(i.ImagePurpose)))
                     {
                         if (!image.Uri.Contains("https:"))
                         {
@@ -1386,11 +1426,11 @@ namespace Xbox_Discord_Presence.ViewModels
                     }
                 });
             }
-            if (game.Titleicon is null && gameInfo.Products.Count >= 1)
+            if (game.Titleicon is null && gameInfo.Content.Products.Length >= 1)
             {
                 await Task.Run(() =>
                 {
-                    foreach (Image image in gameInfo.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "Tile" && i.Height >= 400 && i.Width >= 400))
+                    foreach (Image image in gameInfo.Content.Products.SelectMany(i => i.LocalizedProperties).SelectMany(i => i.Images).Where(i => i.ImagePurpose == "Tile" && i.Height >= 400 && i.Width >= 400))
                     {
                         if (!image.Uri.Contains("https:"))
                         {

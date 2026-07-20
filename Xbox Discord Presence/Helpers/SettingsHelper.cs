@@ -14,6 +14,7 @@ using Xbox_Discord_Presence.Stores;
 using log4net.Repository;
 using Logger = Xbox_Discord_Presence.Models.Logger;
 using System.ComponentModel;
+using Action = System.Action;
 
 namespace Xbox_Discord_Presence.Helpers
 {

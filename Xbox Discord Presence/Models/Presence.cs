@@ -10,6 +10,15 @@ namespace Xbox_Discord_Presence.Models
 {
     public partial class Presence
     {
+        [JsonProperty("content")]
+        public Content Content { get; set; }
+
+        [JsonProperty("code")]
+        public long Code { get; set; }
+    }
+
+    public partial class Content
+    {
         [JsonProperty("xuid")]
         public string Xuid { get; set; }
 
@@ -17,7 +26,7 @@ namespace Xbox_Discord_Presence.Models
         public string State { get; set; }
 
         [JsonProperty("devices")]
-        public List<Device> Devices { get; set; }
+        public Device[] Devices { get; set; }
     }
 
     public partial class Device
@@ -26,7 +35,7 @@ namespace Xbox_Discord_Presence.Models
         public string Type { get; set; }
 
         [JsonProperty("titles")]
-        public List<Title> Titles { get; set; }
+        public Title[] Titles { get; set; }
     }
 
     public partial class Title
@@ -37,22 +46,16 @@ namespace Xbox_Discord_Presence.Models
         [JsonProperty("name")]
         public string Name { get; set; }
 
-        [JsonProperty("placement")]
-        public string Placement { get; set; }
-
         [JsonProperty("state")]
         public string State { get; set; }
 
-        [JsonProperty("lastModified")]
-        public DateTimeOffset LastModified { get; set; }
-
-        [JsonProperty("activity", NullValueHandling = NullValueHandling.Ignore)]
-        public Activity? Activity { get; set; }
+        [JsonProperty("activity")]
+        public Activity Activity { get; set; }
     }
 
     public partial class Activity
     {
         [JsonProperty("richPresence")]
-        public string? RichPresence { get; set; }
+        public string RichPresence { get; set; }
     }
 }

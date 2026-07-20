@@ -183,22 +183,25 @@ namespace Xbox_Discord_Presence.ViewModels
 
         private async void OnDialogCreated(Dialog obj)
         {
-            if (!_settingsHelper.Settings.QuietMode)
+            await Application.Current.Dispatcher.InvokeAsync(async delegate
             {
-                MessageDialog? dialog = await dialogCoordinator.GetCurrentDialogAsync<MessageDialog>(this);
-
-                if (dialog is not null)
+                if (!_settingsHelper.Settings.QuietMode)
                 {
-                    if (dialog.Message != obj.Description)
+                    MessageDialog? dialog = await dialogCoordinator.GetCurrentDialogAsync<MessageDialog>(this);
+
+                    if (dialog is not null)
+                    {
+                        if (dialog.Message != obj.Description)
+                        {
+                            await dialogCoordinator.ShowMessageAsync(this, obj.Title, obj.Description);
+                        }
+                    }
+                    else
                     {
                         await dialogCoordinator.ShowMessageAsync(this, obj.Title, obj.Description);
                     }
                 }
-                else
-                {
-                    await dialogCoordinator.ShowMessageAsync(this, obj.Title, obj.Description);
-                }
-            }
+            });
         }
 
         private void OnViewChanged(ViewModelBase obj)
