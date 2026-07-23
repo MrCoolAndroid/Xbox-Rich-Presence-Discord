@@ -507,6 +507,20 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty: Black Ops 6",
+          "titleimage": "cod_bo_6",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e1bd4152444518ef93749ccebaf9af79.png",
+          "titlebackground": "https://images.alphacoders.com/138/1380711.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Black Ops 7",
+          "titleimage": "cod_bo_7",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/8c163e488e9e46b842889e773a8d6807b52f9d0e00b05652.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp15957045.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Battlefield Hardline",
           "titleimage": "battlefield_hardline",
           "titleicon": "https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png",
@@ -1115,6 +1129,20 @@
           "titleimage": "Gears5.png",
           "titleicon": "https://cdn2.steamgriddb.com/grid/dbbfa43eef839542428b19391b87eb74.png",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.21372.65494054591008504.3eb95796-405c-4def-901b-3b53a1c9e001.7ce477d1-54a6-4286-b3e1-f3145baf4ba2",
+          "type": 1
+        },
+        {
+          "titlename": "Gears of War: Reloaded",
+          "titleimage": "GOWR",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/327ad38c367ff613e62653f9ccce322e.jpg",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/2523720/d307e590f414184fcd0948a34fad01a08965ac39/page_bg_raw.jpg?t=1757024702",
+          "type": 1
+        },
+        {
+          "titlename": "Gears of War: E-Day",
+          "titleimage": "GOW_EDAY",
+          "titleicon": "https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/d3139093-f1c4-4621-b7bc-30aeeff7178a/dhka52w-29963294-4453-4ce6-bf74-41ae79e7b3ee.png?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9kMzEzOTA5My1mMWM0LTQ2MjEtYjdiYy0zMGFlZWZmNzE3OGEvZGhrYTUydy0yOTk2MzI5NC00NDUzLTRjZTYtYmY3NC00MWFlNzllN2IzZWUucG5nIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.WYpnGp8srIpfPIspkdqm7i5vrFABgl2bWShDC7MMMEo",
           "type": 1
         },
         {
