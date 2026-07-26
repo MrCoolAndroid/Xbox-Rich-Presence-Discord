@@ -69,10 +69,12 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Far Cry 4 | [Image link](https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg) | ❌ |
 | Borderlands: The Pre-Sequel | [Image link](https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png) | ❌ |
 | Superliminal | [Image link](https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg) | ❌ |
 | Warframe | [Image link](https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg) | ❌ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg) | ❌ |
+| Shaun White Skateboarding | [Image link](https://cdn2.steamgriddb.com/grid/c7b9d4c31eb9c2bed48346335c307187.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -138,13 +140,14 @@ If you're not seeing any image while playing your game or you need help with any
 | eFootball PES 2021 Season Update | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202011/0201/DCT1LwEUb8fXfS2PZfkzXV59.png) | ✔ |
 | Halo: Reach | [Image link](https://cdn2.steamgriddb.com/grid/0f70a9878da6d47c03f63c3f87966da0.png) | ✔ |
 | FAR CRY6 | [Image link](https://cdn2.steamgriddb.com/icon/712775bacd00b61567ca8eeb605853c8/32/256x256.png) | ✔ |
-| Far Cry 4 | [Image link](https://cdn2.steamgriddb.com/grid/ecc1590d3048696e95539450bd231df1.jpg) | ✔ |
 | Far Cry 3 | [Image link](https://cdn2.steamgriddb.com/grid/3754eedc3c390ad0f0fc9a5d9f1495d8.jpg) | ✔ |
 | Severed Steel | [Image link](https://cdn2.steamgriddb.com/grid/6ee2932dcc38491002435edbde875246.jpg) | ✔ |
 | Call of Duty: Modern Warfare | [Image link](https://sm.ign.com/t/ign_latam/cover/c/call-of-du/call-of-duty-modern-warfare_6sub.1024.jpg) | ✔ |
 | Fortnite | [Image link](https://cdn2.steamgriddb.com/grid/73541b5f932206b698207da5ff37dd9d.png) | ✔ |
 | Call of Duty: Black Ops Cold War | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
 | Call of Duty: Black Ops Cold War - Xbox Series X\|S | [Image link](https://sm.ign.com/t/ign_es/game/c/call-of-du/call-of-duty-black-ops-cold-war_tsew.1024.jpg) | ✔ |
+| Call of Duty: Black Ops 6 | [Image link](https://cdn2.steamgriddb.com/grid/e1bd4152444518ef93749ccebaf9af79.png) | ✔ |
+| Call of Duty: Black Ops 7 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202508/2119/8c163e488e9e46b842889e773a8d6807b52f9d0e00b05652.png) | ✔ |
 | Battlefield Hardline | [Image link](https://image.api.playstation.com/cdn/UP0006/CUSA00625_00/2I1fQbmQZ0ZYbOVHKcHzxDjrI192JuEQ.png) | ✔ |
 | Halo: The Master Chief Collection | [Image link](https://cdn2.steamgriddb.com/file/sgdb-cdn/grid/29b378b88c3798599f78f774efa6c521.jpg) | ✔ |
 | Back 4 Blood | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png) | ✔ |
@@ -229,6 +232,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Gears of War: Ultimate Edition | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Ultimate%20Edition.png) | ✔ |
 | Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ✔ |
 | Gears 5 | [Image link](https://cdn2.steamgriddb.com/grid/dbbfa43eef839542428b19391b87eb74.png) | ✔ |
+| Gears of War: Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/327ad38c367ff613e62653f9ccce322e.jpg) | ✔ |
+| Gears of War: E-Day | [Image link](https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg) | ✔ |
 | OMORI | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202206/1601/1agbi2hbB4vbYexXSqWm94jx.png) | ✔ |
 | Modern Warfare | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
 | Call of Duty 4 | [Image link](https://assets-prd.ignimgs.com/2022/03/28/cod4-1648511386228.jpg) | ✔ |
@@ -422,7 +427,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Tony Hawk's PS HD | [Image link](https://cdn2.steamgriddb.com/grid/a61c36dfa0efd6df3a443c25d1f5927f.png) | ✔ |
 | Tony Hawk's Pro Skater 5 | [Image link](https://cdn2.steamgriddb.com/icon/2b5d9ed398db1dee1d00214aa5a41ef0.png) | ✔ |
 | TH Proving Ground | [Image link](https://cdn2.steamgriddb.com/icon/0d124848a0ea943f34d3a85bf3599943/24/1024x1024.png) | ✔ |
-| Shaun White Skateboarding | [Image link](https://cdn2.steamgriddb.com/grid/c7b9d4c31eb9c2bed48346335c307187.jpg) | ✔ |
 | SSX | [Image link](https://cdn2.steamgriddb.com/grid/8bfdf48ecf1a8f511d6446165b15451b.jpg) | ✔ |
 | South Park | [Image link](https://cdn2.steamgriddb.com/grid/e65e26a9a28ef7478d953cbec82be1b0.png) | ✔ |
 | South Park: Tenorman's Revenge | [Image link](https://cdn2.steamgriddb.com/grid/a22997b93b15692ee45f7a9fb6778c8d.jpg) | ✔ |
