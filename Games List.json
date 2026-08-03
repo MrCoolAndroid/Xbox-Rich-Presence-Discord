@@ -2133,6 +2133,13 @@
           "type": 1
         },
         {
+          "titlename": "EA SPORTS FIFA 16",
+          "titleimage": "fifa_16",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bb6048a1b768bedccf39254d563864f3.jpg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/img/rnd/202010/1520/QHyyHMYPBi23anUICL2lCZGA.jpg",
+          "type": 1
+        },
+        {
           "titlename": "XDefiant Open Session",
           "titleimage": "xdef_os",
           "titleicon": "https://cdn2.steamgriddb.com/grid/d153407a197a930109d7f1e2a5331a8d.png",
