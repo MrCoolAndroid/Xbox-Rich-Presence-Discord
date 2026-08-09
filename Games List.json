@@ -346,6 +346,27 @@
           "type": 1
         },
         {
+          "titlename": "FINAL FANTASY XIV Online",
+          "titleimage": "Final_Fantasy_XIV_OL",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2241f103cc10654a6081b8301c9bd987.jpg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202404/0916/2aa119c77785d53ce318962cc9f132907546927bdd8fa224.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Just Dance Free Experience",
+          "titleimage": "JDFE",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png",
+          "titlebackground": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70070000028929/93dc6060a9dd96800995c66d7cc2bcb01949065ee12e7b49092544eda967f938",
+          "type": 1
+        },
+        {
+          "titlename": "Just Dance",
+          "titleimage": "JDFE",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png",
+          "titlebackground": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70070000028929/93dc6060a9dd96800995c66d7cc2bcb01949065ee12e7b49092544eda967f938",
+          "type": 1
+        },
+        {
           "titlename": "Castlevania: SOTN",
           "titleimage": "Castlevania_SOTN",
           "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png",
@@ -786,6 +807,20 @@
           "titleimage": "battlefield_4",
           "titleicon": "https://image.api.playstation.com/cdn/UP0006/CUSA00110_00/VaulrBDwbGorU7Ykfjg5sNrJ5X9resKm.png",
           "titlebackground": "https://wallpaperaccess.com/full/2522176.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield V",
+          "titleimage": "battlefield_V",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8efda667f3acb87f8d123b7776554c07.jpg",
+          "titlebackground": "https://images8.alphacoders.com/922/thumb-1920-922129.png",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield",
+          "titleimage": "battlefield_y_redsec",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d84b48a9b46983c717306735294a3e4d.png",
+          "titlebackground": "https://static.wikia.nocookie.net/battlefield/images/7/7f/Battlefield-6-season-4-keyart.jpg/revision/latest/scale-to-width-down/1200?cb=20260714224814",
           "type": 1
         },
         {
@@ -2029,9 +2064,23 @@
         },
         {
           "titlename": "Battlefield 2042 Xbox Series X|S",
-          "titleimage": "Battlefield_2042",
+          "titleimage": "Battlefield_2042_XSXS",
           "titleicon": "https://upload.anarchyisland.gg/raw/Battlefield%202042%20Icon.png?compress=false",
           "titlebackground": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield 2042 Xbox One",
+          "titleimage": "Battlefield_2042_XB1",
+          "titleicon": "https://upload.anarchyisland.gg/raw/Battlefield%202042%20Icon.png?compress=false",
+          "titlebackground": "https://media.contentapi.ea.com/content/dam/battlefield/battlefield-2042/images/2021/04/k-1920x1080-featured-image.jpg.adapt.crop191x100.1200w.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "FragPunk",
+          "titleimage": "FragPunk",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2107/c54719eec49a322d8d9caa932aead91b8aa6020efb130fed.png",
+          "titlebackground": "https://r.res.easebar.com/pic/20260708/9476a6af-7fc4-4808-a639-3bccdbc3e2a1.jpg",
           "type": 1
         },
         {
