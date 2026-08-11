@@ -59,6 +59,13 @@
           "type": 1
         },
         {
+          "titlename": "2XKO",
+          "titleimage": "2XKO",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/beafee2a621381a37675af7da2d2c065.png",
+          "titlebackground": "https://cmsassets.rgpub.io/sanity/images/dsfx7636/news_live/d4d80bb9662a7dbd66b09f0739b444e76fbdcbb8-1920x1080.jpg?accountingTag=2XKO",
+          "type": 1
+        },
+        {
           "titlename": "HALF-MINUTE HERO -Super Mega Neo Climax-",
           "titleimage": "HALF-MINUTE HERO -Super Mega Neo Climax-",
           "titleicon": "https://cdn2.steamgriddb.com/thumb/8948de2725f465ef6b3760f3550804b3.jpg",
@@ -2081,6 +2088,13 @@
           "titleimage": "FragPunk",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202605/2107/c54719eec49a322d8d9caa932aead91b8aa6020efb130fed.png",
           "titlebackground": "https://r.res.easebar.com/pic/20260708/9476a6af-7fc4-4808-a639-3bccdbc3e2a1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Delta Force",
+          "titleimage": "Delta_Force",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/43b1df85016011821950e2826b082fa9.png",
+          "titlebackground": "https://cdn2.unrealengine.com/delta-force-header-1920x1080-4a97a8b7d3b2.png",
           "type": 1
         },
         {
