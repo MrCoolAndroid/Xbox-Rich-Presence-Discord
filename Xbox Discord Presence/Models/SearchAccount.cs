@@ -9,8 +9,17 @@ namespace Xbox_Discord_Presence.Models
 {
     public partial class SearchAccount
     {
+        [JsonProperty("content")]
+        public Content Content { get; set; }
+
+        [JsonProperty("code")]
+        public long Code { get; set; }
+    }
+
+    public partial class Content
+    {
         [JsonProperty("profileUsers")]
-        public List<ProfileUser> ProfileUsers { get; set; }
+        public ProfileUser[] ProfileUsers { get; set; }
     }
 
     public partial class ProfileUser
@@ -22,7 +31,7 @@ namespace Xbox_Discord_Presence.Models
         public string HostId { get; set; }
 
         [JsonProperty("settings")]
-        public List<Setting> Settings { get; set; }
+        public Setting[] Settings { get; set; }
 
         [JsonProperty("isSponsoredUser")]
         public bool IsSponsoredUser { get; set; }
