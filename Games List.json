@@ -2189,6 +2189,20 @@
           "type": 1
         },
         {
+          "titlename": "Call of Duty: Modern Warfare 4",
+          "titleimage": "cod_MW4",
+          "titleicon": "https://assets-prd.ignimgs.com/2026/05/28/codmw4-1779985350988.jpg",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/daf5d7dee8c89ae737aaac6b712288b934ee84dc/page_bg_raw.jpg?t=1787327331",
+          "type": 1
+        },
+        {
+          "titlename": "Call of Duty: Modern Warfare 4 - Beta",
+          "titleimage": "cod_MW4_Beta",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202608/0722/e322fa98025858ca9551a71dcedf0140e85c01a4d3764d05.png",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/4435490/daf5d7dee8c89ae737aaac6b712288b934ee84dc/page_bg_raw.jpg?t=1787327331",
+          "type": 1
+        },
+        {
           "titlename": "Call of Duty",
           "titleimage": "Call_of_Duty_HQ",
           "titleicon": "https://cdn2.steamgriddb.com/grid/bfe91964d69828e6c0e95113b5b8f927.png",
