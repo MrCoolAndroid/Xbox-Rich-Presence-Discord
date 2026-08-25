@@ -451,6 +451,139 @@
           "type": 1
         },
         {
+          "titlename": "Yakuza 0",
+          "titleimage": "Yakuza_0",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/35f0a44eaa1c53f8dac1ed54a587eee6.png",
+          "titlebackground": "https://wallpaper.forfun.com/fetch/80/80c7dabccc6413d83c2825428309af22.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza 0 Director's Cut",
+          "titleimage": "Yakuza_0_Directors_Cut",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a6bc4816f2e37ee701b1f3e175c09932.jpg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202509/2215/b3c6aadba045ef71abc755062a2cbcc138be0e4766a5bbe8.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza Kiwami",
+          "titleimage": "Yakuza_Kiwami",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202508/0800/b180750941d664ac7410bf79b65f4acecbae2ebe02f95807.png",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2020/04/Yakuza-Kiwami.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza Kiwami 2",
+          "titleimage": "Yakuza_Kiwami_2",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202511/1905/bf0f377e2aa4f4f349b29e98a0dd87ba1d95fb7fa698c9f3.png",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202601/0805/e1ae0fa19ea74d5ee2a202ca70216c1d4d8a986ddf1ad214.png",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza Kiwami 3 & Dark Ties",
+          "titleimage": "Yakuza_Kiwami_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fc0da20d3de95e0cdfbc0c89a06c4427.png",
+          "titlebackground": "https://www.gematsu.com/wp-content/uploads/2025/09/Game-Page-Featured_Yakuza-Kiwami-3-and-Dark-Ties.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza Kiwami 3 & Dark Ties Demo",
+          "titleimage": "Yakuza_Kiwami_3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fc0da20d3de95e0cdfbc0c89a06c4427.png",
+          "titlebackground": "https://www.gematsu.com/wp-content/uploads/2025/09/Game-Page-Featured_Yakuza-Kiwami-3-and-Dark-Ties.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza 3 Remastered",
+          "titleimage": "Yakuza_3",
+          "titleicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLbgKFmExcNzsryDcOZhTeKk4MB2ymz9DuKX72lcZ_mjmTt_NPORbtNsACXe1FGcGW35OvrI3S_dKRiBF1AqGW0VS6DpVBWJy5WKUgEsiPykTktpEvCRYPxFRCZeD7eprFqSs1p-2KPDZDz2HLH4YBpaOUuMx4ycuUFLlP7_jdQkGIAr3TzO6GxvoNcf9/s1024/741780_front.jpg",
+          "titlebackground": "https://images5.alphacoders.com/124/thumb-1920-1248605.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza 4 Remastered",
+          "titleimage": "Yakuza_4",
+          "titleicon": "https://assets1.ignimgs.com/2019/01/17/yakuza-4---button-fin-1547745887034.jpg",
+          "titlebackground": "https://www.telegraph.co.uk/multimedia/archive/01871/Yakuza4_1871559b.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza 5 Remastered",
+          "titleimage": "Yakuza_5",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/cfn/11307cOudGhg-K4ksDCUANED2jRY2nW6m-uh-dzEtCtpKHO8-kht8msCZC_WfCSphXhQWcUHb-h0mSOXNxMAhfHf0-gyhd8g.png",
+          "titlebackground": "https://wallpaper.forfun.com/fetch/ce/ce59a9dfb0f9f56df0d6d9c5bbf82dd2.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza 6: The Song of Life",
+          "titleimage": "Yakuza_6",
+          "titleicon": "https://image.api.playstation.com/cdn/UP0177/CUSA09032_00/7D2jL7YYY0Rp7V9L7UCWH9LEPrWwJARcMxERbrcZxhjGuzqlXsqrkY6N0ybvJxYW.png",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2021/03/Yakuza-6-The-Song-of-Life.jpgg",
+          "type": 1
+        },
+        {
+          "titlename": "Yakuza: Like a Dragon",
+          "titleimage": "Yakuza_7",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/33f75e4fc010c114d63756a5763f7221.png",
+          "titlebackground": "https://images4.alphacoders.com/134/thumb-1920-1349219.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon Gaiden: The Man Who Erased His Name",
+          "titleimage": "Yakuza_7_point_5",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2552c8ffa6c8e68359ed8e53973df6d8.jpg",
+          "titlebackground": "https://images.wallpapersden.com/image/download/new-like-a-dragon-gaiden-gaming_bmZtZmeUmZqaraWkpJRobWllrWdma2U.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon: Infinite Wealth",
+          "titleimage": "Yakuza_8",
+          "titleicon": "https://assets-prd.ignimgs.com/2024/01/04/likedragon-1704407363968.jpg",
+          "titlebackground": "https://images7.alphacoders.com/140/thumb-1920-1405406.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon: Pirate Yakuza in Hawaii",
+          "titleimage": "Yakuza_8_point_5",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f56d62b3158538d4001788f9d01e240b.png",
+          "titlebackground": "https://cdn.sega.co.uk/mhc-sega/public/content/media/images/raster/ladpyih_hero.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon: Pirate Yakuza in Hawaii Demo",
+          "titleimage": "Yakuza_8_point_5",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f56d62b3158538d4001788f9d01e240b.png",
+          "titlebackground": "https://cdn.sega.co.uk/mhc-sega/public/content/media/images/raster/ladpyih_hero.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon: Ishin!",
+          "titleimage": "LaD_Ishin",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1c0aaa1f6a636c0cc81ff26b821acbc7.jpg",
+          "titlebackground": "https://pbs.twimg.com/media/Fcp2tvfX0AEfLrV.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Like a Dragon: Ishin! Combat Demo",
+          "titleimage": "LaD_Ishin_CD",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1c0aaa1f6a636c0cc81ff26b821acbc7.jpg",
+          "titlebackground": "https://pbs.twimg.com/media/Fcp2tvfX0AEfLrV.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Judgment",
+          "titleimage": "Judgment",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee5c8fdd90f1d960bcb2fa94d83fe461.png",
+          "titlebackground": "https://images.wallpapersden.com/image/download/judgment-4k-gaming_bWtpZmeUmZqaraWkpJRobWllrWdma2U.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Lost Judgment",
+          "titleimage": "Lost_Judgment",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/2385c6e3460963b4656737f8cd4b43cd.png",
+          "titlebackground": "https://wallpaper.forfun.com/fetch/64/64cace6790f0c3ed68ef63bbe981d9f1.jpeg",
+          "type": 1
+        },
+        {
           "titlename": "Minecraft",
           "titleimage": "minecraft_bedrock",
           "titleicon": "https://cdn2.steamgriddb.com/grid/9713fc04477ccf52eb7e03f626985ec2.png",
@@ -882,8 +1015,8 @@
         {
           "titlename": "PUBG: BATTLEGROUNDS",
           "titleimage": "pubg",
-          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202312/1402/ada609849edb9800c5d7edcbdb8d5d871a1122e0d0af57c1.png",
-          "titlebackground": "https://i2.wp.com/www.gamerfocus.co/wp-content/uploads/2021/08/pubg_battlegrounds_2.jpg?resize=740%2C471&ssl=1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ce373f7039cec2f340c3cc79424f1fca.png",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/03/Wire_Hero_Image_9th-Anniversary_Main-Key-Visual-a7bd25b008dd493715fa.jpg",
           "type": 1
         },
         {
@@ -1388,6 +1521,13 @@
           "titleimage": "persona5_royal",
           "titleicon": "https://assets1.ignimgs.com/2020/02/14/persona-5-royal---button-fin-1581716582492.jpg",
           "titlebackground": "https://assets.xboxservices.com/assets/b8/2b/b82bf999-f98f-4702-8254-23b79fbcd89f.jpg?n=Persona-5-Royal_GLP-Page-Hero-1084_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Persona 5 Tactica",
+          "titleimage": "persona5_tactica",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/47ce171bd402ba62107de9e9007b193d.png",
+          "titlebackground": "https://assets.nintendo.com/image/upload/q_auto/f_auto/store/software/switch/70010000066005/82111f4c361948a56afa01658171015ef2ce31dd4bbf6963f7854f19254f6d0f",
           "type": 1
         },
         {
@@ -2448,6 +2588,13 @@
           "type": 1
         },
         {
+          "titlename": "Persona 4 Revival",
+          "titleimage": "p4revival",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/de20105faa14fe2ba82398b2cd2220bd.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/kiEs6F5tRcxXLRfhU4d9pW-750-80.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Metaphor: ReFantazio",
           "titleimage": "Metaphor_ReFantazio",
           "titleicon": "https://cdn2.steamgriddb.com/grid/48c69b6699d6ab73c14cbfb3b695d427.png",
@@ -2459,6 +2606,41 @@
           "titleimage": "SMTV_V",
           "titleicon": "https://cdn2.steamgriddb.com/grid/e31fe8378af2be87b38a723ab3555988.png",
           "titlebackground": "https://assets.nintendo.com/image/upload/c_fill,w_1200/q_auto:best/f_auto/dpr_2.0/ncom/software/switch/70010000064607/c57507f97fd6ab3371cab8bbb36bb88f4359e9ef75b93e70404db2e4825bb2a4",
+          "type": 1
+        },
+        {
+          "titlename": "Soul Hackers 2",
+          "titleimage": "Soul_Hackers_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cf599ef59f3c8c23cecc4808fca15ad1.jpg",
+          "titlebackground": "https://www.heypoorplayer.com/wp-content/uploads/2022/08/Soul-Hackers-2-Banner-2-scaled.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Virtua Fighter 2",
+          "titleimage": "Virtua_Fighter_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7a596bf1f5d8a668ebd3c6487b37b33a.png",
+          "titlebackground": "https://i1.wp.com/twistedbard.com/wp-content/uploads/2016/10/maxresdefault-3.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Virtua Fighter 5 Final Showdown",
+          "titleimage": "Virtua_Fighter_5_Final_Showdown",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d1451f682ba0beddf389626379ee45ff.jpg",
+          "titlebackground": "https://segaretro.org/images/b/b3/Virtua_Fighter_5_FS_NA_360_-_Title.png",
+          "type": 1
+        },
+        {
+          "titlename": "Virtua Fighter 5 R.E.V.O. World Stage",
+          "titleimage": "Virtua_Fighter_5_REVO",
+          "titleicon": "https://gamefaqs.gamespot.com/a/box/1/4/8/1121148_front.jpg",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/4smAVW6kZHkTc8VWke8eYm.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Virtua Fighter 5 R.E.V.O. World Stage - Demo",
+          "titleimage": "Virtua_Fighter_5_REVO_DEMO",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202602/1903/2de1dde593d6af50c87e554d5871671d60726ec227b85e53.png",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/4smAVW6kZHkTc8VWke8eYm.jpg",
           "type": 1
         },
         {
