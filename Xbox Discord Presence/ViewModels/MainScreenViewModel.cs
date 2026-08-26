@@ -14,6 +14,7 @@ using MahApps.Metro.Controls.Dialogs;
 using Xbox_Discord_Presence.Views;
 using Xbox_Discord_Presence.Stores;
 using Xbox_Discord_Presence.Helpers;
+using System.IO;
 
 namespace Xbox_Discord_Presence.ViewModels
 {
@@ -27,8 +28,8 @@ namespace Xbox_Discord_Presence.ViewModels
         private readonly ThemeStore _themeStore;
         private readonly SettingsHelper _settingsHelper;
 
-        private string? gamertag;
-        public string? Gamertag
+        private string gamertag;
+        public string Gamertag
         {
             get
             {
@@ -41,8 +42,8 @@ namespace Xbox_Discord_Presence.ViewModels
             }
         }
 
-        private string? apiKey;
-        public string? APIKey
+        private string apiKey;
+        public string APIKey
         {
             get
             {
@@ -55,17 +56,52 @@ namespace Xbox_Discord_Presence.ViewModels
             }
         }
 
+        private string additionalapiKey;
+        public string additionalAPIKey
+        {
+            get => additionalapiKey;
+            set
+            {
+                if (additionalapiKey != value)
+                {
+                    additionalapiKey = value;
+                    if (_userStore?.User != null)
+                        _userStore.User.additionalAPIKey = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+
         private bool isLimitedTo150;
         public bool IsLimitedTo150
         {
-            get
-            {
-                return isLimitedTo150;
-            }
+            get => isLimitedTo150;
             set
             {
-                isLimitedTo150 = value;
-                OnPropertyChanged(nameof(IsLimitedTo150));
+                if (isLimitedTo150 != value)
+                {
+                    isLimitedTo150 = value;
+                    OnPropertyChanged();
+                }
+            }
+        }
+
+        private bool startOnStartup;
+        public bool StartOnStartup
+        {
+            get => startOnStartup;
+            set
+            {
+                if (startOnStartup != value)
+                {
+                    startOnStartup = value;
+                    OnPropertyChanged();
+                    if (startOnStartup)
+                        Xbox_Discord_Presence.Helpers.StartupHelper.AddAppToStartup();
+                    else
+                        Xbox_Discord_Presence.Helpers.StartupHelper.RemoveAppFromStartup();
+                }
             }
         }
 
@@ -155,6 +191,7 @@ namespace Xbox_Discord_Presence.ViewModels
 
         public RelayCommand StartCommand { get; set; }
         public RelayCommand OnTextChanged { get; set; }
+        public RelayCommand OpenAdditionalOptionsCommand { get; set; }
         private bool IsLoading { get; set; }
 
         public MainScreenViewModel(NavigationStore navigationStore, DialogStore dialogStore, UserStore userStore, DeviceStore deviceStore, Logger logger, ThemeStore themeStore, SettingsHelper settingsHelper)
@@ -168,21 +205,33 @@ namespace Xbox_Discord_Presence.ViewModels
             _settingsHelper = settingsHelper;
             Gamertag = UserConfiguration.Default.Gamertag;
             APIKey = UserConfiguration.Default.API;
+            AvailableLanguages.Add("Spanish");
+            AvailableLanguages.Add("English");
+            SelectedLanguage = "English";
             if (UserConfiguration.Default.UseSettings)
             {
                 Gamertag = _settingsHelper.Settings.Gamertag;
                 APIKey = _settingsHelper.Settings.OXBLAPI;
-                SelectedLanguage = _settingsHelper.Settings.Language;
+                SelectedLanguage = _settingsHelper.Settings.Language ?? "English";
                 IsLimitedTo150 = _settingsHelper.Settings.RateLimit;
                 IsUsingSteamGridDB = _settingsHelper.Settings.IconMethod == 0;
                 IsUsingImagesAPI = _settingsHelper.Settings.IconMethod == 1;
             }
-            AvailableLanguages.Add("Spanish");
-            AvailableLanguages.Add("English");
             StartCommand = new RelayCommand(BeginProcess, CanExecuteStart);
             OnTextChanged = new RelayCommand(TextChanged);
+            OpenAdditionalOptionsCommand = new RelayCommand(OpenAdditionalOptions);
             _themeStore.ChangeColor("null");
             _settingsHelper.StartupRequested += OnStartupRequested;
+        }
+
+        private void OpenAdditionalOptions()
+        {
+            if (_userStore?.User != null)
+            {
+                IsLimitedTo150 = _userStore.User.IsLimitedTo150;
+            }
+            var window = new Xbox_Discord_Presence.Views.AdditionalOptionsWindow(this);
+            window.ShowDialog();
         }
 
         private void OnStartupRequested()
@@ -213,6 +262,7 @@ namespace Xbox_Discord_Presence.ViewModels
                 IsLimitedTo150 = IsLimitedTo150,
                 IsUsingSteamGridDB = IsUsingSteamGridDB,
                 Language = SelectedLanguage,
+                additionalAPIKey = additionalAPIKey,
                 IsUsingImagesAPI = IsUsingImagesAPI
             };
             await Task.Delay(1500);
