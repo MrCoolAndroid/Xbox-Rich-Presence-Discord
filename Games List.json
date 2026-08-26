@@ -59,6 +59,20 @@
           "type": 1
         },
         {
+          "titlename": "PRAGMATA Sketchbook - DEMO",
+          "titleimage": "PRAGMATA_SKETCHBOOK_DEMO",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fbb80248b9c6f3f3dbe69b5ee2ccb187.png",
+          "titlebackground": "https://images.hdqwalls.com/wallpapers/pragmata-2025-ip.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "PRAGMATA",
+          "titleimage": "PRAGMATA",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fbb80248b9c6f3f3dbe69b5ee2ccb187.png",
+          "titlebackground": "https://images.hdqwalls.com/wallpapers/pragmata-2025-ip.jpg",
+          "type": 1
+        },
+        {
           "titlename": "2XKO",
           "titleimage": "2XKO",
           "titleicon": "https://cdn2.steamgriddb.com/grid/beafee2a621381a37675af7da2d2c065.png",
@@ -287,6 +301,160 @@
           "titleimage": "Silent_Hill_HD_Collection",
           "titleicon": "https://cdn2.steamgriddb.com/grid/bf881d4611a2941ecbf549a41e5a8905.png",
           "titlebackground": "https://img.gg.deals/e1/cb/139be1136c8fae349319b8efb552f2c1969b_1232xr706_Q100.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SILENT HILL 2",
+          "titleimage": "SH2_REMAKE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/14f6d3941aa04b428ad8e437b0187592.png",
+          "titlebackground": "https://images3.alphacoders.com/128/thumb-1920-1282373.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SILENT HILL f",
+          "titleimage": "SH_f",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c449a5f3a920a90522f2c50c660d4832.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp15277567.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "SILENT HILL: Townfall",
+          "titleimage": "SH_Townfall",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c9baf4ec34c31d5f4c1b37a3abb0adec.png",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/af7dfb2d-8cc1-45ab-9bab-6b0d0c655e58/dm7zx96-1043e7f2-6ed1-4afc-b534-c4d5b89c825f.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7InBhdGgiOiIvZi9hZjdkZmIyZC04Y2MxLTQ1YWItOWJhYi02YjBkMGM2NTVlNTgvZG03eng5Ni0xMDQzZTdmMi02ZWQxLTRhZmMtYjUzNC1jNGQ1Yjg5YzgyNWYuanBnIn1dXSwiYXVkIjpbInVybjpzZXJ2aWNlOmZpbGUuZG93bmxvYWQiXX0.KiL3ingyAdRo3Rd2NxKD41Dkk5VlisRVDAuUmzeYfio",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL 3 for Xbox",
+          "titleimage": "RE3_Remake_Xbox",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee6821af402028a34f11a0d2abb57d20.png",
+          "titlebackground": "https://www.videogameschronicle.com/files/2020/03/xytj0c6i2g441-e1585580287865.png",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL 3 for Windows",
+          "titleimage": "RE3_Remake_Windows",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee6821af402028a34f11a0d2abb57d20.png",
+          "titlebackground": "https://www.videogameschronicle.com/files/2020/03/xytj0c6i2g441-e1585580287865.png",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL 2",
+          "titleimage": "RE2_Remake",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/757d29aeeb3c93990200ecea3c26e7d9.png",
+          "titlebackground": "https://cdn.wccftech.com/wp-content/uploads/2018/08/Resident-Evil-2-Remake-Claire-e1547904332208-scaled.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL 7 biohazard",
+          "titleimage": "RE7_biohazard",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9bf62b61d02032c74997b1b26bf72fe7.png",
+          "titlebackground": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13064901/RE7_dinner_keyart.0.0.1485129641.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil 7 Teaser: Beginning Hour",
+          "titleimage": "RE7_biohazard_Teaser",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8e68b79faaa2f8ce6757fbcc8b7c3448.png",
+          "titlebackground": "https://static0.polygonimages.com/wordpress/wp-content/uploads/chorus/uploads/chorus_asset/file/13064901/RE7_dinner_keyart.0.0.1485129641.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil 4",
+          "titleimage": "RE4_REMAKE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/66a5f020e93349d62a24aa3afb087e08.jpg",
+          "titlebackground": "https://gamespace.com/wp-content/uploads/2023/03/Resident-Evil-4-Remake-PC-Review.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "resident evil 4 (2005)",
+          "titleimage": "RE4_OG",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/662fc815b447f0f5901f9bba990ce021.png",
+          "titlebackground": "https://images3.alphacoders.com/594/thumb-1920-594233.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL CODE: Veronica X",
+          "titleimage": "RECVX",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/99b93b9b7d5c321a93ff060edc306376.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp9254653.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Veronica",
+          "titleimage": "RECV_REMAKE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/d5b9c9b9800010a79f9ef3b4daccce3d.jpg",
+          "titlebackground": "https://shared.akamai.steamstatic.com/store_item_assets/steam/apps/4824610/5f574a15cb682397b7a03ff06a09969e65201c9d/ss_5f574a15cb682397b7a03ff06a09969e65201c9d.1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil",
+          "titleimage": "RE1_REMAKE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6eeac247856cdf274f0bcb330259c156.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp12013483.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil 0",
+          "titleimage": "RE_0",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ba8c34d3b274d8e699289f0fcd0fae1e.png",
+          "titlebackground": "https://images5.alphacoders.com/671/thumb-1920-671886.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil 5",
+          "titleimage": "RE_5",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ddc39666e97dd0f4351387573a8e521c.jpg",
+          "titlebackground": "https://assetsio.gnwcdn.com/Resi-5.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil 6",
+          "titleimage": "RE_6",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6cffca412f787e9655972f7681dbb77d.png",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/236080/ss_6a11488f7da548dcd8c79126cbf7a564a354b4e7.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Revelations",
+          "titleimage": "RE_REV_1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/58eb1ca11f63894ff41eb2a5f5a00773.jpg",
+          "titlebackground": "https://shared.fastly.steamstatic.com/store_item_assets/steam/apps/222480/ss_fd5cce21ff888076c2fae31ffa5b2b35ab166dc9.1920x1080.jpg?t=1769125357",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Revelations 2",
+          "titleimage": "RE_REV_2",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bdc3b2167c4bab75e0f1bf58faab9e22.png",
+          "titlebackground": "https://assets2.ignimgs.com/2015/03/19/rer20319151600jpg-990f80.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Village",
+          "titleimage": "RE_8",
+          "titleicon": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRl5IWo9q8udFWVkPxhSAvZQkoLOuUfd1I5_Oet1HOgKU43fodrcvmWkog&s=10",
+          "titlebackground": "https://cdn.mos.cms.futurecdn.net/zVBKKaVz8rdCGRM7b46voA.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Requiem",
+          "titleimage": "RE_9",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ee44846d67dbdbddd9836eefbf62fa3c.jpg",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/2026/02/Hero-80052860810acf336f01.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Resident Evil Operation Raccoon City",
+          "titleimage": "RE_ORC",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/153482a4aaa43651b5fee97435ae3445.jpg",
+          "titlebackground": "https://www.gamewallpapers.com/wallpapers_slechte_compressie/01wallpapers/wallpaper_resident_evil_operation_raccoon_city_01_1920x1080.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "RESIDENT EVIL RESISTANCE",
+          "titleimage": "RER",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9de502612561c4755182a3741902d6d0.jpg",
+          "titlebackground": "https://sm.ign.com/t/ign_nordic/review/r/resident-e/resident-evil-resistance-review_p56t.1200.jpg",
           "type": 1
         },
         {
