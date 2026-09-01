@@ -663,7 +663,7 @@
         {
           "titlename": "Yakuza 3 Remastered",
           "titleimage": "Yakuza_3",
-          "titleicon": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgYLbgKFmExcNzsryDcOZhTeKk4MB2ymz9DuKX72lcZ_mjmTt_NPORbtNsACXe1FGcGW35OvrI3S_dKRiBF1AqGW0VS6DpVBWJy5WKUgEsiPykTktpEvCRYPxFRCZeD7eprFqSs1p-2KPDZDz2HLH4YBpaOUuMx4ycuUFLlP7_jdQkGIAr3TzO6GxvoNcf9/s1024/741780_front.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cc5099363260ba2873896b9577ffe9b1.png",
           "titlebackground": "https://images5.alphacoders.com/124/thumb-1920-1248605.jpg",
           "type": 1
         },
@@ -931,7 +931,7 @@
         {
           "titlename": "Borderlands: The Pre-Sequel",
           "titleimage": "borderlands_presequel",
-          "titleicon": "https://www.gearboxsoftware.com/wp-content/uploads/2014/12/840070cd5a4f15581f6e1dcdedd5fa48c3f1abd7.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/46bf7091ade9f83f47d621afcae33914.jpg",
           "titlebackground": "https://wallpapercave.com/wp/wp4198446.jpg",
           "type": 1
         },
@@ -940,6 +940,34 @@
           "titleimage": "borderlands2",
           "titleicon": "https://s01.riotpixels.net/data/60/5c/605c09ad-01eb-4324-a2c9-82013d1f90c9.jpg/cover.borderlands-2.1024x1024.2014-04-24.24.jpg",
           "titlebackground": "https://wallpapercave.com/wp/wp3195607.png",
+          "type": 1
+        },
+        {
+          "titlename": "Borderlands 3",
+          "titleimage": "borderlands3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1ecce3079169f13f52ca1e8e698c2ef5.jpg",
+          "titlebackground": "https://i.pinimg.com/736x/d9/b3/9e/d9b39e0819cabfbbe894b81b01425d56.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Borderlands 4",
+          "titleimage": "borderlands4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f1f07a94e13f1ddf9f98aecab0b7949a.jpg",
+          "titlebackground": "https://wallpapercave.com/wp/wp15745189.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Tales from the Borderlands",
+          "titleimage": "TftB",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ca5711c3b44536e2de534bf86d742fba.jpg",
+          "titlebackground": "https://i.imgur.com/m8YJWx7.jpeg",
+          "type": 1
+        },
+        {
+          "titlename": "New Tales from the Borderlands",
+          "titleimage": "NTftB",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/390a7ce4f46c428ad14544fc2a4196fc.png",
+          "titlebackground": "https://images6.alphacoders.com/126/thumb-1920-1266504.jpg",
           "type": 1
         },
         {
@@ -973,7 +1001,7 @@
         {
           "titlename": "Superliminal",
           "titleimage": "superliminal",
-          "titleicon": "https://www.mobygames.com/images/covers/l/670660-superliminal-playstation-4-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/ba4c9d41e1d28a6d43143de56c2074f7.png",
           "titlebackground": "https://www.nintendo.com/content/dam/noa/en_US/games/switch/s/superliminal-switch/screenshot-gallery/superliminal-switch-screenshot01.jpg",
           "type": 1
         },
@@ -1505,7 +1533,7 @@
         {
           "titlename": "Warframe",
           "titleimage": "warframe",
-          "titleicon": "https://www.mobygames.com/images/covers/l/700400-warframe-playstation-5-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b49abed4deacc76ce59f5ce9173acece.jpg",
           "titlebackground": "https://i.pinimg.com/originals/8f/45/b0/8f45b0cae6740c4f8e1581de34fa613b.jpg",
           "type": 1
         },
@@ -1533,7 +1561,7 @@
         {
           "titlename": "Modern Warfare 3",
           "titleimage": "cod_mw3",
-          "titleicon": "https://www.teahub.io/photos/full/122-1223188_call-of-duty-modern-warfare.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5e6d342c2d5e35f55898cd03ba902c25.jpg",
           "titlebackground": "https://www.kawerna.pl/wp-content/uploads/2020/04/remastered-cod2.jpg",
           "type": 1
         },
@@ -1596,14 +1624,14 @@
         {
           "titlename": "Kinect Sports: Season Two",
           "titleimage": "ks_season2",
-          "titleicon": "https://image.torob.com/base/images/9v/55/9v55RkftvWPhSpul.jpg",
+          "titleicon": "https://assets-prd.ignimgs.com/2022/03/14/kinectsports-1647287133102.jpg",
           "titlebackground": "https://www.mobygames.com/images/promo/original/1478557560-1581798436.jpg",
           "type": 1
         },
         {
           "titlename": "NEED FOR SPEED MOST WANTED",
           "titleimage": "nfs_mw2012",
-          "titleicon": "https://www.mobygames.com/images/covers/l/297365-need-for-speed-most-wanted-ps-vita-front-cover.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/eaa34279de6b20cc33e12bb150f0f32e.jpg",
           "titlebackground": "https://cdn.mcr.ea.com/3/images/c8364ab9-9444-4eb4-ba46-158dd67b7594/1587971735-0x0-0-0.jpg",
           "type": 1
         },
