@@ -731,6 +731,20 @@
           "type": 1
         },
         {
+          "titlename": "DJMAX RESPECT V",
+          "titleimage": "DJMAX_RESPECT_V",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3abad52adffb24bc7df8a5d79d076184.png",
+          "titlebackground": "https://images.launchbox-app.com/c3cacd50-abdd-4197-88fd-3885459d9b4d.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "UNBEATABLE",
+          "titleimage": "UNBEATABLE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/40fc375557d24cdc994771fdcea4774c.png",
+          "titlebackground": "https://d1lss44hh2trtw.cloudfront.net/assets/article/2025/12/08/unbeatable-review_feature.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Castlevania: SOTN",
           "titleimage": "Castlevania_SOTN",
           "titleicon": "https://cdn2.steamgriddb.com/icon_thumb/c23497bd62a8f8a0981fdc9cbd3c30d9.png",
@@ -1160,6 +1174,13 @@
           "type": 1
         },
         {
+          "titlename": "Tiny Tina's Wonderlands",
+          "titleimage": "Tiny_Tinas_Wonderlands",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/c37cea4a7c8928a9a72f7288e56ced9a.png",
+          "titlebackground": "https://images4.alphacoders.com/121/thumb-1920-1216745.jpg",
+          "type": 1
+        },
+        {
           "titlename": "COD: Advanced Warfare",
           "titleimage": "cod_aw",
           "titleicon": "https://wepcgamer.com/wp-content/uploads/2021/10/Call-of-Duty-Ghosts-PC-Version-Full-Game-Setup-Free-Download.jpeg-1-1024x1024.webp",
@@ -1342,9 +1363,16 @@
           "type": 1
         },
         {
-          "titlename": "Battlefield",
-          "titleimage": "battlefield_y_redsec",
+          "titlename": "Battlefield 6",
+          "titleimage": "battlefield_6",
           "titleicon": "https://cdn2.steamgriddb.com/grid/d84b48a9b46983c717306735294a3e4d.png",
+          "titlebackground": "https://static.wikia.nocookie.net/battlefield/images/7/7f/Battlefield-6-season-4-keyart.jpg/revision/latest/scale-to-width-down/1200?cb=20260714224814",
+          "type": 1
+        },
+        {
+          "titlename": "Battlefield REDSEC",
+          "titleimage": "Battlefield_REDSEC",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202510/2716/5599acd4df8baec242c78b32db34c9cedd4e9580a55da089.png",
           "titlebackground": "https://static.wikia.nocookie.net/battlefield/images/7/7f/Battlefield-6-season-4-keyart.jpg/revision/latest/scale-to-width-down/1200?cb=20260714224814",
           "type": 1
         },
