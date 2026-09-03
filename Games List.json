@@ -703,6 +703,13 @@
           "type": 1
         },
         {
+          "titlename": "FINAL FANTASY RESONANCE DEMO",
+          "titleimage": "FF_RESONANCE_DEMO",
+          "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/d6ab523de867166ab90184745acbbceaec711b04601d04c5.png",
+          "titlebackground": "https://i0.wp.com/playday.one/wp-content/uploads/2026/06/ffresonance-key-no-logo-scaled.jpeg",
+          "type": 1
+        },
+        {
           "titlename": "STRANGER OF PARADISE FINAL FANTASY ORIGIN",
           "titleimage": "SoP_FF_O",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/989cf79d37b39ba924c0f3f5968816ae6e8077afe72e3e1b.png",
