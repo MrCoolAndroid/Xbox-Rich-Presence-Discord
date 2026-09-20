@@ -69,6 +69,7 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -333,7 +334,6 @@ If you're not seeing any image while playing your game or you need help with any
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
 | Kinect Sports: Season Two | [Image link](https://assets-prd.ignimgs.com/2022/03/14/kinectsports-1647287133102.jpg) | ✔ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://cdn2.steamgriddb.com/grid/eaa34279de6b20cc33e12bb150f0f32e.jpg) | ✔ |
-| Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
 | Dead Space 3 | [Image link](https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg) | ✔ |
 | Dead Space 2 | [Image link](https://cdn2.steamgriddb.com/grid/db9479550af49e4214af583bf0816551.png) | ✔ |
