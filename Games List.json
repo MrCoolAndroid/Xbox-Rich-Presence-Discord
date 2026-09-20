@@ -724,6 +724,34 @@
           "type": 1
         },
         {
+          "titlename": "NieR:Automata BECOME AS GODS Edition",
+          "titleimage": "NieR_Automata",
+          "titleicon": "https://img.xboxachievements.com/images/2018/06/26/icon/73185a0e538e9fb9e0c8f5d8366bdf79-l.png",
+          "titlebackground": "https://images5.alphacoders.com/920/thumb-1920-920085.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NIER",
+          "titleimage": "NIER",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/5646a63e23f4667a11de6134120c5060.png",
+          "titlebackground": "https://withaterriblefate.com/wp-content/uploads/2015/06/nier.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "NieR Replicant ver.1.22474487139...",
+          "titleimage": "NieRReplicant",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/e98116e8bdf418f44cf7492e3a765768.png",
+          "titlebackground": "https://bgeek.eu/wp-content/uploads/2021/04/Nier-Reincarnation-Replicant-scaled-1.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "No More Heroes 3",
+          "titleimage": "NMH3",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fa4c76a1b029c0b48082787bdc2bcff8.png",
+          "titlebackground": "https://images7.alphacoders.com/127/1278320.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Just Dance Free Experience",
           "titleimage": "JDFE",
           "titleicon": "https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png",
