@@ -69,6 +69,12 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
+| NieR:Automata BECOME AS GODS Edition | [Image link](https://img.xboxachievements.com/images/2018/06/26/icon/73185a0e538e9fb9e0c8f5d8366bdf79-l.png) | ❌ |
+| Gears of War | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears1.png) | ❌ |
+| Gears of War 2 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears2.png) | ❌ |
+| Gears of War: Judgment | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Judgment.png) | ❌ |
+| Gears of War: Ultimate Edition | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Ultimate%20Edition.png) | ❌ |
+| Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ❌ |
 | Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
@@ -173,6 +179,9 @@ If you're not seeing any image while playing your game or you need help with any
 | FINAL FANTASY RESONANCE DEMO | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/d6ab523de867166ab90184745acbbceaec711b04601d04c5.png) | ✔ |
 | STRANGER OF PARADISE FINAL FANTASY ORIGIN | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/989cf79d37b39ba924c0f3f5968816ae6e8077afe72e3e1b.png) | ✔ |
 | STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202203/0202/wsQ1bDHAFqsFUQRg482jbl0r.png) | ✔ |
+| NIER | [Image link](https://cdn2.steamgriddb.com/grid/5646a63e23f4667a11de6134120c5060.png) | ✔ |
+| NieR Replicant ver.1.22474487139... | [Image link](https://cdn2.steamgriddb.com/grid/e98116e8bdf418f44cf7492e3a765768.png) | ✔ |
+| No More Heroes 3 | [Image link](https://cdn2.steamgriddb.com/grid/fa4c76a1b029c0b48082787bdc2bcff8.png) | ✔ |
 | Just Dance Free Experience | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png) | ✔ |
 | Just Dance | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202509/1518/b261aecaf55267fbba4c3fff32865284c7bd3ce1809219b2.png) | ✔ |
 | DJMAX RESPECT V | [Image link](https://cdn2.steamgriddb.com/grid/3abad52adffb24bc7df8a5d79d076184.png) | ✔ |
@@ -308,12 +317,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: Vanguard | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
 | Call of Duty: Vanguard - Xbox Series X\|S | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
 | Cyberpunk 2077 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png) | ✔ |
-| Gears of War | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears1.png) | ✔ |
-| Gears of War 2 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears2.png) | ✔ |
 | Gears of War 3 | [Image link](https://cdn2.steamgriddb.com/grid/91deaef164356d6d62478eceb9afaa6b.png) | ✔ |
-| Gears of War: Judgment | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Judgment.png) | ✔ |
-| Gears of War: Ultimate Edition | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Ultimate%20Edition.png) | ✔ |
-| Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ✔ |
 | Gears 5 | [Image link](https://cdn2.steamgriddb.com/grid/dbbfa43eef839542428b19391b87eb74.png) | ✔ |
 | Gears of War: Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/327ad38c367ff613e62653f9ccce322e.jpg) | ✔ |
 | Gears of War: E-Day | [Image link](https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg) | ✔ |
