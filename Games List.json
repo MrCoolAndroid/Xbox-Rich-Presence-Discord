@@ -283,6 +283,13 @@
           "type": 1
         },
         {
+          "titlename": "SIGNALIS",
+          "titleimage": "SIGNALIS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/25f2010ea3dc4c8287b687e1bc8f1911.png",
+          "titlebackground": "https://images8.alphacoders.com/128/1285341.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Silent Hill Homecoming",
           "titleimage": "Silent_Hill_Homecoming",
           "titleicon": "https://cdn2.steamgriddb.com/grid/591e4177925d047ddd7fcc018f825a56.jpg",
@@ -726,7 +733,7 @@
         {
           "titlename": "NieR:Automata BECOME AS GODS Edition",
           "titleimage": "NieR_Automata",
-          "titleicon": "https://img.xboxachievements.com/images/2018/06/26/icon/73185a0e538e9fb9e0c8f5d8366bdf79-l.png",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/6451b254caec5ca57933886e61c30a3d.png",
           "titlebackground": "https://images5.alphacoders.com/920/thumb-1920-920085.jpg",
           "type": 1
         },
@@ -1888,9 +1895,16 @@
           "type": 1
         },
         {
-          "titlename": "Terraria \u2013 Xbox 360 Edition",
+          "titlename": "Terraria - Xbox 360 Edition",
           "titleimage": "terraria_x360",
-          "titleicon": "https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bbbcc91f3c7288fd9233caf509fc4189.jpg",
+          "titlebackground": "https://i.redd.it/ej45mxbs1uq61.png",
+          "type": 1
+        },
+        {
+          "titlename": "Terraria",
+          "titleimage": "terraria_xb1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bbbcc91f3c7288fd9233caf509fc4189.jpg",
           "titlebackground": "https://i.redd.it/ej45mxbs1uq61.png",
           "type": 1
         },
