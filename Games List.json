@@ -3001,10 +3001,108 @@
           "type": 1
         },
         {
+          "titlename": "Devil May Cry HD Collection",
+          "titleimage": "DMC_HD_Collection",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/54142cb001780325387591434b57f185.png",
+          "titlebackground": "https://image.api.playstation.com/gs2-sec/appkgo/prod/CUSA09407_00/2/i_54c492d14885efe9f117f0b182d3a22deee064e6ffc7be1183baa979dabc7b5f/i/pic0.png",
+          "type": 1
+        },
+        {
+          "titlename": "Devil May Cry 4",
+          "titleimage": "DMC4",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/bf7de597c2f7fb917200635c3ffae2fa.png",
+          "titlebackground": "https://images.alphacoders.com/586/thumb-1920-586286.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Devil May Cry 4 Special Edition",
+          "titleimage": "DMC4_SE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3f71986844e0d69dd7b205cae2cb3fb1.png",
+          "titlebackground": "https://cdn.wallpapersafari.com/27/59/ED4htT.jpg",
+          "type": 1
+        },
+        {
           "titlename": "Devil May Cry 5",
           "titleimage": "dmc5",
           "titleicon": "https://assets1.ignimgs.com/2019/03/04/devil-may-cry-5---button-fin-1551739966394.jpg",
           "titlebackground": "https://www.guidingtech.com/wp-content/uploads/1_devil-may-cry-5-wallpapers-4k-full-hd-lead-image_4d470f76dc99e18ad75087b1b8410ea9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Devil May Cry 5 Special Edition",
+          "titleimage": "DMC5_SE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/60a5157727e6afc41dc7740797faf205.png",
+          "titlebackground": "https://4kwallpapers.com/images/walls/thumbs_3t/13856.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dark Souls",
+          "titleimage": "Dark_Souls_1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b7f0cb39efd013878b363866c7f9f7d3.png",
+          "titlebackground": "https://static.bandainamcoent.eu/high/dark-souls/dark-souls-1/00-page-setup/ds1_game-thumbnail.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DARK SOULS: REMASTERED",
+          "titleimage": "Dark_Souls_1_Remastered",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/1e1caab15bbcf11f9dca3b928fcd76f0.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp3756449.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Dark Souls II",
+          "titleimage": "Dark_Souls_II",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/321b6c3178ed303721f43f6ed6cd27a3.png",
+          "titlebackground": "https://r4.wallpaperflare.com/wallpaper/939/759/677/dark-souls-dark-souls-ii-video-games-wallpaper-c9d0480df13a7d9b265728bfa0b1565d.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DARK SOULS II: Scholar of the First Sin",
+          "titleimage": "DARK_SOULS_II_SOTFS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/8f8299102e705503451db8ba953873b8.png",
+          "titlebackground": "https://xboxwire.thesourcemediaassets.com/sites/2/Nij-Uf0NqwQ.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "DARK SOULS III",
+          "titleimage": "DARK_SOULS_III",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/a46bb8dfc4117327157c182d283e9c58.jpg",
+          "titlebackground": "https://static.bandainamcoent.eu/high/dark-souls/dark-souls-3/00-page-setup/ds3_game-thumbnail.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "ELDEN RING",
+          "titleimage": "ELDEN_RING",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/b677845905ccd63299c86ae6bfcff423.jpg",
+          "titlebackground": "https://image.api.playstation.com/vulcan/ap/rnd/202110/2000/YMUoJUYNX0xWk6eTKuZLr5Iw.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "ELDEN RING NIGHTREIGN",
+          "titleimage": "ELDEN_RING_NIGHTREIGN",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/55dc83cf6cdd815f97842c9d8cad4434.png",
+          "titlebackground": "https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/i/d96bb958-4e6c-4ce0-9447-fbe226fbbecf/dizmxez-50ffb0b7-6f0b-4735-9183-6b67a8379dfb.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "ARMORED CORE VI FIRES OF RUBICON",
+          "titleimage": "ARMORED_CORE_VI",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/691127ec5143749d054f9ba8b2098877.png",
+          "titlebackground": "https://static.bandainamcoent.eu/high/armored-core/armored-core-vi-fires-of-rubicon/00-page-setup/acvifor-header-mobile-new.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Sekiro: Shadows Die Twice",
+          "titleimage": "SEKIRO",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202010/2702/UyuYShCSlbt2LBZgN9TUtkMz.png?$100px$",
+          "titlebackground": "https://4kwallpapers.com/images/walls/thumbs_3t/14176.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Sekiro: Shadows Die Twice - GOTY Edition",
+          "titleimage": "SEKIRO_GOTY",
+          "titleicon": "https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png",
+          "titlebackground": "https://4kwallpapers.com/images/walls/thumbs_3t/14176.jpg",
           "type": 1
         },
         {
