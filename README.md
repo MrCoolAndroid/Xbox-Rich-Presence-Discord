@@ -69,8 +69,11 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| NieR:Automata BECOME AS GODS Edition | [Image link](https://img.xboxachievements.com/images/2018/06/26/icon/73185a0e538e9fb9e0c8f5d8366bdf79-l.png) | ❌ |
-| Terraria – Xbox 360 Edition | [Image link](https://www.gamereactor.eu/media/28/terrariaparaxbox_742841b.jpg) | ❌ |
+| Gears of War | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears1.png) | ❌ |
+| Gears of War 2 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears2.png) | ❌ |
+| Gears of War: Judgment | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Judgment.png) | ❌ |
+| Gears of War: Ultimate Edition | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Ultimate%20Edition.png) | ❌ |
+| Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -111,6 +114,7 @@ If you're not seeing any image while playing your game or you need help with any
 | BlazBlue Continuum Shift | [Image link](https://assets-prd.ignimgs.com/2022/03/03/blazblueextend-1646342239729.jpg?width=1024) | ✔ |
 | Rock Of Ages | [Image link](https://assets-prd.ignimgs.com/2022/01/19/rock-of-ages-1-button-1642582677635.jpg?width=1024) | ✔ |
 | Persona 4 Arena | [Image link](https://assets-prd.ignimgs.com/2022/01/21/persona-4-arena-button-1642751368674.jpg) | ✔ |
+| SIGNALIS | [Image link](https://cdn2.steamgriddb.com/grid/25f2010ea3dc4c8287b687e1bc8f1911.png) | ✔ |
 | Silent Hill Homecoming | [Image link](https://cdn2.steamgriddb.com/grid/591e4177925d047ddd7fcc018f825a56.jpg) | ✔ |
 | Silent Hill: Downpour | [Image link](https://cdn2.steamgriddb.com/grid/16c2f163b036939d4178a21ade6283c4.png) | ✔ |
 | Silent Hill: HD Collection | [Image link](https://cdn2.steamgriddb.com/grid/bf881d4611a2941ecbf549a41e5a8905.png) | ✔ |
@@ -174,6 +178,7 @@ If you're not seeing any image while playing your game or you need help with any
 | FINAL FANTASY RESONANCE DEMO | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202604/2403/d6ab523de867166ab90184745acbbceaec711b04601d04c5.png) | ✔ |
 | STRANGER OF PARADISE FINAL FANTASY ORIGIN | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202303/1609/989cf79d37b39ba924c0f3f5968816ae6e8077afe72e3e1b.png) | ✔ |
 | STRANGER OF PARADISE FINAL FANTASY ORIGIN DEMO VERSION | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202203/0202/wsQ1bDHAFqsFUQRg482jbl0r.png) | ✔ |
+| NieR:Automata BECOME AS GODS Edition | [Image link](https://cdn2.steamgriddb.com/grid/6451b254caec5ca57933886e61c30a3d.png) | ✔ |
 | NIER | [Image link](https://cdn2.steamgriddb.com/grid/5646a63e23f4667a11de6134120c5060.png) | ✔ |
 | NieR Replicant ver.1.22474487139... | [Image link](https://cdn2.steamgriddb.com/grid/e98116e8bdf418f44cf7492e3a765768.png) | ✔ |
 | No More Heroes 3 | [Image link](https://cdn2.steamgriddb.com/grid/fa4c76a1b029c0b48082787bdc2bcff8.png) | ✔ |
@@ -312,12 +317,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Call of Duty: Vanguard | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
 | Call of Duty: Vanguard - Xbox Series X\|S | [Image link](https://media.vandal.net/m/105263/call-of-duty-vanguard-202111821165339_1.jpg) | ✔ |
 | Cyberpunk 2077 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202111/3013/cKZ4tKNFj9C00giTzYtH8PF1.png) | ✔ |
-| Gears of War | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears1.png) | ✔ |
-| Gears of War 2 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears2.png) | ✔ |
 | Gears of War 3 | [Image link](https://cdn2.steamgriddb.com/grid/91deaef164356d6d62478eceb9afaa6b.png) | ✔ |
-| Gears of War: Judgment | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Judgment.png) | ✔ |
-| Gears of War: Ultimate Edition | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Ultimate%20Edition.png) | ✔ |
-| Gears of War 4 | [Image link](http://lmk.tdgalea.co.uk/share/Photography/Gaming/Box%20Art/Gears%20of%20War/Gears4.png) | ✔ |
 | Gears 5 | [Image link](https://cdn2.steamgriddb.com/grid/dbbfa43eef839542428b19391b87eb74.png) | ✔ |
 | Gears of War: Reloaded | [Image link](https://cdn2.steamgriddb.com/grid/327ad38c367ff613e62653f9ccce322e.jpg) | ✔ |
 | Gears of War: E-Day | [Image link](https://assets-prd.ignimgs.com/2026/06/07/eday-1780856237669.jpg) | ✔ |
@@ -338,6 +338,8 @@ If you're not seeing any image while playing your game or you need help with any
 | Kinect Sports | [Image link](https://assets-prd.ignimgs.com/2022/02/07/kinectsports-sq-1644266059534.jpg) | ✔ |
 | Kinect Sports: Season Two | [Image link](https://assets-prd.ignimgs.com/2022/03/14/kinectsports-1647287133102.jpg) | ✔ |
 | NEED FOR SPEED MOST WANTED | [Image link](https://cdn2.steamgriddb.com/grid/eaa34279de6b20cc33e12bb150f0f32e.jpg) | ✔ |
+| Terraria - Xbox 360 Edition | [Image link](https://cdn2.steamgriddb.com/grid/bbbcc91f3c7288fd9233caf509fc4189.jpg) | ✔ |
+| Terraria | [Image link](https://cdn2.steamgriddb.com/grid/bbbcc91f3c7288fd9233caf509fc4189.jpg) | ✔ |
 | Call of Duty: Ghosts | [Image link](https://image.api.playstation.com/cdn/EP0002/CUSA00025_00/IUeXkREOFg6l0BCgYUe4DxCSlryK8iPT.png) | ✔ |
 | Dead Space 3 | [Image link](https://i.gadgets360cdn.com/products/large/460509-dead-space-3-ultimate-edition-playstation-3-front-cover-1000x1000-1656405233.jpeg) | ✔ |
 | Dead Space 2 | [Image link](https://cdn2.steamgriddb.com/grid/db9479550af49e4214af583bf0816551.png) | ✔ |
@@ -494,7 +496,21 @@ If you're not seeing any image while playing your game or you need help with any
 | DOOM 3 | [Image link](https://cdn2.steamgriddb.com/grid/e917c582a4c4b196c43e80feb52c05ac.png) | ✔ |
 | DOOM 3 BFG Edition | [Image link](https://cdn2.steamgriddb.com/grid/0d185edda159e971fac84cbc8ff26cc7.png) | ✔ |
 | DOOM + DOOM II | [Image link](https://cdn2.steamgriddb.com/grid/ea25dc16884c274e677a006c93b13994.jpg) | ✔ |
+| Devil May Cry HD Collection | [Image link](https://cdn2.steamgriddb.com/grid/54142cb001780325387591434b57f185.png) | ✔ |
+| Devil May Cry 4 | [Image link](https://cdn2.steamgriddb.com/grid/bf7de597c2f7fb917200635c3ffae2fa.png) | ✔ |
+| Devil May Cry 4 Special Edition | [Image link](https://cdn2.steamgriddb.com/grid/3f71986844e0d69dd7b205cae2cb3fb1.png) | ✔ |
 | Devil May Cry 5 | [Image link](https://assets1.ignimgs.com/2019/03/04/devil-may-cry-5---button-fin-1551739966394.jpg) | ✔ |
+| Devil May Cry 5 Special Edition | [Image link](https://cdn2.steamgriddb.com/grid/60a5157727e6afc41dc7740797faf205.png) | ✔ |
+| Dark Souls | [Image link](https://cdn2.steamgriddb.com/grid/b7f0cb39efd013878b363866c7f9f7d3.png) | ✔ |
+| DARK SOULS: REMASTERED | [Image link](https://cdn2.steamgriddb.com/grid/1e1caab15bbcf11f9dca3b928fcd76f0.png) | ✔ |
+| Dark Souls II | [Image link](https://cdn2.steamgriddb.com/grid/321b6c3178ed303721f43f6ed6cd27a3.png) | ✔ |
+| DARK SOULS II: Scholar of the First Sin | [Image link](https://cdn2.steamgriddb.com/grid/8f8299102e705503451db8ba953873b8.png) | ✔ |
+| DARK SOULS III | [Image link](https://cdn2.steamgriddb.com/grid/a46bb8dfc4117327157c182d283e9c58.jpg) | ✔ |
+| ELDEN RING | [Image link](https://cdn2.steamgriddb.com/grid/b677845905ccd63299c86ae6bfcff423.jpg) | ✔ |
+| ELDEN RING NIGHTREIGN | [Image link](https://cdn2.steamgriddb.com/grid/55dc83cf6cdd815f97842c9d8cad4434.png) | ✔ |
+| ARMORED CORE VI FIRES OF RUBICON | [Image link](https://cdn2.steamgriddb.com/grid/691127ec5143749d054f9ba8b2098877.png) | ✔ |
+| Sekiro: Shadows Die Twice | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202010/2702/UyuYShCSlbt2LBZgN9TUtkMz.png?$100px$) | ✔ |
+| Sekiro: Shadows Die Twice - GOTY Edition | [Image link](https://image.api.playstation.com/vulcan/img/rnd/202010/2723/knxU5uU5aKvQChKX5OvWtSGC.png) | ✔ |
 | DRAGON BALL XENOVERSE | [Image link](https://cdn2.steamgriddb.com/grid/ed645df163c420c0f2ae8b51a29dab6b.png) | ✔ |
 | Mirror's Edge Catalyst | [Image link](https://image.api.playstation.com/cdn/EP0006/CUSA01499_00/BlmZA1q0foctr8IIDE6LcSXiuYnWtSGS.png) | ✔ |
 | eFootball 2024 | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202311/0206/64c52a51a6c017c6d8600d1cc5e52d6780dedc905b1ee5ab.png) | ✔ |
