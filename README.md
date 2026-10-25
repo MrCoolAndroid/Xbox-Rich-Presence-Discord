@@ -69,7 +69,6 @@ If you're not seeing any image while playing your game or you need help with any
 
 | Game Title | Link | Status |
 | --- | --- | --- |
-| NINA GAIDEN 3: RE | [Image link](https://cdn2.steamgriddb.com/grid/63ff8c6cbeef23aa9927ca4c08f63f56.jpg) | ❌ |
 | Coral Island | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202310/3018/578c25e83d7fe754a625ae6910d84e4ce12d420f9771beb1.png) | ✔ |
 | DRAGON BALL: Sparking! ZERO | [Image link](https://media.vandal.net/m/13/136622/dragon-ball-sparking-zero-2024101110434740_1.jpg) | ✔ |
 | Test Drive Unlimited | [Image link](https://assets-prd.ignimgs.com/2023/12/23/tdu1-1703350705146.jpg) | ✔ |
@@ -370,6 +369,7 @@ If you're not seeing any image while playing your game or you need help with any
 | NINJA GAIDEN 2 Black | [Image link](https://cdn2.steamgriddb.com/grid/d3b366f8e76c756ca5272549fd19ab01.png) | ✔ |
 | NINJA GAIDEN Σ2 | [Image link](https://cdn2.steamgriddb.com/grid/5b1dba012d4bd95c54a07fa63445eceb.jpg) | ✔ |
 | Ninja Gaiden III | [Image link](https://cdn2.steamgriddb.com/grid/b64bae5500d62e73b669cd3ad863ee2d.png) | ✔ |
+| NINA GAIDEN 3: RE | [Image link](https://cdn2.steamgriddb.com/grid/63ff8c6cbeef23aa9927ca4c08f63f56.jpg) | ✔ |
 | NINA GAIDEN 3: Razor's Edge | [Image link](https://cdn2.steamgriddb.com/grid/f396731d83040949f8033cd9c40d56ea.jpg) | ✔ |
 | NINJA GAIDEN 4 | [Image link](https://cdn2.steamgriddb.com/grid/8b0cb989487fb88dea63d7697b4f9d28.jpg) | ✔ |
 | NINJA GAIDEN: Raebound | [Image link](https://assets-prd.ignimgs.com/2024/12/13/ragebound-1734068080498.jpg) | ✔ |
