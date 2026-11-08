@@ -261,7 +261,7 @@ If you're not seeing any image while playing your game or you need help with any
 | Spotify Xbox - Music and Podcasts | [Image link](https://is1-ssl.mzstatic.com/image/thumb/Purple126/v4/1f/85/04/1f85048c-e420-06fb-ec42-a1048fd3506b/AppIcon-0-0-1x_U007emarketing-0-6-0-0-85-220.png/1024x1024.jpg) | ✔ |
 | VLC UWP | [Image link](https://images-eds-ssl.xboxlive.com/image?url=4rt9.lXDC4H_93laV1_eHHFT949fUipzkiFOBH3fAiZZUCdYojwUyX2aTonS1aIwMrx6NUIsHfUHSLzjGJFxxiJK_HEPrjdesdyeQIKBd8CoiFrgY4r.ZkWqv.BA5Ada9hOspX.JXdTZc317jZzDuPJwizLoQfyhPuJ4J9LdU9k-&format=source) | ✔ |
 | Microsoft Edge | [Image link](https://cdn2.steamgriddb.com/grid/a3103498620c4e279cdbed83fb95b728.png) | ✔ |
-| VALORANT | [Image link](https://cdn2.steamgriddb.com/grid/af0aa72953e2c9642d7f8e305d917a52.png) | ✔ |
+| VALORANT | [Image link](https://cdn2.steamgriddb.com/grid/772d0b9b41697908538a83496f2925e7.png) | ✔ |
 | Genshin Impact | [Image link](https://cdn2.steamgriddb.com/grid/42de707e3e52a0b8345bbc985af0060b.png) | ✔ |
 | Zenless Zone Zero | [Image link](https://cdn2.steamgriddb.com/grid/9a312e8ee540ea13780981af9ee65646.png) | ✔ |
 | COD: Black Ops II | [Image link](http://s01.riotpixels.net/data/fd/25/fd25444d-d9a1-43b7-9a20-04644ee26432.jpg/cover.call-of-duty-black-ops-2.1024x1024.2014-04-24.133.jpg) | ✔ |
