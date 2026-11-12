@@ -1133,14 +1133,35 @@
         },
         {
           "titlename": "Grand Theft Auto V",
-          "titleimage": "gta_v",
+          "titleimage": "gta_v_SXS",
           "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
           "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
           "type": 1
         },
         {
+          "titlename": "Grand Theft Auto Online",
+          "titleimage": "gta_v_online",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/73f62377a5ca54fe993400cd922f7d61.jpg",
+          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto V (Xbox One)",
+          "titleimage": "gta_v_xb1",
+          "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
+          "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto VI",
+          "titleimage": "gta_vi",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/3319bd862662e4c69e43ad5cacefb9a6.png",
+          "titlebackground": "https://www.rockstargames.com/VI/_next/static/media/Jason_and_Lucia_Robbery_With_Logo_landscape.0sjdgaq91u2yn.jpg",
+          "type": 1
+        },
+        {
           "titlename": "GTA V",
-          "titleimage": "gta_v",
+          "titleimage": "gta_v_360",
           "titleicon": "https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png",
           "titlebackground": "https://as01.epimg.net/meristation/imagenes/2021/07/13/noticias/1626200223_339907_1626200490_sumario_normal.jpg",
           "type": 1
@@ -1150,6 +1171,34 @@
           "titleimage": "GTAIV",
           "titleicon": "https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg",
           "titlebackground": "https://store-images.s-microsoft.com/image/apps.59582.69304479265522151.5b8601c1-35b0-4bad-bcff-f51fb0ce43d8.89632bf2-fec7-4765-9d84-5d29d76afcb8",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto IV",
+          "titleimage": "GTA_IV",
+          "titleicon": "https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg",
+          "titlebackground": "https://store-images.s-microsoft.com/image/apps.59582.69304479265522151.5b8601c1-35b0-4bad-bcff-f51fb0ce43d8.89632bf2-fec7-4765-9d84-5d29d76afcb8",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto: Vice City – The Definitive Edition",
+          "titleimage": "GTA_VC_DE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cca762db962546b8d218490caa867e93.png",
+          "titlebackground": "---",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto: San Andreas – The Definitive Edition",
+          "titleimage": "GTA_SA_DE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7c91a1a18f90c3c0c1f5d080f8a95a78.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp10151632.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Grand Theft Auto III – The Definitive Edition",
+          "titleimage": "GTA_III_DE",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/cd5bbf03eebfe45f78ec41324738ef05.png",
+          "titlebackground": "https://wallpapercave.com/wp/wp10151632.jpg",
           "type": 1
         },
         {
