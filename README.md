@@ -230,8 +230,15 @@ If you're not seeing any image while playing your game or you need help with any
 | Back 4 Blood | [Image link](https://image.api.playstation.com/vulcan/ap/rnd/202011/1900/sSZEg1DFAUrfWsA7ltLwpCdu.png) | ✔ |
 | Minecraft: Story Mode - Season Two | [Image link](https://assets1.ignimgs.com/2017/08/03/minecraft-story-mode-season-2---button-1501797034951.jpg?width=1024) | ✔ |
 | Grand Theft Auto V | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png) | ✔ |
+| Grand Theft Auto Online | [Image link](https://cdn2.steamgriddb.com/grid/73f62377a5ca54fe993400cd922f7d61.jpg) | ✔ |
+| Grand Theft Auto V (Xbox One) | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png) | ✔ |
+| Grand Theft Auto VI | [Image link](https://cdn2.steamgriddb.com/grid/3319bd862662e4c69e43ad5cacefb9a6.png) | ✔ |
 | GTA V | [Image link](https://image.api.playstation.com/cdn/UP1004/CUSA00419_00/bTNSe7ok8eFVGeQByA5qSzBQoKAAY32R.png) | ✔ |
 | GTA IV | [Image link](https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg) | ✔ |
+| Grand Theft Auto IV | [Image link](https://www.fayerwayer.com/resizer/4gdSuTwZXtyIze2E34gKL8g45x8=/1024x1024/filters:format(jpg):quality(70)/cloudfront-us-east-1.images.arcpublishing.com/metroworldnews/OXERM3AVUBDQDLUGS7HLPGD3QM.jpg) | ✔ |
+| Grand Theft Auto: Vice City – The Definitive Edition | [Image link](https://cdn2.steamgriddb.com/grid/cca762db962546b8d218490caa867e93.png) | ✔ |
+| Grand Theft Auto: San Andreas – The Definitive Edition | [Image link](https://cdn2.steamgriddb.com/grid/7c91a1a18f90c3c0c1f5d080f8a95a78.png) | ✔ |
+| Grand Theft Auto III – The Definitive Edition | [Image link](https://cdn2.steamgriddb.com/grid/cd5bbf03eebfe45f78ec41324738ef05.png) | ✔ |
 | Forza Horizon 5 | [Image link](https://cdn2.steamgriddb.com/icon/981ee11c08e460dc540242ee105b5ced/32/512x512.png) | ✔ |
 | Halo Infinite | [Image link](https://cdn2.steamgriddb.com/grid/ad3613baccebc39f8d17615c108b34f2.png) | ✔ |
 | Borderlands | [Image link](https://media.vandal.net/m/71969/borderlands-edicion-juego-del-ano-201943163663_9.jpg) | ✔ |
