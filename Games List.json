@@ -2469,6 +2469,62 @@
           "type": 1
         },
         {
+          "titlename": "METRO 2033 Redux (XBOX One)",
+          "titleimage": "Metro_2033_Redux_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7402ff161b0a02dac38cf6bd80a93f4a.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/81mODrDF8fL.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "METRO 2033 Redux",
+          "titleimage": "Metro_2033_Redux_XBSXS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/7402ff161b0a02dac38cf6bd80a93f4a.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/81mODrDF8fL.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Metro 2033",
+          "titleimage": "Metro_2033_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/fd6c410fe151ccb2800af508f8057a36.jpg",
+          "titlebackground": "https://m.media-amazon.com/images/I/81mODrDF8fL.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "METRO Last Light Redux (XBOX One)",
+          "titleimage": "Metro_Last_Light_Refux_XB1",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/98409650a61cb015aff8e4e7abae140a.jpg",
+          "titlebackground": "https://www.cubed3.com/wp-content/uploads/2025/02/metro-last-light-redux-playstation-4-art-banner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Metro Last Light Redux",
+          "titleimage": "Metro_Last_Light_Redux_XBSXS",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/98409650a61cb015aff8e4e7abae140a.jpg",
+          "titlebackground": "https://www.cubed3.com/wp-content/uploads/2025/02/metro-last-light-redux-playstation-4-art-banner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "Metro: Last Light",
+          "titleimage": "Metro_Last_Light_360",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/f60356af2e52e8399641513fdb6c08c0.png",
+          "titlebackground": "https://www.cubed3.com/wp-content/uploads/2025/02/metro-last-light-redux-playstation-4-art-banner.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "METRO Exodus",
+          "titleimage": "Metro_Exodus",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/dcc6eb2145ef8a8f576cb97b62e79359.png",
+          "titlebackground": "www.deepsilver.com/media/gxhkepbj/metro_keyart_16-9.jpg",
+          "type": 1
+        },
+        {
+          "titlename": "METRO 2039",
+          "titleimage": "METRO_2039",
+          "titleicon": "https://cdn2.steamgriddb.com/grid/9eb818a4051bc5388c7d4a315cedd8a4.png",
+          "titlebackground": "https://www.deepsilver.com/media/pded2e1a/m2039_revealscreenshot_01_the_stranger_4k.jpg",
+          "type": 1
+        },
+        {
           "titlename": "ULTRA STREETFIGHTER IV",
           "titleimage": "USF4",
           "titleicon": "https://image.api.playstation.com/cdn/UP9012/CUSA01846_00/bfVn55KvgbaZp7GKHm6VkNoq6EiHqFjF.png",
